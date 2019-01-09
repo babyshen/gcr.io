@@ -1,3 +1,13 @@
+- kuops/kube-apiserver-s390x:v1.8.0-alpha.2
+- kuops/kube-apiserver-s390x:v1.6.8-beta.0
+- kuops/kube-apiserver-s390x:v1.7.1
+- kuops/kube-apiserver-s390x:v1.6.7
+- kuops/kube-apiserver-s390x:v1.6.9
+- kuops/kube-apiserver-s390x:v1.7.5
+- kuops/kube-apiserver-s390x:v1.6.8
+- kuops/kube-apiserver-s390x:v1.6.9-beta.0
+- kuops/kube-apiserver-s390x:v1.7.5-beta.0
+- kuops/kube-apiserver-s390x:v1.6.10-beta.0
 - kuops/kube-apiserver-s390x:v1.8.0
 - kuops/kube-apiserver-s390x:v1.6.11-beta.0
 - kuops/kube-apiserver-s390x:v1.7.6
