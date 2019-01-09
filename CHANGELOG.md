@@ -1,3 +1,17 @@
+- kuops/kube-apiserver:v1.8.10
+- kuops/kube-apiserver:v1.10.0-rc.1
+- kuops/kube-apiserver:v1.10.1-beta.0
+- kuops/kube-apiserver:v1.9.7-beta.0
+- kuops/kube-apiserver:v1.8.12
+- kuops/kube-apiserver:v1.10.1
+- kuops/kube-apiserver:v1.9.7
+- kuops/kube-apiserver:v1.10.2-beta.0
+- kuops/kube-apiserver:v1.8.12-beta.0
+- kuops/kube-apiserver:v1.8.11
+- kuops/kube-apiserver:v1.11.0-alpha.1
+- kuops/kube-apiserver:v1.10.2
+- kuops/kube-apiserver:v1.9.8-beta.0
+- kuops/kube-apiserver:v1.8.13-beta.0
 - kuops/kube-apiserver:v1.10.4-beta.0
 - kuops/kube-apiserver:v1.11.0-beta.0
 - kuops/kube-apiserver:v1.11.0-alpha.2
