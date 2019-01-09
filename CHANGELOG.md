@@ -1,3 +1,7 @@
+- kuops/cloud-controller-manager-s390x:v1.7.14
+- kuops/cloud-controller-manager-s390x:v1.10.0
+- kuops/cloud-controller-manager-s390x:v1.10.1-beta.0
+- kuops/cloud-controller-manager-s390x:v1.9.7-beta.0
 - kuops/cloud-controller-manager-s390x:v1.10.2-beta.0
 - kuops/cloud-controller-manager-s390x:v1.10.1
 - kuops/cloud-controller-manager-s390x:v1.8.11
