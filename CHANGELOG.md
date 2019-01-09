@@ -1,3 +1,16 @@
+- kuops/kube-apiserver-ppc64le:v1.3.7
+- kuops/kube-apiserver-ppc64le:v1.3.4-beta.0
+- kuops/kube-apiserver-ppc64le:v1.4.0-alpha.2
+- kuops/kube-apiserver-ppc64le:v1.3.7-beta.0
+- kuops/kube-apiserver-ppc64le:v1.3.5-beta.0
+- kuops/kube-apiserver-ppc64le:v1.3.5
+- kuops/kube-apiserver-ppc64le:v1.3.4
+- kuops/kube-apiserver-ppc64le:v1.3.6
+- kuops/kube-apiserver-ppc64le:v1.3.8-beta.0
+- kuops/kube-apiserver-ppc64le:v1.3.10
+- kuops/kube-apiserver-ppc64le:v1.6.0-alpha.1
+- kuops/kube-apiserver-ppc64le:v1.6.0-beta.2
+- kuops/kube-apiserver-ppc64le:v1.7.0-alpha.0
 - kuops/kube-apiserver-ppc64le:v1.6.0-rc.1
 - kuops/kube-apiserver-ppc64le:v1.6.1-beta.0
 - kuops/kube-apiserver-ppc64le:v1.6.0-beta.4
