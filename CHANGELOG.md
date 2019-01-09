@@ -1,3 +1,15 @@
+- kuops/kube-apiserver-arm:v1.5.0-beta.0
+- kuops/kube-apiserver-arm:v1.4.8-beta.0
+- kuops/kube-apiserver-arm:v1.5.0-beta.3
+- kuops/kube-apiserver-arm:v1.4.6
+- kuops/kube-apiserver-arm:v1.5.0
+- kuops/kube-apiserver-arm:v1.4.7-beta.0
+- kuops/kube-apiserver-arm:v1.5.0-beta.1
+- kuops/kube-apiserver-arm:v1.5.2
+- kuops/kube-apiserver-arm:v1.4.9-beta.0
+- kuops/kube-apiserver-arm:v1.5.3-beta.0
+- kuops/kube-apiserver-arm:v1.5.3
+- kuops/kube-apiserver-arm:v1.5.4-beta.0
 - kuops/kube-apiserver-arm:v1.6.0-beta.0
 - kuops/kube-apiserver-arm:v1.4.10-beta.0
 - kuops/kube-apiserver-arm:v1.6.0-beta.1
