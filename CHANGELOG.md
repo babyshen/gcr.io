@@ -1,3 +1,12 @@
+- kuops/cluster-proportional-autoscaler-amd64:1.2.0
+- kuops/cluster-proportional-autoscaler-amd64:1.3.0
+- kuops/cluster-autoscaler:v0.2.0
+- kuops/cluster-autoscaler:v0.0.1-alpha2-5
+- kuops/cluster-autoscaler:v0.5.0-beta1
+- kuops/cluster-autoscaler:v0.2.2
+- kuops/cluster-autoscaler:v0.3.0-beta6
+- kuops/cluster-autoscaler:v0.3.0-beta2
+- kuops/cluster-autoscaler:v0.4.0
 - kuops/cluster-autoscaler:v0.5.2
 - kuops/cluster-autoscaler:v0.6.0-alpha1
 - kuops/cluster-autoscaler:v0.6.0-alpha2
