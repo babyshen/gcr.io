@@ -1,3 +1,12 @@
+- kuops/hyperkube:v1.7.15-beta.0
+- kuops/hyperkube:v1.7.16-beta.0
+- kuops/hyperkube:v1.9.6-beta.0
+- kuops/hyperkube:v1.8.10
+- kuops/hyperkube:v1.8.11-beta.0
+- kuops/hyperkube:v1.9.6
+- kuops/hyperkube:v1.7.16
+- kuops/hyperkube:v1.7.17-beta.0
+- kuops/hyperkube:v1.8.12-beta.0
 - kuops/hyperkube:v1.10.3-beta.0
 - kuops/hyperkube:v1.9.11-beta.0
 - kuops/hyperkube:v1.11.2-beta.0
