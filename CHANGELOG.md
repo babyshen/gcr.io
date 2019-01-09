@@ -1,3 +1,17 @@
+- kuops/cloud-controller-manager-ppc64le:v1.9.0-beta.2
+- kuops/cloud-controller-manager-ppc64le:v1.9.0-beta.1
+- kuops/cloud-controller-manager-ppc64le:v1.8.5
+- kuops/cloud-controller-manager-ppc64le:v1.8.6-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.9.1
+- kuops/cloud-controller-manager-ppc64le:v1.9.2-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.8.7-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.7.12
+- kuops/cloud-controller-manager-ppc64le:v1.7.13-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.10.0-alpha.2
+- kuops/cloud-controller-manager-ppc64le:v1.8.8-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.9.2
+- kuops/cloud-controller-manager-ppc64le:v1.10.0-alpha.3
+- kuops/cloud-controller-manager-ppc64le:v1.9.3-beta.0
 - kuops/cloud-controller-manager-ppc64le:v1.7.13
 - kuops/cloud-controller-manager-ppc64le:v1.8.9-beta.0
 - kuops/cloud-controller-manager-ppc64le:v1.9.4-beta.0
