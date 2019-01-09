@@ -1,3 +1,16 @@
+- kuops/fluentd-sidecar-es:1.1
+- kuops/gci-mounter:v2.01
+- kuops/fluentd-sidecar-gcp:1.2
+- kuops/gci-mounter:v2
+- kuops/gci-mounter:v4
+- kuops/gci-mounter:v3
+- kuops/gci-mounter:v1
+- kuops/galera-install:0.1
+- kuops/fluentd-journal-gcp:1.0
+- kuops/fluentd-sidecar-gcp:1.4
+- kuops/fluentd-gcp-scaler:0.1
+- kuops/fluentd-gcp-scaler:0.4
+- kuops/fluentd-gcp-scaler:0.5
 - kuops/fluentd-gcp:1.14
 - kuops/fluentd-gcp:1.13
 - kuops/fluentd-gcp:1.18
