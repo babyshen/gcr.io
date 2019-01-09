@@ -1,0 +1,21 @@
+- kuops/addon-builder:latest
+- kuops/addon-builder:test
+- kuops/addon-builder:latest_20180730
+- kuops/addon-resizer:1.1
+- kuops/addon-resizer:1.3
+- kuops/addon-resizer:1.4
+- kuops/addon-resizer:1.5
+- kuops/addon-resizer:1.2
+- kuops/addon-resizer:1.0
+- kuops/addon-resizer:1.6
+- kuops/addon-resizer:1.8.0
+- kuops/addon-resizer:1.7
+- kuops/addon-resizer:1.8.1
+- kuops/addon-resizer:1.8.3
+- kuops/addon-resizer:2.0
+- kuops/addon-resizer:1.8.2
+- kuops/addon-resizer:2.1
+- kuops/addon-resizer:1.8.4
+- kuops/addon-resizer-amd64:2.1
+- kuops/addon-builder:am-i-a-manifest-list
+
