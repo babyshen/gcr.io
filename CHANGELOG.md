@@ -1,3 +1,13 @@
+- kuops/fluentd-gcp:1.14
+- kuops/fluentd-gcp:1.13
+- kuops/fluentd-gcp:1.18
+- kuops/fluentd-gcp:1.9
+- kuops/fluentd-gcp:1.4
+- kuops/fluentd-gcp:1.10
+- kuops/fluentd-gcp:1.2
+- kuops/fluentd-gcp:1.11
+- kuops/fluentd-gcp:1.22
+- kuops/fluentd-gcp:1.19
 - kuops/fluentd-gcp:1.24
 - kuops/fluentd-gcp:1.21
 - kuops/fluentd-gcp:1.21.1
