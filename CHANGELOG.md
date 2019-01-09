@@ -1,3 +1,13 @@
+- kuops/cluster-autoscaler:v0.5.2
+- kuops/cluster-autoscaler:v0.6.0-alpha1
+- kuops/cluster-autoscaler:v0.6.0-alpha2
+- kuops/cluster-autoscaler:v0.6.0-beta1
+- kuops/cluster-autoscaler:v0.5.0-beta2
+- kuops/cluster-autoscaler:v0.7.0-alpha1
+- kuops/cluster-autoscaler:v0.7.0-beta2
+- kuops/cluster-autoscaler:v0.7.0-alpha3
+- kuops/cluster-autoscaler:v0.6.1-beta2
+- kuops/cluster-autoscaler:v0.7.0-beta1
 - kuops/cluster-autoscaler:v0.6.3
 - kuops/cluster-autoscaler:v1.1.0
 - kuops/cluster-autoscaler:v1.1.1
