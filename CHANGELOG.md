@@ -1,3 +1,9 @@
+- kuops/heapster:v1.0.1
+- kuops/heapster:v1.1.0-beta1
+- kuops/heapster:v0.20.0-alpha6
+- kuops/heapster:v1.0.0-beta2
+- kuops/heapster:v1.2.0-beta.1
+- kuops/heapster:v1.2.0-beta.3
 - kuops/heapster:v1.2.0
 - kuops/heapster:v1.2.1-alpha1
 - kuops/heapster:v1.3.0-beta.0
