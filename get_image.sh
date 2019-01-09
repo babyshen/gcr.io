@@ -8,10 +8,10 @@ today(){
 }
 
 git_init(){
-    git config --global user.name "kuops"
-    git config --global user.email opshsy@gmail.com
+    git config --global user.name "babyshen"
+    git config --global user.email "455416841"
     git remote rm origin
-    git remote add origin git@github.com:kuops/gcr.io.git
+    git remote add origin git@github.com:babyshen/gcr.io.git
     git pull
     if git branch -a |grep 'origin/develop' &> /dev/null ;then
         git checkout develop
