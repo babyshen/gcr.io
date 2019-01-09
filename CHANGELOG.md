@@ -1,3 +1,14 @@
+- kuops/gke-mpi-metadata-server:v0.0.1
+- kuops/gke-mpi-metadata-server:dev
+- kuops/gke-mpi-metadata-server:mikedanese-dev
+- kuops/gke-mpi-metadata-server:awly-dev
+- kuops/gke-mpi-metadata-server:v0.1.1
+- kuops/gke-mpi-metadata-server:v0.0.2
+- kuops/gke-mpi-metadata-server:v.0.0.2
+- kuops/gke-mpi-metadata-server:v0.1.2
+- kuops/gke-mpi-metadata-server:a36532e31f945b9b206effe7cdc95fe455410b6d
+- kuops/gke-mpi-api-server:v0.0.2
+- kuops/gke-mpi-api-server:dev
 - kuops/gitolite-http:604c51b84bd5
 - kuops/gke-mpi-api-server:v0.0.3
 - kuops/gke-mpi-api-server:alexcope-dev
