@@ -1,3 +1,15 @@
+- kuops/kube-controller-manager-ppc64le:v1.7.15-beta.0
+- kuops/kube-controller-manager-ppc64le:v1.10.0-beta.4
+- kuops/kube-controller-manager-ppc64le:v1.8.9
+- kuops/kube-controller-manager-ppc64le:v1.9.5
+- kuops/kube-controller-manager-ppc64le:v1.7.16-beta.0
+- kuops/kube-controller-manager-ppc64le:v1.10.0-beta.2
+- kuops/kube-controller-manager-ppc64le:v1.9.6
+- kuops/kube-controller-manager-ppc64le:v1.10.0-rc.1
+- kuops/kube-controller-manager-ppc64le:v1.9.6-beta.0
+- kuops/kube-controller-manager-ppc64le:v1.8.11-beta.0
+- kuops/kube-controller-manager-ppc64le:v1.10.0
+- kuops/kube-controller-manager-ppc64le:v1.9.7-beta.0
 - kuops/kube-controller-manager-ppc64le:v1.7.17-beta.0
 - kuops/kube-controller-manager-ppc64le:v1.7.16
 - kuops/kube-controller-manager-ppc64le:v1.8.11
