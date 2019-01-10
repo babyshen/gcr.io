@@ -1,3 +1,17 @@
+- kuops/kube-registry-proxy:0.4
+- kuops/kube-scheduler:v1.11.1
+- kuops/kube-scheduler:v1.12.0-alpha.1
+- kuops/kube-registry-proxy:0.3
+- kuops/kube-scheduler:v1.9.9
+- kuops/kube-scheduler:v1.8.16-beta.0
+- kuops/kube-scheduler:v1.10.7-beta.0
+- kuops/kube-scheduler:v1.11.2-beta.0
+- kuops/kube-scheduler:v1.9.11-beta.0
+- kuops/kube-scheduler:v1.8.15
+- kuops/kube-scheduler:v1.11.2
+- kuops/kube-scheduler:v1.13.0-alpha.0
+- kuops/kube-scheduler:v1.10.8-beta.0
+- kuops/kube-scheduler:v1.12.0-beta.1
 - kuops/kube-proxy-s390x:v1.6.0-alpha.1
 - kuops/kube-proxy-s390x:v1.6.0-alpha.3
 - kuops/kube-proxy-s390x:v1.6.0-alpha.2
