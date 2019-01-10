@@ -1,3 +1,17 @@
+- kuops/kube-controller-manager-arm:v1.3.1
+- kuops/kube-controller-manager-arm:v1.3.2
+- kuops/kube-controller-manager-arm:v1.4.0-alpha.2
+- kuops/kube-controller-manager-arm:v1.3.4-beta.0
+- kuops/kube-controller-manager-arm:v1.3.4
+- kuops/kube-controller-manager-arm:v1.4.0-alpha.3
+- kuops/kube-controller-manager-arm:v1.3.7-beta.0
+- kuops/kube-controller-manager-arm:v1.3.5-beta.0
+- kuops/kube-controller-manager-arm:v1.4.0-beta.1
+- kuops/kube-controller-manager-arm:v1.3.6
+- kuops/kube-controller-manager-arm:v1.3.5
+- kuops/kube-controller-manager-arm:v1.5.0-alpha.0
+- kuops/kube-controller-manager-arm:v1.4.0-beta.3
+- kuops/kube-controller-manager-arm:v1.3.7
 - kuops/kube-controller-manager-arm:v1.4.0-beta.8
 - kuops/kube-controller-manager-arm:v1.4.1-beta.0
 - kuops/kube-controller-manager-arm:v1.4.0
