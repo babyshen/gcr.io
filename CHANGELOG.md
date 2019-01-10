@@ -1,3 +1,17 @@
+- kuops/kube-proxy-s390x:v1.6.8
+- kuops/kube-proxy-s390x:v1.7.4
+- kuops/kube-proxy-s390x:v1.6.9
+- kuops/kube-proxy-s390x:v1.6.9-beta.0
+- kuops/kube-proxy-s390x:v1.6.10-beta.0
+- kuops/kube-proxy-s390x:v1.8.0-alpha.3
+- kuops/kube-proxy-s390x:v1.7.5
+- kuops/kube-proxy-s390x:v1.8.0-beta.1
+- kuops/kube-proxy-s390x:v1.6.11
+- kuops/kube-proxy-s390x:v1.7.7-beta.0
+- kuops/kube-proxy-s390x:v1.7.6
+- kuops/kube-proxy-s390x:v1.9.0-alpha.1
+- kuops/kube-proxy-s390x:v1.8.0-beta.0
+- kuops/kube-proxy-s390x:v1.6.11-beta.0
 - kuops/kube-proxy-s390x:v1.6.12-beta.0
 - kuops/kube-proxy-s390x:v1.7.8-beta.0
 - kuops/kube-proxy-s390x:v1.7.8
