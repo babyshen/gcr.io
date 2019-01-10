@@ -3,9 +3,9 @@
 
 本仓库是镜像 `gcr.io/google-containers` 仓库中的所有镜像，用法如下
 
-原拉取地址
-`docker pull gcr.io/google-containers/kubernetes-dashboard-amd64:v1.10.1`  
+原拉取地址  
+`docker pull gcr.io/google-containers/pause:3.0`  
 替换 `gcr.io/google-containers` 为 `docker.io/babyshen` 或者 `babyshen`，如:  
-`docker pull docker.io/babyshen/kubernetes-dashboard-amd64:v1.10.1`  
+`docker pull docker.io/babyshen/pause:3.0`  
 或  
-`docker pull babyshen/kubernetes-dashboard-amd64:v1.10.1`
+`docker pull babyshen/pause:3.0`
