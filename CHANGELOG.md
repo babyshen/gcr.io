@@ -1,3 +1,16 @@
+- kuops/kube-scheduler-s390x:v1.9.0-beta.2
+- kuops/kube-scheduler-s390x:v1.9.0
+- kuops/kube-scheduler-s390x:v1.7.12
+- kuops/kube-scheduler-s390x:v1.10.0-alpha.1
+- kuops/kube-scheduler-s390x:v1.9.1-beta.0
+- kuops/kube-scheduler-s390x:v1.9.1
+- kuops/kube-scheduler-s390x:v1.8.6
+- kuops/kube-scheduler-s390x:v1.9.2-beta.0
+- kuops/kube-scheduler-s390x:v1.8.7
+- kuops/kube-scheduler-s390x:v1.9.3
+- kuops/kube-scheduler-s390x:v1.8.8-beta.0
+- kuops/kube-scheduler-s390x:v1.9.3-beta.0
+- kuops/kube-scheduler-s390x:v1.8.8
 - kuops/kube-scheduler-s390x:v1.8.9-beta.0
 - kuops/kube-scheduler-s390x:v1.11.0-alpha.0
 - kuops/kube-scheduler-s390x:v1.7.14-beta.0
