@@ -1,3 +1,17 @@
+- kuops/kube-scheduler-amd64:v1.7.2
+- kuops/kube-scheduler-amd64:v1.7.3-beta.0
+- kuops/kube-scheduler-amd64:v1.7.1
+- kuops/kube-scheduler-amd64:v1.7.2-beta.0
+- kuops/kube-scheduler-amd64:v1.6.9-beta.0
+- kuops/kube-scheduler-amd64:v1.6.8
+- kuops/kube-scheduler-amd64:v1.6.9
+- kuops/kube-scheduler-amd64:v1.8.0-alpha.3
+- kuops/kube-scheduler-amd64:v1.6.10-beta.0
+- kuops/kube-scheduler-amd64:v1.7.5
+- kuops/kube-scheduler-amd64:v1.7.6-beta.0
+- kuops/kube-scheduler-amd64:v1.8.0-beta.0
+- kuops/kube-scheduler-amd64:v1.6.10
+- kuops/kube-scheduler-amd64:v1.6.11-beta.0
 - kuops/kube-scheduler-amd64:v1.8.0-rc.1
 - kuops/kube-scheduler-amd64:v1.9.0-alpha.1
 - kuops/kube-scheduler-amd64:v1.8.0
