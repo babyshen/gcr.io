@@ -1,3 +1,16 @@
+- kuops/kube-controller-manager-amd64:v1.4.1-beta.2
+- kuops/kube-controller-manager-amd64:v1.4.1
+- kuops/kube-controller-manager-amd64:v1.4.1-beta.0
+- kuops/kube-controller-manager-amd64:v1.4.2-beta.0
+- kuops/kube-controller-manager-amd64:v1.4.2
+- kuops/kube-controller-manager-amd64:v1.4.4
+- kuops/kube-controller-manager-amd64:v1.3.10-beta.0
+- kuops/kube-controller-manager-amd64:v1.2.7
+- kuops/kube-controller-manager-amd64:v1.4.6-beta.0
+- kuops/kube-controller-manager-amd64:v1.3.8
+- kuops/kube-controller-manager-amd64:v1.4.5
+- kuops/kube-controller-manager-amd64:v1.5.0-alpha.2
+- kuops/kube-controller-manager-amd64:v1.2.8-beta.0
 - kuops/kube-controller-manager-amd64:v1.3.11-beta.0
 - kuops/kube-controller-manager-amd64:v1.3.10
 - kuops/kube-controller-manager-amd64:v1.5.0-beta.3
