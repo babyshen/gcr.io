@@ -1,3 +1,4 @@
+- kuops/kube-cross:v1.8.3-3
 - kuops/kube-cross:v1.10.7-1
 - kuops/kube-controller-manager-s390x:v1.6.0-beta.0
 - kuops/kube-controller-manager-s390x:v1.6.0-beta.2
