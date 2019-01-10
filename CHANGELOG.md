@@ -1,3 +1,17 @@
+- babygod/zeppelin:v0.5.5_v1
+- babygod/zeppelin:master-81f02485
+- babygod/zeppelin:v0.5.5_v2
+- babygod/webhooks-publisher:v20160919-140720
+- babygod/webhooks-publisher:v20160915-162352
+- babygod/webhooks-publisher:v20160922-120322
+- babygod/vpa-updater:v0.1.0
+- babygod/vpa-updater:0.2.0
+- babygod/vpa-updater:0.3.0
+- babygod/vpa-admission-controller:v0.1.0
+- babygod/vpa-recommender:0.2.0
+- babygod/vpa-recommender:0.3.0
+- babygod/vpa-admission-controller:0.3.0
+- babygod/vpa-admission-controller:0.2.0
 - babygod/volume-rbd:latest
 - babygod/volume-rbd:0.2
 - babygod/volume-rbd:0.1
