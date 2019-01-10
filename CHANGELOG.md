@@ -1,3 +1,11 @@
+-------------------------------at 2019-01-10 09:48:28 sync image repositorys-------------------------------
+- babygod/zeppelin:master-86a1a199
+- babygod/zeppelin:master-600f728d
+- babygod/zeppelin:master-2d893aba
+- babygod/zeppelin-proxy:latest
+- babygod/zeppelin-proxy:master
+- babygod/zeppelin-proxy:1.9.6
+- babygod/zookeeper-install:0.1
 - babygod/zeppelin:v0.5.5_v1
 - babygod/zeppelin:master-81f02485
 - babygod/zeppelin:v0.5.5_v2
