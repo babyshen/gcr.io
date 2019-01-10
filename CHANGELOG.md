@@ -1,3 +1,17 @@
+- kuops/kube-scheduler:v1.4.0-beta.5
+- kuops/kube-scheduler:v1.4.0-beta.3
+- kuops/kube-scheduler:v1.4.0-beta.6
+- kuops/kube-scheduler:v1.3.8-beta.0
+- kuops/kube-scheduler:v1.3.7
+- kuops/kube-scheduler:v1.4.0-beta.11
+- kuops/kube-scheduler:v1.4.2-beta.0
+- kuops/kube-scheduler:v1.4.2-beta.1
+- kuops/kube-scheduler:v1.5.0-alpha.1
+- kuops/kube-scheduler:v1.4.2
+- kuops/kube-scheduler:v1.4.4-beta.0
+- kuops/kube-scheduler:v1.4.3-beta.0
+- kuops/kube-scheduler:v1.4.3
+- kuops/kube-scheduler:v1.3.9
 - kuops/kube-scheduler:v1.4.5-beta.0
 - kuops/kube-scheduler:v1.3.10-beta.0
 - kuops/kube-scheduler:v1.4.4
