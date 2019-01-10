@@ -1,3 +1,17 @@
+- kuops/kube-proxy-arm:v1.4.0-beta.1
+- kuops/kube-proxy-arm:v1.4.0-alpha.2
+- kuops/kube-proxy-arm:v1.5.0-alpha.0
+- kuops/kube-proxy-arm:v1.3.5
+- kuops/kube-proxy-arm:v1.3.7-beta.0
+- kuops/kube-proxy-arm:v1.4.0-beta.5
+- kuops/kube-proxy-arm:v1.4.0-beta.3
+- kuops/kube-proxy-arm:v1.3.3
+- kuops/kube-proxy-arm:v1.4.0-alpha.3
+- kuops/kube-proxy-arm:v1.3.4-beta.0
+- kuops/kube-proxy-arm:v1.3.8-beta.0
+- kuops/kube-proxy-arm:v1.3.7
+- kuops/kube-proxy-arm:v1.4.0-beta.0
+- kuops/kube-proxy-arm:v1.3.6
 - kuops/kube-proxy-arm:v1.4.0-beta.8
 - kuops/kube-proxy-arm:v1.4.0-beta.10
 - kuops/kube-proxy-arm:v1.4.0-beta.7
