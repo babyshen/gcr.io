@@ -1,3 +1,17 @@
+- kuops/kube-proxy-amd64:v1.3.10
+- kuops/kube-proxy-amd64:v1.3.10-beta.0
+- kuops/kube-proxy-amd64:v1.4.1
+- kuops/kube-proxy-amd64:v1.4.2-beta.0
+- kuops/kube-proxy-amd64:v1.4.5-beta.0
+- kuops/kube-proxy-amd64:v1.3.9
+- kuops/kube-proxy-amd64:v1.2.8-beta.0
+- kuops/kube-proxy-amd64:v1.4.3-beta.0
+- kuops/kube-proxy-amd64:v1.4.4
+- kuops/kube-proxy-amd64:v1.2.7
+- kuops/kube-proxy-amd64:v1.4.5
+- kuops/kube-proxy-amd64:v1.4.4-beta.0
+- kuops/kube-proxy-amd64:v1.5.0-alpha.2
+- kuops/kube-proxy-amd64:v1.5.0-alpha.1
 - kuops/kube-proxy-amd64:v1.5.0-beta.0
 - kuops/kube-proxy-amd64:v1.4.7-beta.0
 - kuops/kube-proxy-amd64:v1.4.7
