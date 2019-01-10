@@ -1,3 +1,15 @@
+- kuops/kube-proxy:v1.5.0-beta.2
+- kuops/kube-proxy:v1.5.0
+- kuops/kube-proxy:v1.4.6
+- kuops/kube-proxy:v1.4.7
+- kuops/kube-proxy:v1.5.0-beta.0
+- kuops/kube-proxy:v1.4.7-beta.0
+- kuops/kube-proxy:v1.6.0-alpha.0
+- kuops/kube-proxy:v1.5.0-beta.3
+- kuops/kube-proxy:v1.5.1
+- kuops/kube-proxy:v1.6.0-alpha.1
+- kuops/kube-proxy:v1.6.0-alpha.2
+- kuops/kube-proxy:v1.5.3
 - kuops/kube-proxy:v1.6.0-beta.0
 - kuops/kube-proxy:v1.4.10-beta.0
 - kuops/kube-proxy:v1.4.9
