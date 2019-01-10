@@ -1,3 +1,17 @@
+- kuops/kube-proxy-ppc64le:v1.8.0-rc.1
+- kuops/kube-proxy-ppc64le:v1.8.1-beta.0
+- kuops/kube-proxy-ppc64le:v1.7.7
+- kuops/kube-proxy-ppc64le:v1.6.12-beta.0
+- kuops/kube-proxy-ppc64le:v1.9.0-alpha.2
+- kuops/kube-proxy-ppc64le:v1.7.8-beta.0
+- kuops/kube-proxy-ppc64le:v1.7.9
+- kuops/kube-proxy-ppc64le:v1.7.8
+- kuops/kube-proxy-ppc64le:v1.8.3-beta.0
+- kuops/kube-proxy-ppc64le:v1.7.11-beta.0
+- kuops/kube-proxy-ppc64le:v1.8.2
+- kuops/kube-proxy-ppc64le:v1.8.1
+- kuops/kube-proxy-ppc64le:v1.6.13-beta.0
+- kuops/kube-proxy-ppc64le:v1.7.10-beta.0
 - kuops/kube-proxy-ppc64le:v1.7.11
 - kuops/kube-proxy-ppc64le:v1.6.13
 - kuops/kube-proxy-ppc64le:v1.6.14-beta.0
