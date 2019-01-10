@@ -1,3 +1,12 @@
+- babygod/publisher:2017-06-13-bd0af81144
+- babygod/publisher:2017-05-11-17b7baf173
+- babygod/queue-health-graph:v20161201
+- babygod/publisher:2017-03-31-ff03b677c6
+- babygod/queue-health-graph:v20161209
+- babygod/queue-health-graph:latest
+- babygod/queue-health-base:latest
+- babygod/publisher:2016-08-25-5fd4293
+- babygod/publisher:2016-09-22-3bfbc14
 - babygod/publisher:2017-06-14-22f7fd763c
 - babygod/publisher:2017-06-22-b961236671
 - babygod/publisher:2017-07-07-7422e4fe2f
