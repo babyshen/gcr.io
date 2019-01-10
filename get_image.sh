@@ -1,7 +1,7 @@
 #!/bin/bash
 
 GCR_NAMESPACE=gcr.io/google-containers
-DOCKERHUB_NAMESPACE=kuops
+DOCKERHUB_NAMESPACE=babygod
 
 today(){
    date +%F
@@ -9,7 +9,7 @@ today(){
 
 git_init(){
     git config --global user.name "babyshen"
-    git config --global user.email "455416841"
+    git config --global user.email "455416841@qq.com"
     git remote rm origin
     git remote add origin git@github.com:babyshen/gcr.io.git
     git pull
