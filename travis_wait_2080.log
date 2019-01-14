@@ -1025,3 +1025,9 @@ sync image /goproxy done.
 To github.com:babyshen/gcr.io.git
    25313eed..c11d59ab  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop e51f013b] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   c11d59ab..e51f013b  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /guestbook done.
