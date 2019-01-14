@@ -183,3 +183,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    ac22a004..750e2b1a  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop deb53ef9] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   750e2b1a..deb53ef9  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /addon-resizer done.
