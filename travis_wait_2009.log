@@ -1327,3 +1327,8 @@ To github.com:babyshen/gcr.io.git
    bdfb80df..81917d41  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /elasticsearch done.
+[develop 3f86a283] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   81917d41..3f86a283  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
