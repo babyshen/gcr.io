@@ -2247,3 +2247,8 @@ To github.com:babyshen/gcr.io.git
    2b1ccc91..216e2a0a  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /etcd-arm64 done.
+[develop 4d97cacd] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   216e2a0a..4d97cacd  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
