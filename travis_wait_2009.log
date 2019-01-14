@@ -4721,3 +4721,9 @@ sync image /fluentd-sidecar-gcp done.
 To github.com:babyshen/gcr.io.git
    150d19aa..379fb743  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop ef19f3ae] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   379fb743..ef19f3ae  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /galera-install done.
