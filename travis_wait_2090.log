@@ -2685,3 +2685,8 @@ sync image /kube-addon-manager-arm done.
 To github.com:babyshen/gcr.io.git
    f18a5d0f..dccaf25f  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 2be0af59] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   dccaf25f..2be0af59  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
