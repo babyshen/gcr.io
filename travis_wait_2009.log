@@ -1025,3 +1025,9 @@ sync image /dnsmasq done.
 To github.com:babyshen/gcr.io.git
    001a2314..715ffcfe  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 85aad9e2] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   715ffcfe..85aad9e2  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /dnsmasq-amd64 done.
