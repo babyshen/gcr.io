@@ -534,3 +534,8 @@ sync image /cassandra-e2e-test done.
 To github.com:babyshen/gcr.io.git
    55198b61..37976343  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 79187fb6] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   37976343..79187fb6  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
