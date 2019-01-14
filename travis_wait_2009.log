@@ -4910,3 +4910,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    c9520399..1574b85e  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 347fa2cb] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   1574b85e..347fa2cb  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /gen-swagger-docs done.
