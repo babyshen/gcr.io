@@ -1332,3 +1332,9 @@ sync image /elasticsearch done.
 To github.com:babyshen/gcr.io.git
    81917d41..3f86a283  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 0dd66176] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   3f86a283..0dd66176  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /eptest done.
