@@ -1657,3 +1657,8 @@ To github.com:babyshen/gcr.io.git
    7ac3fd8d..21cfcc0e  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /heapster-arm done.
+[develop bf25e6bb] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   21cfcc0e..bf25e6bb  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
