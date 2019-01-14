@@ -1216,3 +1216,8 @@ To github.com:babyshen/gcr.io.git
    1100080e..8cfd2428  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /echoserver-ppc64le done.
+[develop 530208e7] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   8cfd2428..530208e7  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
