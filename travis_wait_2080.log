@@ -897,3 +897,8 @@ sync image /gke-node-termination-handler done.
 To github.com:babyshen/gcr.io.git
    04d264e1..61388216  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 214cbdb7] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   61388216..214cbdb7  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
