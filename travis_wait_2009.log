@@ -2560,3 +2560,8 @@ To github.com:babyshen/gcr.io.git
    e0c7c4a9..c8a48d23  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /etcd-s390x done.
+[develop dbb93528] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   c8a48d23..dbb93528  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
