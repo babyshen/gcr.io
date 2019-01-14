@@ -1992,3 +1992,8 @@ To github.com:babyshen/gcr.io.git
    c69da6d7..3f63d1ae  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /k8s-dns-sidecar-e2e-ppc64le done.
+[develop 635b7c84] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   3f63d1ae..635b7c84  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
