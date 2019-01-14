@@ -1810,3 +1810,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    539ce2db..b4d08ced  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 2150905b] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   b4d08ced..2150905b  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /heapster-grafana-arm done.
