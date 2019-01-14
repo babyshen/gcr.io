@@ -4622,3 +4622,8 @@ To github.com:babyshen/gcr.io.git
    a36a9a8e..b4f2d08d  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /fluentd-gcp done.
+[develop 31399ed7] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   b4f2d08d..31399ed7  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
