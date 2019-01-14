@@ -871,3 +871,8 @@ To github.com:babyshen/gcr.io.git
    2a4d58cc..70caf64e  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /defaultbackend-s390x done.
+[develop 82d47ec6] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   70caf64e..82d47ec6  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
