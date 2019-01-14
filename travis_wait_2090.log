@@ -77,3 +77,10 @@ Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
 Setting up google-cloud-sdk (229.0.0-0) ...
 Activated service account credentials for: [babyshen@babyshen.iam.gserviceaccount.com]
 get repository list done
+[develop 977576ae] Synchronizing completion at 2019-01-14
+ 1 file changed, 79 insertions(+)
+ create mode 100644 travis_wait_2090.log
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+To github.com:babyshen/gcr.io.git
+   22517aa0..977576ae  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
