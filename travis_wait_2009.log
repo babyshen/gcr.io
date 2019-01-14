@@ -4100,3 +4100,8 @@ To github.com:babyshen/gcr.io.git
    b33c2ab0..7a10708b  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /flannel-server-helper done.
+[develop 020ef060] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   7a10708b..020ef060  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
