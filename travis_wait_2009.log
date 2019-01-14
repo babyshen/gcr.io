@@ -2901,3 +2901,8 @@ To github.com:babyshen/gcr.io.git
    563f59f5..7c1f8842  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /exechealthz-ppc64le done.
+[develop 86fb1cf2] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   7c1f8842..86fb1cf2  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
