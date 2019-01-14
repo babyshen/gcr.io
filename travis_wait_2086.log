@@ -4520,3 +4520,8 @@ To github.com:babyshen/gcr.io.git
    14459a0f..1dbd6a0f  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /debian-base-amd64 done.
+[develop 094bb9f8] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   1dbd6a0f..094bb9f8  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
