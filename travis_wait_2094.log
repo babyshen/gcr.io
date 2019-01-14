@@ -346,3 +346,8 @@ To github.com:babyshen/gcr.io.git
    f1aa61f2..6ae57103  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /busybox done.
+[develop e0abd33b] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   6ae57103..e0abd33b  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
