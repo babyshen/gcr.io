@@ -106,3 +106,9 @@ To github.com:babyshen/gcr.io.git
    7b978479..5bd4e1f2  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /addon-builder done.
+[develop 92c3fa45] Synchronizing completion at 2019-01-14
+ 2 files changed, 8 insertions(+)
+ create mode 100644 breakpoint.txt
+To github.com:babyshen/gcr.io.git
+   5bd4e1f2..92c3fa45  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
