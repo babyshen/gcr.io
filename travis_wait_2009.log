@@ -2444,3 +2444,8 @@ sync image /etcd-ppc64le done.
 To github.com:babyshen/gcr.io.git
    d5a22acf..120b47a1  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop efd75fd4] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   120b47a1..efd75fd4  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
