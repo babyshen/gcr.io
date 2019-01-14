@@ -482,3 +482,8 @@ To github.com:babyshen/gcr.io.git
    b84fead1..0b80e099  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /cadvisor done.
+[develop 01fcb9f8] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   0b80e099..01fcb9f8  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
