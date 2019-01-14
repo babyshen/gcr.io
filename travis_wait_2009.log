@@ -3589,3 +3589,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    cd23f197..c6b144a7  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop c4b7dd61] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   c6b144a7..c4b7dd61  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /federation-controller-manager done.
