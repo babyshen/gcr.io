@@ -320,3 +320,8 @@ To github.com:babyshen/gcr.io.git
    f493e885..d1b894a9  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /apparmor-loader done.
+[develop 96684b92] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   d1b894a9..96684b92  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
