@@ -2306,3 +2306,8 @@ To github.com:babyshen/gcr.io.git
    dc408c1b..4eda66d8  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /hpa-example done.
+[develop ff4a7c83] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   4eda66d8..ff4a7c83  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
