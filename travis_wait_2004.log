@@ -1885,3 +1885,8 @@ To github.com:babyshen/gcr.io.git
    e5735d57..a0062cad  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /hyperkube-amd64 done.
+[develop 4767daf7] Synchronizing completion at 2019-01-14
+ 1 file changed, 6 insertions(+)
+To github.com:babyshen/gcr.io.git
+   a0062cad..4767daf7  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
