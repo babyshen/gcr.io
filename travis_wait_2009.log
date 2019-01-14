@@ -2576,3 +2576,8 @@ sync image /etcd-statefulset-e2e-test done.
 To github.com:babyshen/gcr.io.git
    f4f3557d..702d6518  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop a2d94d95] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   702d6518..a2d94d95  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
