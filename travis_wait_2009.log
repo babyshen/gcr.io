@@ -4814,3 +4814,8 @@ sync image /gcp-controller-manager done.
 To github.com:babyshen/gcr.io.git
    97178b65..58bec929  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop b14e42e1] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   58bec929..b14e42e1  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
