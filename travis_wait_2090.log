@@ -926,3 +926,8 @@ To github.com:babyshen/gcr.io.git
    034b8ee7..2326ac57  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /k8s-dns-ginkgo-arm64 done.
+[develop 92e8623f] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   2326ac57..92e8623f  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
