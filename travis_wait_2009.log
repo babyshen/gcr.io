@@ -1047,3 +1047,8 @@ To github.com:babyshen/gcr.io.git
    c1c84996..1a536ea1  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /dnsmasq-metrics-amd64 done.
+[develop 3e38aaa7] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   1a536ea1..3e38aaa7  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
