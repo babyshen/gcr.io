@@ -705,3 +705,8 @@ To github.com:babyshen/gcr.io.git
    fc478969..8cdb911e  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /debian-iptables-s390x done.
+[develop 31979aa1] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   8cdb911e..31979aa1  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
