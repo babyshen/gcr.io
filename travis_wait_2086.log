@@ -2989,3 +2989,8 @@ To github.com:babyshen/gcr.io.git
    efb23275..1b00c116  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /cloudsql-authenticator done.
+[develop 4120514a] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   1b00c116..4120514a  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
