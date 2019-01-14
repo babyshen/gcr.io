@@ -1004,3 +1004,8 @@ To github.com:babyshen/gcr.io.git
    54b0596a..97ff5c82  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /dns-rc-autoscaler done.
+[develop 87dd0658] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   97ff5c82..87dd0658  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
