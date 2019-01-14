@@ -2281,3 +2281,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    41ddef1c..78277f1d  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 57dadea7] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   78277f1d..57dadea7  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /kibana done.
