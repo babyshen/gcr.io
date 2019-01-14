@@ -2944,3 +2944,8 @@ sync image /fakegitserver done.
 To github.com:babyshen/gcr.io.git
    947ce7da..9054719a  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop e6ffd683] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   9054719a..e6ffd683  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
