@@ -4727,3 +4727,8 @@ To github.com:babyshen/gcr.io.git
    379fb743..ef19f3ae  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /galera-install done.
+[develop abfb8ba9] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   ef19f3ae..abfb8ba9  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
