@@ -697,3 +697,8 @@ To github.com:babyshen/gcr.io.git
    41c7bd33..07adbdc2  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /gke-certificates-controller done.
+[develop cea75913] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   07adbdc2..cea75913  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
