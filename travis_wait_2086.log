@@ -4468,3 +4468,8 @@ sync image /custom-metrics-stackdriver-adapter done.
 To github.com:babyshen/gcr.io.git
    95ba8eab..6b2d33ac  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop ab2fc04c] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   6b2d33ac..ab2fc04c  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
