@@ -2674,3 +2674,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    452046c4..936b4ecf  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop f18a5d0f] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   936b4ecf..f18a5d0f  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /kube-addon-manager-arm done.
