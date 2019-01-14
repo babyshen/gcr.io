@@ -293,3 +293,8 @@ To github.com:babyshen/gcr.io.git
    edf0dcdd..9a114db0  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /github-fetcher done.
+[develop 9a494b51] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   9a114db0..9a494b51  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
