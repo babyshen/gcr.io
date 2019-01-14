@@ -4364,3 +4364,8 @@ To github.com:babyshen/gcr.io.git
    fd11f15a..42155467  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /ip-masq-agent-amd64 done.
+[develop c60519ac] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   42155467..c60519ac  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
