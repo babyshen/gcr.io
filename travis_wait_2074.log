@@ -83,3 +83,8 @@ get repository list done
 To github.com:babyshen/gcr.io.git
    9e6d4931..5a6de04f  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 8a647e46] Synchronizing completion at 2019-01-14
+ 1 file changed, 6 insertions(+)
+To github.com:babyshen/gcr.io.git
+   5a6de04f..8a647e46  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
