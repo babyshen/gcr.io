@@ -734,3 +734,8 @@ To github.com:babyshen/gcr.io.git
    9a3693c9..233d935f  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /gke-master-backup done.
+[develop 0398bc32] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   233d935f..0398bc32  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
