@@ -512,3 +512,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    0e0372eb..1f8b318b  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 58085943] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   1f8b318b..58085943  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /cassandra done.
