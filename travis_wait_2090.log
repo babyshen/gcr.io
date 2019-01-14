@@ -2245,3 +2245,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    81aefdcc..894d49a2  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop c660b880] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   894d49a2..c660b880  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /k8s-tpu-operator done.
