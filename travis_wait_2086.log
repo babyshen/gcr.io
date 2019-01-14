@@ -3918,3 +3918,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    f3726096..ece62661  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 60fc74e1] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   ece62661..60fc74e1  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /conformance-arm done.
