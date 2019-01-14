@@ -860,3 +860,8 @@ sync image /defaultbackend-ppc64le done.
 To github.com:babyshen/gcr.io.git
    89aa3228..98622c60  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 2a4d58cc] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   98622c60..2a4d58cc  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
