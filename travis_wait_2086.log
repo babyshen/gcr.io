@@ -2978,3 +2978,8 @@ To github.com:babyshen/gcr.io.git
    f82acf30..7926e3d7  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /cloud-controller-manager-s390x done.
+[develop efb23275] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   7926e3d7..efb23275  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
