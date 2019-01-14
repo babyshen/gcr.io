@@ -2733,3 +2733,9 @@ sync image /event-exporter done.
 To github.com:babyshen/gcr.io.git
    21966242..d0472add  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop b390c622] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   d0472add..b390c622  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /example-dns-backend done.
