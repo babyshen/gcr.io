@@ -4658,3 +4658,9 @@ sync image /fluentd-gcp-scaler done.
 To github.com:babyshen/gcr.io.git
    c575b45a..ef3f9183  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop f8fcd752] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   ef3f9183..f8fcd752  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /fluentd-journal-gcp done.
