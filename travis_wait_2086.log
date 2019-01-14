@@ -4390,3 +4390,9 @@ sync image /cos-nvidia-driver-install done.
 To github.com:babyshen/gcr.io.git
    4bd985d1..78ed01bd  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop d688acf8] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   78ed01bd..d688acf8  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /cpvpa-amd64 done.
