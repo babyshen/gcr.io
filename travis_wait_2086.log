@@ -4157,3 +4157,8 @@ sync image /conformance-s390x done.
 To github.com:babyshen/gcr.io.git
    3e7b3500..79b040ae  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop f1f0b014] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   79b040ae..f1f0b014  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
