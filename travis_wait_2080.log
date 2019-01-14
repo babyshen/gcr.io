@@ -1072,3 +1072,8 @@ To github.com:babyshen/gcr.io.git
    f43abbfa..3aad26bf  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /gvisor-admission-webhook-amd64 done.
+[develop e81ef9f1] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   3aad26bf..e81ef9f1  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
