@@ -4921,3 +4921,8 @@ sync image /gen-swagger-docs done.
 To github.com:babyshen/gcr.io.git
    347fa2cb..8b5b0c41  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 41d85e17] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   8b5b0c41..41d85e17  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
