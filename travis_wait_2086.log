@@ -4324,3 +4324,8 @@ To github.com:babyshen/gcr.io.git
    68511505..51da7834  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /cos-kernel-headers done.
+[develop cd80c029] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   51da7834..cd80c029  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
