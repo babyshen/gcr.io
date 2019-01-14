@@ -525,3 +525,8 @@ To github.com:babyshen/gcr.io.git
    533df7d1..a1358bc8  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /k8s-dns-dnsmasq-nanny-arm64 done.
+[develop 8f50308d] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   a1358bc8..8f50308d  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
