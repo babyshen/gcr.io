@@ -4407,3 +4407,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    24187d76..6773d578  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 8762fa00] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   6773d578..8762fa00  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /iperf done.
