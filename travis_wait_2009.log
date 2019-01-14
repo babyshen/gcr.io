@@ -4261,3 +4261,8 @@ sync image /fluentd-elasticsearch done.
 To github.com:babyshen/gcr.io.git
    5337bcc3..f1c68a7d  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 645e55f7] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   f1c68a7d..645e55f7  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
