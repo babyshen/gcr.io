@@ -2318,3 +2318,8 @@ sync image /etcd-empty-dir-cleanup done.
 To github.com:babyshen/gcr.io.git
    79b5d900..e5530e99  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 1a2088bd] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   e5530e99..1a2088bd  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
