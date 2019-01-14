@@ -3690,3 +3690,9 @@ sync image /clusterapi-tester done.
 To github.com:babyshen/gcr.io.git
    6f6c28dd..762ccdd5  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 7135b2b9] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   762ccdd5..7135b2b9  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /clusterregistry done.
