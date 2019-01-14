@@ -4312,3 +4312,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    fa33f59f..671271b4  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 192c8a43] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   671271b4..192c8a43  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /ingress-gce-glbc-amd64 done.
