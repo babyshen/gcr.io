@@ -4462,3 +4462,8 @@ To github.com:babyshen/gcr.io.git
    08156e26..200803ce  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /k8s-custom-iptables done.
+[develop 7cf02e9a] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   200803ce..7cf02e9a  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
