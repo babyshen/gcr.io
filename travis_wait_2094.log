@@ -1510,3 +1510,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    8879e37f..3cd9baec  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop a391b83a] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   3cd9baec..a391b83a  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /cloud-controller-manager done.
