@@ -4855,3 +4855,8 @@ To github.com:babyshen/gcr.io.git
    890afdd3..92e54cea  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /gcsweb-amd64 done.
+[develop 64fe0265] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   92e54cea..64fe0265  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
