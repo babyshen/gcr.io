@@ -4081,3 +4081,8 @@ sync image /conformance-ppc64le done.
 To github.com:babyshen/gcr.io.git
    c40fbdfd..3dc60665  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop ab72a3af] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   3dc60665..ab72a3af  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
