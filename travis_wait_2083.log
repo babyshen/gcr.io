@@ -4547,3 +4547,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    79775e11..41262006  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 8a492887] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   41262006..8a492887  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /k8s-dns-dnsmasq-amd64 done.
