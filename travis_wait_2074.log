@@ -3651,3 +3651,8 @@ To github.com:babyshen/gcr.io.git
    a006002a..a725c9a4  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /kube-apiserver-arm done.
+[develop 78320957] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   a725c9a4..78320957  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
