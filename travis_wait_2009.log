@@ -1188,3 +1188,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    fe860205..a65e2b90  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop ade023df] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   a65e2b90..ade023df  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /echoserver-amd64 done.
