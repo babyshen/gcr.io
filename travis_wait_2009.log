@@ -4089,3 +4089,8 @@ To github.com:babyshen/gcr.io.git
    20106c92..26e30b0c  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /flannel-ppc64le done.
+[develop b33c2ab0] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   26e30b0c..b33c2ab0  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
