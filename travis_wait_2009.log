@@ -3166,3 +3166,8 @@ sync image /federation-apiserver-amd64 done.
 To github.com:babyshen/gcr.io.git
    64f63858..6327f39c  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop ec2d5663] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   6327f39c..ec2d5663  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
