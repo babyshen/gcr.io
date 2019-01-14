@@ -4451,3 +4451,8 @@ To github.com:babyshen/gcr.io.git
    f711e0fc..2792097b  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /k8s-cloud-kms-plugin done.
+[develop 08156e26] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   2792097b..08156e26  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
