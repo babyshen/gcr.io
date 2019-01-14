@@ -2988,3 +2988,8 @@ sync image /kube-addon-manager-s390x done.
 To github.com:babyshen/gcr.io.git
    984bed7d..a1e964c5  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 719aabd2] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   a1e964c5..719aabd2  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
