@@ -2750,3 +2750,8 @@ To github.com:babyshen/gcr.io.git
    cfbe866f..7f4ed566  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /example-dns-frontend done.
+[develop dafe730a] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   7f4ed566..dafe730a  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
