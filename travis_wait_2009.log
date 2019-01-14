@@ -1,0 +1,81 @@
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+From github.com:babyshen/gcr.io
+ * [new branch]        develop    -> origin/develop
+ * [new branch]        master     -> origin/master
+You are not currently on a branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+Previous HEAD position was 3c42549c... init
+Switched to a new branch 'develop'
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+From github.com:babyshen/gcr.io
+ * branch              develop    -> FETCH_HEAD
+Already up to date.
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+deb http://packages.cloud.google.com/apt cloud-sdk-trusty main
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1326  100  1326    0     0  67919      0 --:--:-- --:--:-- --:--:-- 69789
+OK
+Hit:1 http://security.ubuntu.com/ubuntu trusty-security InRelease
+Hit:2 http://dl.hhvm.com/ubuntu trusty InRelease
+Hit:4 http://ppa.launchpad.net/chris-lea/redis-server/ubuntu trusty InRelease
+Hit:6 http://apt.postgresql.org/pub/repos/apt trusty-pgdg InRelease
+Hit:3 http://dl.bintray.com/apache/cassandra 39x InRelease
+Ign:7 http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.4 InRelease
+Hit:8 http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.4 Release
+Ign:9 http://us-east-1.ec2.archive.ubuntu.com/ubuntu trusty InRelease
+Hit:10 http://us-east-1.ec2.archive.ubuntu.com/ubuntu trusty-updates InRelease
+Hit:11 http://us-east-1.ec2.archive.ubuntu.com/ubuntu trusty-backports InRelease
+Hit:12 http://us-east-1.ec2.archive.ubuntu.com/ubuntu trusty Release
+Ign:5 http://toolbelt.heroku.com/ubuntu ./ InRelease
+Hit:13 http://toolbelt.heroku.com/ubuntu ./ Release
+Get:14 http://packages.cloud.google.com/apt cloud-sdk-trusty InRelease [6,372 B]
+Ign:15 http://ppa.launchpad.net/couchdb/stable/ubuntu trusty InRelease
+Hit:16 http://ppa.launchpad.net/git-core/ppa/ubuntu trusty InRelease
+Hit:17 http://ppa.launchpad.net/openjdk-r/ppa/ubuntu trusty InRelease
+Hit:18 http://ppa.launchpad.net/pollinate/ppa/ubuntu trusty InRelease
+Hit:19 http://ppa.launchpad.net/webupd8team/java/ubuntu trusty InRelease
+Hit:20 http://ppa.launchpad.net/couchdb/stable/ubuntu trusty Release
+Hit:21 https://download.docker.com/linux/ubuntu trusty InRelease
+Ign:22 http://dl.google.com/linux/chrome/deb stable InRelease
+Hit:23 http://dl.google.com/linux/chrome/deb stable Release
+Ign:27 http://packages.cloud.google.com/apt cloud-sdk-trusty/main amd64 Packages
+Ign:28 http://packages.cloud.google.com/apt cloud-sdk-trusty/main i386 Packages
+Get:27 http://packages.cloud.google.com/apt cloud-sdk-trusty/main amd64 Packages [33.1 kB]
+Get:28 http://packages.cloud.google.com/apt cloud-sdk-trusty/main i386 Packages [33.2 kB]
+Hit:30 https://packagecloud.io/computology/apt-backport/ubuntu trusty InRelease
+Get:32 https://packagecloud.io/github/git-lfs/ubuntu trusty InRelease [23.2 kB]
+Ign:32 https://packagecloud.io/github/git-lfs/ubuntu trusty InRelease
+Hit:33 https://packagecloud.io/rabbitmq/rabbitmq-server/ubuntu trusty InRelease
+Fetched 95.9 kB in 1s (69.3 kB/s)
+Reading package lists...
+W: http://ppa.launchpad.net/couchdb/stable/ubuntu/dists/trusty/Release.gpg: Signature by key 15866BAFD9BCC4F3C1E0DFC7D69548E1C17EAB57 uses weak digest algorithm (SHA1)
+W: GPG error: https://packagecloud.io/github/git-lfs/ubuntu trusty InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 6B05F25D762E3157
+W: The repository 'https://packagecloud.io/github/git-lfs/ubuntu trusty InRelease' is not signed.
+W: There is no public key available for the following key IDs:
+6B05F25D762E3157  
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Suggested packages:
+  google-cloud-sdk-app-engine-java google-cloud-sdk-app-engine-python
+  google-cloud-sdk-pubsub-emulator google-cloud-sdk-bigtable-emulator
+  google-cloud-sdk-datastore-emulator kubectl
+The following packages will be upgraded:
+  google-cloud-sdk
+1 upgraded, 0 newly installed, 0 to remove and 294 not upgraded.
+Need to get 20.3 MB of archives.
+After this operation, 58.2 MB of additional disk space will be used.
+Get:1 http://packages.cloud.google.com/apt cloud-sdk-trusty/main amd64 google-cloud-sdk all 229.0.0-0 [20.3 MB]
+Fetched 20.3 MB in 0s (63.9 MB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 93709 files and directories currently installed.)
+Preparing to unpack .../google-cloud-sdk_229.0.0-0_all.deb ...
+Unpacking google-cloud-sdk (229.0.0-0) over (176.0.0-0ubuntu1~14.04.0) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Setting up google-cloud-sdk (229.0.0-0) ...
+Activated service account credentials for: [babyshen@babyshen.iam.gserviceaccount.com]
+get repository list done
