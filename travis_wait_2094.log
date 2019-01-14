@@ -222,3 +222,8 @@ To github.com:babyshen/gcr.io.git
    ee858ebb..22db75de  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /addon-resizer-arm64 done.
+[develop fd0a8ffb] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   22db75de..fd0a8ffb  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
