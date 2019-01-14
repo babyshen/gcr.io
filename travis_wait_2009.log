@@ -1095,3 +1095,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    957a2f5c..40e08315  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 9df3b5c0] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   40e08315..9df3b5c0  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /dnsutils done.
