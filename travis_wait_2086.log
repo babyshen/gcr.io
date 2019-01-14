@@ -4689,3 +4689,8 @@ sync image /debian-base-s390x done.
 To github.com:babyshen/gcr.io.git
    f6e3870e..f69c9509  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 638a8ce5] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   f69c9509..638a8ce5  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
