@@ -4318,3 +4318,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    c25534a2..68511505  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 51da7834] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   68511505..51da7834  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /cos-kernel-headers done.
