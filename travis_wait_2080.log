@@ -1994,3 +1994,8 @@ To github.com:babyshen/gcr.io.git
    6b2dde0a..420e410a  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /heapster-influxdb-ppc64le done.
+[develop 0136d904] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   420e410a..0136d904  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
