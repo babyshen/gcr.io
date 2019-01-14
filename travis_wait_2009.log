@@ -4752,3 +4752,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    a703e342..016bc464  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop f0ddee42] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   016bc464..f0ddee42  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /gci-mounter done.
