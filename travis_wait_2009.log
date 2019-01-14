@@ -4716,3 +4716,8 @@ To github.com:babyshen/gcr.io.git
    3da9375c..150d19aa  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /fluentd-sidecar-gcp done.
+[develop 379fb743] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   150d19aa..379fb743  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
