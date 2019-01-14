@@ -660,3 +660,9 @@ sync image /github-transform done.
 To github.com:babyshen/gcr.io.git
    ee79d981..71519437  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop df946dee] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   71519437..df946dee  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /gitolite-http done.
