@@ -977,3 +977,8 @@ To github.com:babyshen/gcr.io.git
    e5870453..64754b32  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /device-plugin-gpu done.
+[develop 81715c13] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   64754b32..81715c13  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
