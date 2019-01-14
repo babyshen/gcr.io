@@ -3711,3 +3711,8 @@ sync image /federation-controller-manager-amd64 done.
 To github.com:babyshen/gcr.io.git
    1e1592ea..03a44ae5  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 84a131e1] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   03a44ae5..84a131e1  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
