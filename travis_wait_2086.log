@@ -2983,3 +2983,9 @@ sync image /cloud-controller-manager-s390x done.
 To github.com:babyshen/gcr.io.git
    7926e3d7..efb23275  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 1b00c116] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   efb23275..1b00c116  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /cloudsql-authenticator done.
