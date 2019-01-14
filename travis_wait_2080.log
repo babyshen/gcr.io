@@ -795,3 +795,8 @@ To github.com:babyshen/gcr.io.git
    4aaf012a..805fb267  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /gke-mpi-api-server done.
+[develop 66e6cd32] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   805fb267..66e6cd32  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
