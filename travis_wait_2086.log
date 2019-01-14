@@ -3577,3 +3577,8 @@ sync image /cluster-proportional-autoscaler-arm done.
 To github.com:babyshen/gcr.io.git
    4c815552..1d91b22b  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop f8b7f2e1] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   1d91b22b..f8b7f2e1  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
