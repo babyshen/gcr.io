@@ -708,3 +708,8 @@ To github.com:babyshen/gcr.io.git
    cea75913..fa5ef961  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /gke-launcher done.
+[develop 3b1e9b51] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   fa5ef961..3b1e9b51  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
