@@ -1671,3 +1671,8 @@ sync image /k8s-dns-sidecar-amd64 done.
 To github.com:babyshen/gcr.io.git
    1ccfdb38..796f5f04  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 635ab75e] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   796f5f04..635ab75e  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
