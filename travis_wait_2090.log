@@ -2205,3 +2205,8 @@ To github.com:babyshen/gcr.io.git
    29477dc5..4691eed7  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /k8s-jupyterhub done.
+[develop 8c63eb05] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   4691eed7..8c63eb05  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
