@@ -1003,3 +1003,9 @@ sync image /glbc done.
 To github.com:babyshen/gcr.io.git
    dc2724ae..5e155139  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop bdb1235b] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   5e155139..bdb1235b  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /google-containers-test-image done.
