@@ -3420,3 +3420,8 @@ To github.com:babyshen/gcr.io.git
    6b409775..3103dd10  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /cluster-autoscaler done.
+[develop 80d23c20] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   3103dd10..80d23c20  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
