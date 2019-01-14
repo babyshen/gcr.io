@@ -573,3 +573,8 @@ To github.com:babyshen/gcr.io.git
    058330c5..04f845e2  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /debian-iptables-arm64 done.
+[develop 42ef61ea] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   04f845e2..42ef61ea  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
