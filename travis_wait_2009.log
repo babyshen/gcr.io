@@ -3817,3 +3817,8 @@ To github.com:babyshen/gcr.io.git
    e6747eeb..d37b48e4  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /federation-controller-manager-arm done.
+[develop a0bdb9c9] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   d37b48e4..a0bdb9c9  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
