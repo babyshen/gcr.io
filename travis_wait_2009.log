@@ -4061,3 +4061,9 @@ sync image /flannel-amd64 done.
 To github.com:babyshen/gcr.io.git
    41378adb..cbdf54d3  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop b43ef8d6] Synchronizing completion at 2019-01-14
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   cbdf54d3..b43ef8d6  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /flannel-arm done.
