@@ -4425,3 +4425,8 @@ To github.com:babyshen/gcr.io.git
    edc846d5..87d993d5  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /kube-aggregator-amd64 done.
+[develop dd7f560f] Synchronizing completion at 2019-01-14
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   87d993d5..dd7f560f  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
