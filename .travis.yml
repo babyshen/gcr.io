@@ -24,4 +24,4 @@ before_install:
   - eval $(ssh-agent)
   - ssh-add ~/.ssh/id_rsa
 script:
-  - travis_wait 50 ./get_image.sh
+  - ./get_image.sh
