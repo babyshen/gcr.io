@@ -547,3 +547,8 @@ To github.com:babyshen/gcr.io.git
    ca4b6a74..06bca964  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /check-metadata-concealment done.
+[develop 80960285] Synchronizing completion at 2019-01-15
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   06bca964..80960285  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
