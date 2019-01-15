@@ -289,3 +289,9 @@ sync image /alpine-iptables-arm64 done.
 To github.com:babyshen/gcr.io.git
    e2d81894..ff700503  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 870ca6a0] Synchronizing completion at 2019-01-15
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   ff700503..870ca6a0  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /alpine-with-bash done.
