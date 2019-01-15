@@ -2982,3 +2982,600 @@ sync image /cloud-controller-manager-s390x done.
 To github.com:babyshen/gcr.io.git
    56d48a1c..289518d1  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 02655ee8] Synchronizing completion at 2019-01-15
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   289518d1..02655ee8  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /cloudsql-authenticator done.
+v1.12.2: Pulling from google-containers/cluster-autoscaler
+6885eafaefca: Pulling fs layer
+220ddcb1c540: Pulling fs layer
+0371376d51ff: Pulling fs layer
+fb4beed2453d: Pulling fs layer
+fb4beed2453d: Waiting
+220ddcb1c540: Verifying Checksum
+220ddcb1c540: Download complete
+fb4beed2453d: Verifying Checksum
+fb4beed2453d: Download complete
+sync image /cluster-autoscaler done.
+6885eafaefca: Verifying Checksum
+6885eafaefca: Download complete
+0371376d51ff: Verifying Checksum
+0371376d51ff: Download complete
+sync image /cluster-proportional-autoscaler-amd64 done.
+sync image /cluster-proportional-autoscaler-arm done.
+6885eafaefca: Pull complete
+sync image /cluster-proportional-autoscaler-arm64 done.
+220ddcb1c540: Pull complete
+sync image /cluster-proportional-autoscaler-ppc64le done.
+sync image /clusterapi-tester done.
+sync image /clusterregistry done.
+sync image /conformance done.
+sync image /conformance-amd64 done.
+0371376d51ff: Pull complete
+fb4beed2453d: Pull complete
+Digest: sha256:dc5744fd8c22aebfe40d6b62ab97d18d7bfbfc7ab1782509d69a5a9ec514df2c
+Status: Downloaded newer image for gcr.io/google-containers/cluster-autoscaler:v1.12.2
+The push refers to repository [docker.io/babygod/cluster-autoscaler]
+3892a12f7f52: Preparing
+340594266537: Preparing
+ac90f1ebd4da: Preparing
+0c1604b64aed: Preparing
+sync image /conformance-arm done.
+sync image /conformance-arm64 done.
+sync image /conformance-ppc64le done.
+3892a12f7f52: Pushed
+sync image /conformance-s390x done.
+sync image /coredns done.
+ac90f1ebd4da: Pushed
+sync image /cos-kernel-headers done.
+sync image /cos-nvidia-driver-install done.
+sync image /cpvpa-amd64 done.
+sync image /cuda-vector-add done.
+sync image /custom-metrics-stackdriver-adapter done.
+0c1604b64aed: Pushed
+sync image /debian-base done.
+sync image /debian-base-amd64 done.
+sync image /debian-base-arm done.
+sync image /debian-base-arm64 done.
+sync image /debian-base-ppc64le done.
+sync image /debian-base-s390x done.
+sync image /debian-hyperkube-base done.
+sync image /debian-hyperkube-base-amd64 done.
+sync image /debian-hyperkube-base-arm done.
+340594266537: Pushed
+sync image /debian-hyperkube-base-arm64 done.
+sync image /debian-hyperkube-base-ppc64le done.
+sync image /debian-hyperkube-base-s390x done.
+v1.12.2: digest: sha256:53ed4df0ff69c94c1b66ed6bb4dd7b7cb21153c1bce3aad1bfd3c5166e4cb085 size: 1159
+sync image /debian-iptables done.
+sync image /debian-iptables-amd64 done.
+sync image /debian-iptables-arm done.
+sync image /debian-iptables-arm64 done.
+sync image /debian-iptables-ppc64le done.
+sync image /debian-iptables-s390x done.
+sync image /defaultbackend done.
+sync image /defaultbackend-amd64 done.
+sync image /defaultbackend-arm done.
+sync image /defaultbackend-arm64 done.
+sync image /defaultbackend-ppc64le done.
+sync image /defaultbackend-s390x done.
+sync image /device-plugin-gpu done.
+sync image /dns-pod-autoscaler done.
+sync image /dns-rc-autoscaler done.
+sync image /dnsmasq done.
+sync image /dnsmasq-amd64 done.
+sync image /dnsmasq-metrics-amd64 done.
+sync image /dnsmasq-metrics-arm done.
+sync image /dnsmasq-metrics-arm64 done.
+sync image /dnsmasq-metrics-ppc64le done.
+sync image /dnsutils done.
+sync image /e2e-net-amd64 done.
+sync image /echoserver done.
+sync image /echoserver-amd64 done.
+sync image /echoserver-arm done.
+sync image /echoserver-ppc64le done.
+sync image /elasticsearch done.
+sync image /eptest done.
+sync image /etcd done.
+sync image /etcd-amd64 done.
+sync image /etcd-arm done.
+sync image /etcd-arm64 done.
+sync image /etcd-empty-dir-cleanup done.
+sync image /etcd-ppc64le done.
+sync image /etcd-s390x done.
+sync image /etcd-statefulset-e2e-test done.
+sync image /etcd-version-monitor done.
+sync image /etcd-version-monitor-shyamjvs done.
+sync image /etcd_monitor_shyamjvs done.
+sync image /etcd_probe_shyamjvs done.
+sync image /etcd_version_monitor done.
+sync image /etcd_version_monitor_shyamjvs done.
+sync image /event-exporter done.
+sync image /example-dns-backend done.
+sync image /example-dns-frontend done.
+sync image /example-guestbook-php-redis done.
+sync image /exechealthz done.
+sync image /exechealthz-amd64 done.
+sync image /exechealthz-arm done.
+sync image /exechealthz-arm64 done.
+sync image /exechealthz-ppc64le done.
+sync image /exechealthz-s390x done.
+sync image /explorer done.
+sync image /fakegitserver done.
+sync image /federation-apiserver done.
+sync image /federation-apiserver-amd64 done.
+sync image /federation-apiserver-arm done.
+sync image /federation-apiserver-arm64 done.
+sync image /federation-apiserver-ppc64le done.
+sync image /federation-controller-manager done.
+sync image /federation-controller-manager-amd64 done.
+sync image /federation-controller-manager-arm done.
+sync image /federation-controller-manager-arm64 done.
+sync image /federation-controller-manager-ppc64le done.
+sync image /fetcher done.
+sync image /flannel-amd64 done.
+sync image /flannel-arm done.
+sync image /flannel-arm64 done.
+sync image /flannel-ppc64le done.
+sync image /flannel-server-helper done.
+v2.4.0: Pulling from google-containers/fluentd-elasticsearch
+177e7ef0df69: Pulling fs layer
+8f041feaf328: Pulling fs layer
+c34c3d823a94: Pulling fs layer
+7b58bb751841: Pulling fs layer
+e0f43b46c7b2: Pulling fs layer
+66a724cb3852: Pulling fs layer
+45ab98f06017: Pulling fs layer
+e0f43b46c7b2: Waiting
+66a724cb3852: Waiting
+45ab98f06017: Waiting
+7b58bb751841: Waiting
+sync image /fluentd-elasticsearch done.
+8f041feaf328: Verifying Checksum
+8f041feaf328: Download complete
+c34c3d823a94: Verifying Checksum
+c34c3d823a94: Download complete
+7b58bb751841: Verifying Checksum
+7b58bb751841: Download complete
+66a724cb3852: Verifying Checksum
+66a724cb3852: Download complete
+177e7ef0df69: Verifying Checksum
+177e7ef0df69: Download complete
+45ab98f06017: Verifying Checksum
+45ab98f06017: Download complete
+e0f43b46c7b2: Verifying Checksum
+e0f43b46c7b2: Download complete
+sync image /fluentd-gcp done.
+sync image /fluentd-gcp-scaler done.
+sync image /fluentd-journal-gcp done.
+177e7ef0df69: Pull complete
+8f041feaf328: Pull complete
+c34c3d823a94: Pull complete
+7b58bb751841: Pull complete
+sync image /fluentd-sidecar-es done.
+sync image /fluentd-sidecar-gcp done.
+sync image /galera-install done.
+sync image /gci-mounter done.
+sync image /gcp-controller-manager done.
+e0f43b46c7b2: Pull complete
+66a724cb3852: Pull complete
+45ab98f06017: Pull complete
+Digest: sha256:5a704c386f66bb3c24e3bcf2e94269c426f1473100fcd37b31579ca8b709c558
+Status: Downloaded newer image for gcr.io/google-containers/fluentd-elasticsearch:v2.4.0
+The push refers to repository [docker.io/babygod/fluentd-elasticsearch]
+sync image /gcsweb-amd64 done.
+54b3e3cb3aea: Preparing
+dc70582d9216: Preparing
+5d55479caf70: Preparing
+560d50640c3b: Preparing
+98afff3d9703: Preparing
+dd68c3069531: Preparing
+7b4e562e58dc: Preparing
+dd68c3069531: Waiting
+7b4e562e58dc: Waiting
+sync image /gen-swagger-docs done.
+sync image /git-sync done.
+560d50640c3b: Pushed
+dc70582d9216: Pushed
+98afff3d9703: Pushed
+54b3e3cb3aea: Pushed
+sync image /git-sync-amd64 done.
+sync image /github-fetcher done.
+dd68c3069531: Pushed
+sync image /github-token-counter done.
+sync image /github-transform done.
+sync image /gitolite-http done.
+sync image /gke-certificates-controller done.
+sync image /gke-launcher done.
+sync image /gke-master-backup done.
+sync image /gke-mpi-api-server done.
+sync image /gke-mpi-metadata-server done.
+7b4e562e58dc: Pushed
+sync image /gke-node-termination-handler done.
+sync image /glbc done.
+5d55479caf70: Pushed
+sync image /google-containers-test-image done.
+sync image /goproxy done.
+sync image /guestbook done.
+v2.4.0: digest: sha256:5a704c386f66bb3c24e3bcf2e94269c426f1473100fcd37b31579ca8b709c558 size: 1776
+sync image /gvisor-admission-webhook-amd64 done.
+sync image /haproxy done.
+sync image /healthz-server done.
+sync image /heapster done.
+sync image /heapster-amd64 done.
+sync image /heapster-arm done.
+sync image /heapster-arm64 done.
+sync image /heapster-grafana done.
+sync image /heapster-grafana-amd64 done.
+sync image /heapster-grafana-arm done.
+sync image /heapster-grafana-arm64 done.
+sync image /heapster-grafana-ppc64le done.
+sync image /heapster-grafana-s390x done.
+sync image /heapster-influxdb done.
+sync image /heapster-influxdb-amd64 done.
+sync image /heapster-influxdb-arm done.
+sync image /heapster-influxdb-arm64 done.
+sync image /heapster-influxdb-ppc64le done.
+sync image /heapster-influxdb-s390x done.
+sync image /heapster-ppc64le done.
+sync image /heapster-s390x done.
+sync image /heapster_grafana done.
+sync image /heapster_influxdb done.
+sync image /hostexec done.
+sync image /hpa-example done.
+sync image /hugo done.
+sync image /hyperkube done.
+sync image /hyperkube-amd64 done.
+sync image /hyperkube-arm done.
+sync image /hyperkube-arm64 done.
+sync image /hyperkube-ppc64le done.
+sync image /hyperkube-s390x done.
+sync image /ingress-gce-glbc-amd64 done.
+sync image /ip-masq-agent-amd64 done.
+sync image /ip-masq-agent-arm done.
+sync image /ip-masq-agent-arm64 done.
+sync image /ip-masq-agent-ppc64le done.
+sync image /iperf done.
+sync image /jessie-dnsutils done.
+sync image /jsandtest done.
+sync image /k8s-cloud-kms-plugin done.
+sync image /k8s-custom-iptables done.
+sync image /k8s-dns-dnsmasq-amd64 done.
+sync image /k8s-dns-dnsmasq-arm done.
+sync image /k8s-dns-dnsmasq-arm64 done.
+sync image /k8s-dns-dnsmasq-nanny done.
+sync image /k8s-dns-dnsmasq-nanny-amd64 done.
+sync image /k8s-dns-dnsmasq-nanny-arm done.
+sync image /k8s-dns-dnsmasq-nanny-arm64 done.
+sync image /k8s-dns-dnsmasq-nanny-ppc64le done.
+sync image /k8s-dns-dnsmasq-nanny-s390x done.
+sync image /k8s-dns-dnsmasq-ppc64le done.
+sync image /k8s-dns-dnsmasq-s390x done.
+sync image /k8s-dns-e2e-amd64 done.
+sync image /k8s-dns-e2e-arm done.
+sync image /k8s-dns-e2e-arm64 done.
+sync image /k8s-dns-e2e-ppc64le done.
+sync image /k8s-dns-ginkgo-amd64 done.
+sync image /k8s-dns-ginkgo-arm done.
+sync image /k8s-dns-ginkgo-arm64 done.
+sync image /k8s-dns-ginkgo-ppc64le done.
+sync image /k8s-dns-kube-dns done.
+sync image /k8s-dns-kube-dns-amd64 done.
+sync image /k8s-dns-kube-dns-arm done.
+sync image /k8s-dns-kube-dns-arm64 done.
+sync image /k8s-dns-kube-dns-ppc64le done.
+sync image /k8s-dns-kube-dns-s390x done.
+sync image /k8s-dns-node-cache done.
+sync image /k8s-dns-node-cache-amd64 done.
+sync image /k8s-dns-node-cache-arm done.
+sync image /k8s-dns-node-cache-arm64 done.
+sync image /k8s-dns-node-cache-ppc64le done.
+sync image /k8s-dns-node-cache-s390x done.
+sync image /k8s-dns-sidecar done.
+sync image /k8s-dns-sidecar-amd64 done.
+sync image /k8s-dns-sidecar-arm done.
+sync image /k8s-dns-sidecar-arm64 done.
+sync image /k8s-dns-sidecar-e2e-amd64 done.
+sync image /k8s-dns-sidecar-e2e-arm done.
+sync image /k8s-dns-sidecar-e2e-arm64 done.
+sync image /k8s-dns-sidecar-e2e-ppc64le done.
+sync image /k8s-dns-sidecar-ppc64le done.
+sync image /k8s-dns-sidecar-s390x done.
+sync image /k8s-jupyterhub done.
+sync image /k8s-tpu-operator done.
+sync image /kibana done.
+sync image /kube-addon-manager done.
+sync image /kube-addon-manager-amd64 done.
+sync image /kube-addon-manager-arm done.
+sync image /kube-addon-manager-arm64 done.
+sync image /kube-addon-manager-ppc64le done.
+sync image /kube-addon-manager-s390x done.
+sync image /kube-aggregator done.
+sync image /kube-aggregator-amd64 done.
+sync image /kube-aggregator-arm done.
+sync image /kube-aggregator-arm64 done.
+sync image /kube-aggregator-ppc64le done.
+sync image /kube-aggregator-s390x done.
+sync image /kube-apiserver done.
+sync image /kube-apiserver-amd64 done.
+sync image /kube-apiserver-arm done.
+sync image /kube-apiserver-arm64 done.
+sync image /kube-apiserver-ppc64le done.
+sync image /kube-apiserver-s390x done.
+sync image /kube-controller-manager done.
+sync image /kube-controller-manager-amd64 done.
+sync image /kube-controller-manager-arm done.
+sync image /kube-controller-manager-arm64 done.
+sync image /kube-controller-manager-ppc64le done.
+sync image /kube-controller-manager-s390x done.
+sync image /kube-cross done.
+sync image /kube-discovery-amd64 done.
+sync image /kube-discovery-arm done.
+sync image /kube-discovery-arm64 done.
+sync image /kube-dns-perf-client-amd64 done.
+sync image /kube-dnsmasq-amd64 done.
+sync image /kube-dnsmasq-arm done.
+sync image /kube-dnsmasq-arm64 done.
+sync image /kube-dnsmasq-ppc64le done.
+sync image /kube-haproxy done.
+sync image /kube-keepalived-vip done.
+sync image /kube-nethealth-amd64 done.
+sync image /kube-proxy done.
+sync image /kube-proxy-amd64 done.
+sync image /kube-proxy-arm done.
+sync image /kube-proxy-arm64 done.
+sync image /kube-proxy-ppc64le done.
+sync image /kube-proxy-s390x done.
+sync image /kube-registry-proxy done.
+sync image /kube-scheduler done.
+sync image /kube-scheduler-amd64 done.
+sync image /kube-scheduler-arm done.
+sync image /kube-scheduler-arm64 done.
+sync image /kube-scheduler-ppc64le done.
+sync image /kube-scheduler-s390x done.
+sync image /kube-state-metrics done.
+v1.5.0: Pulling from google-containers/kube-state-metrics
+cd784148e348: Pulling fs layer
+cff0390a13ca: Pulling fs layer
+cd784148e348: Verifying Checksum
+cd784148e348: Download complete
+cff0390a13ca: Verifying Checksum
+cff0390a13ca: Download complete
+cd784148e348: Pull complete
+sync image /kube-state-metrics-amd64 done.
+v1.5.0: Pulling from google-containers/kube-state-metrics-amd64
+cd784148e348: Already exists
+cff0390a13ca: Pulling fs layer
+cff0390a13ca: cff0390a13ca: Pull complete
+Pull complete
+Digest: sha256:37c4ddfa160043a7fd73703b7cae41cf38b692ca19c1dff722293c90a386b59f
+Digest: sha256:37c4ddfa160043a7fd73703b7cae41cf38b692ca19c1dff722293c90a386b59f
+Status: Downloaded newer image for gcr.io/google-containers/kube-state-metrics:v1.5.0
+Status: Downloaded newer image for gcr.io/google-containers/kube-state-metrics-amd64:v1.5.0
+The push refers to repository [docker.io/babygod/kube-state-metrics]
+The push refers to repository [docker.io/babygod/kube-state-metrics-amd64]
+e0b1f98dc972: Preparing
+7bff100f35cb: Preparing
+e0b1f98dc972: Preparing
+7bff100f35cb: Preparing
+sync image /kube-state-metrics-arm done.
+sync image /kube-state-metrics-arm64 done.
+sync image /kube-state-metrics-ppc64le done.
+sync image /kube-state-metrics-s390x done.
+sync image /kube-ui done.
+7bff100f35cb: Pushed
+sync image /kube2sky done.
+7bff100f35cb: Pushed
+sync image /kube2sky-amd64 done.
+sync image /kube2sky-arm done.
+e0b1f98dc972: Pushed
+sync image /kube2sky-arm64 done.
+e0b1f98dc972: Pushed
+sync image /kube2sky-ppc64le done.
+sync image /kubectl done.
+v1.5.0: digest: sha256:37c4ddfa160043a7fd73703b7cae41cf38b692ca19c1dff722293c90a386b59f size: 739
+sync image /kubedash done.
+sync image /kubedns-amd64 done.
+v1.5.0: digest: sha256:37c4ddfa160043a7fd73703b7cae41cf38b692ca19c1dff722293c90a386b59f size: 739
+sync image /kubedns-arm done.
+sync image /kubedns-arm64 done.
+sync image /kubedns-ppc64le done.
+sync image /kubekins-e2e done.
+sync image /kubekins-job-builder done.
+sync image /kubekins-test done.
+sync image /kubelet-to-gcm done.
+sync image /kubernetes-dashboard done.
+sync image /kubernetes-dashboard-amd64 done.
+sync image /kubernetes-dashboard-arm done.
+sync image /kubernetes-dashboard-arm64 done.
+sync image /kubernetes-dashboard-init-amd64 done.
+sync image /kubernetes-dashboard-init-arm done.
+sync image /kubernetes-dashboard-ppc64le done.
+sync image /kubernetes-dashboard-s390x done.
+sync image /kubernetes-kafka done.
+sync image /kubernetes-zookeeper done.
+sync image /leader-elector done.
+sync image /liveness done.
+sync image /loader done.
+sync image /logexp done.
+sync image /logexporter done.
+sync image /logs-generator done.
+sync image /managed-certificate-controller done.
+sync image /metadata-proxy done.
+sync image /metrics-server done.
+sync image /metrics-server-amd64 done.
+sync image /metrics-server-arm done.
+sync image /metrics-server-arm64 done.
+sync image /metrics-server-ppc64le done.
+sync image /metrics-server-s390x done.
+sync image /minikube-nvidia-driver-installer done.
+sync image /mongodb-install done.
+sync image /mounttest done.
+sync image /mounttest-user done.
+sync image /mungegithub done.
+sync image /mysql-galera done.
+sync image /mysql-healthz done.
+sync image /n-way-http done.
+sync image /netd done.
+sync image /netd-amd64 done.
+sync image /netexec done.
+sync image /netproxy done.
+sync image /nettest done.
+sync image /nginx done.
+sync image /nginx-ingress done.
+sync image /nginx-ingress-controller done.
+sync image /nginx-ingress-controller-amd64 done.
+sync image /nginx-ingress-controller-arm done.
+sync image /nginx-ingress-controller-arm64 done.
+sync image /nginx-ingress-controller-ppc64le done.
+sync image /nginx-scale done.
+sync image /nginx-slim done.
+sync image /nginx-slim-amd64 done.
+sync image /nginx-slim-arm done.
+sync image /nginx-slim-arm64 done.
+sync image /nginx-slim-ppc64le done.
+sync image /nginx-third-party done.
+sync image /no-snat-test-amd64 done.
+sync image /no-snat-test-proxy-amd64 done.
+sync image /node-conformance done.
+sync image /node-perf-dash done.
+sync image /node-problem-detector done.
+sync image /node-test done.
+sync image /node-test-amd64 done.
+sync image /node-test-arm done.
+sync image /node-test-arm64 done.
+sync image /nodejs-election-client done.
+sync image /non-masquerade-daemon-amd64 done.
+sync image /nonewprivs done.
+sync image /nvidia-gpu-device-plugin done.
+sync image /pause done.
+sync image /pause-amd64 done.
+sync image /pause-arm done.
+sync image /pause-arm64 done.
+sync image /pause-ppc64le done.
+sync image /pause-s390x done.
+sync image /peer-finder done.
+sync image /perfdash done.
+sync image /podmaster done.
+sync image /porter done.
+sync image /portforwardtester done.
+sync image /prometheus-dummy-exporter done.
+sync image /prometheus-to-sd done.
+sync image /proxy-to-service done.
+sync image /publisher done.
+sync image /python done.
+sync image /queue-health-base done.
+sync image /queue-health-graph done.
+sync image /queue-health-poll done.
+sync image /redis done.
+sync image /redis-install done.
+sync image /redis-install-3.2.0 done.
+sync image /redis-slave done.
+sync image /registry-promoter-test-image done.
+sync image /rescheduler done.
+sync image /rescheduler-amd64 done.
+sync image /rescheduler-arm done.
+sync image /rescheduler-arm64 done.
+sync image /rescheduler-ppc64le done.
+sync image /rescheduler-s390x done.
+sync image /resource_consumer done.
+sync image /rethinkdb done.
+sync image /sd-dummy-exporter done.
+sync image /serve-hostname-amd64 done.
+sync image /serve-hostname-arm done.
+sync image /serve-hostname-arm64 done.
+sync image /serve-hostname-ppc64le done.
+sync image /serve-hostname-s390x done.
+sync image /serve_hostname done.
+sync image /serve_hostname-amd64 done.
+sync image /serve_hostname-arm done.
+sync image /serve_hostname-arm64 done.
+sync image /serve_hostname-ppc64le done.
+sync image /serve_hostname-s390x done.
+sync image /servicelb done.
+sync image /shame-mailer done.
+sync image /shyamjvs-logexp done.
+sync image /shyamjvs-prometheus-to-sd done.
+sync image /skydns done.
+sync image /skydns-amd64 done.
+sync image /skydns-arm done.
+sync image /skydns-arm64 done.
+sync image /skydns-ppc64le done.
+sync image /slo-monitor done.
+sync image /spark done.
+sync image /spark-base done.
+sync image /spark-driver done.
+sync image /spark-master done.
+sync image /spark-worker done.
+sync image /spartakus-amd64 done.
+sync image /startup-script done.
+sync image /stress done.
+sync image /submit-queue done.
+sync image /tensorflow-gpu-notebook done.
+sync image /test-webserver done.
+sync image /test_subdir_1 done.
+sync image /tf-models done.
+sync image /tiny-glibc-amd64 done.
+sync image /tiny-glibc-arm done.
+sync image /tiny-glibc-arm64 done.
+sync image /tiny-glibc-ppc64le done.
+sync image /toolbox done.
+sync image /ubuntu done.
+sync image /ubuntu-nvidia-driver-installer done.
+sync image /ubuntu-slim done.
+sync image /ubuntu-slim-amd64 done.
+sync image /ubuntu-slim-arm done.
+sync image /ubuntu-slim-arm64 done.
+sync image /ubuntu-slim-ppc64le done.
+sync image /update-demo done.
+sync image /volume-ceph done.
+sync image /volume-csi done.
+sync image /volume-gluster done.
+sync image /volume-iscsi done.
+sync image /volume-nfs done.
+sync image /volume-rbd done.
+sync image /vpa-admission-controller done.
+sync image /vpa-recommender done.
+sync image /vpa-updater done.
+sync image /webhooks-publisher done.
+sync image /zeppelin done.
+sync image /zeppelin-proxy done.
+sync image /zookeeper-install done.
+Deleted Images:
+untagged: babygod/kube-state-metrics-amd64:v1.5.0
+untagged: babygod/kube-state-metrics-amd64@sha256:37c4ddfa160043a7fd73703b7cae41cf38b692ca19c1dff722293c90a386b59f
+untagged: babygod/kube-state-metrics:v1.5.0
+untagged: babygod/kube-state-metrics@sha256:37c4ddfa160043a7fd73703b7cae41cf38b692ca19c1dff722293c90a386b59f
+untagged: gcr.io/google-containers/kube-state-metrics-amd64:v1.5.0
+untagged: gcr.io/google-containers/kube-state-metrics-amd64@sha256:37c4ddfa160043a7fd73703b7cae41cf38b692ca19c1dff722293c90a386b59f
+untagged: gcr.io/google-containers/kube-state-metrics:v1.5.0
+untagged: gcr.io/google-containers/kube-state-metrics@sha256:37c4ddfa160043a7fd73703b7cae41cf38b692ca19c1dff722293c90a386b59f
+deleted: sha256:6bc1dab4a36d35a88b9b4c13f7e8445926fafe1402f4e49202a95141084e8751
+deleted: sha256:0bd487edc485325caec2ec4f6a4f3e17f8729ccaaf7b709eadfb870a1d3c1326
+deleted: sha256:7bff100f35cb359a368537bb07829b055fe8e0b1cb01085a3a628ae9c187c7b8
+untagged: babygod/cluster-autoscaler:v1.12.2
+untagged: babygod/cluster-autoscaler@sha256:53ed4df0ff69c94c1b66ed6bb4dd7b7cb21153c1bce3aad1bfd3c5166e4cb085
+untagged: gcr.io/google-containers/cluster-autoscaler:v1.12.2
+untagged: gcr.io/google-containers/cluster-autoscaler@sha256:dc5744fd8c22aebfe40d6b62ab97d18d7bfbfc7ab1782509d69a5a9ec514df2c
+deleted: sha256:d67faca6c0aa9ed725462f1f3a3ed22f44ba09cf27d7fb8dd9b1c7d4f873381a
+deleted: sha256:3c3b3a2afef3c43a368847af821f54cb34433f13a82d56f49c0fd581772f4a51
+deleted: sha256:bd9ee7c74543c2acbd870b1c864b555f75d34a09d69d99c2010b33baa703ebb6
+deleted: sha256:9280eb62baa1cfbb779bc4aef76ca3608de3b3b50e14de75e8a241b36954d3fb
+deleted: sha256:0c1604b64aedf4f5060a25da1b96b21aa803a878ce475633d02a4aba854252a7
+untagged: babygod/fluentd-elasticsearch:v2.4.0
+untagged: babygod/fluentd-elasticsearch@sha256:5a704c386f66bb3c24e3bcf2e94269c426f1473100fcd37b31579ca8b709c558
+untagged: gcr.io/google-containers/fluentd-elasticsearch:v2.4.0
+untagged: gcr.io/google-containers/fluentd-elasticsearch@sha256:5a704c386f66bb3c24e3bcf2e94269c426f1473100fcd37b31579ca8b709c558
+deleted: sha256:3e1d4aedc631e0104f4737eae846438e0fa30976942808525740cbd4db149a7a
+deleted: sha256:9b66df01298897a1330aa7415ef76aab031d7b5c71e6555e74246f76e44efbaa
+deleted: sha256:5e53aada767b60fa1f93d3f6b449ad4a80bd9ae58c4df80cd2de341242ace3fb
+deleted: sha256:15fb6748c6db8453b492cb214601d5d26f79df7d0d93711b7e1ce5d4719d38d0
+deleted: sha256:9377bc3094c92e3cf77d3be29f3af9e77d8b146c147f6ad90cb9d011e3d27312
+deleted: sha256:452460fd8ca0675be2c0ce86bb6834b29b5ea5840e0e45bfda9684c78315227e
+deleted: sha256:29da8a080ba1a19753579a21a61eacd0c4ab8e5adc7012f6cfbedf880f89a18b
+deleted: sha256:7b4e562e58dcb7fbe1e27bb274f0ff8bfeb2fd965203380436e159df9f218900
+
+Total reclaimed space: 403.9MB
+sync image /zookeeper-install-3.5.0-alpha done.
