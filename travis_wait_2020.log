@@ -256,3 +256,9 @@ sync image /aggregator done.
 To github.com:babyshen/gcr.io.git
    f13af994..ffb24bca  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop e4003a2f] Synchronizing completion at 2019-01-15
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   ffb24bca..e4003a2f  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /alpine-iptables-amd64 done.
