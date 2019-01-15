@@ -245,3 +245,9 @@ sync image /addon-resizer-s390x done.
 To github.com:babyshen/gcr.io.git
    33fe9bc4..67a024cf  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop f13af994] Synchronizing completion at 2019-01-15
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   67a024cf..f13af994  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+sync image /aggregator done.
