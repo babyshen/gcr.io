@@ -77,3 +77,9 @@ Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
 Setting up google-cloud-sdk (229.0.0-0) ...
 Activated service account credentials for: [babyshen@babyshen.iam.gserviceaccount.com]
 get repository list done
+[develop 86736e5b] Synchronizing completion at 2019-01-15
+ 2 files changed, 79 insertions(+), 2 deletions(-)
+ create mode 100644 travis_wait_2020.log
+To github.com:babyshen/gcr.io.git
+   93966f85..86736e5b  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
