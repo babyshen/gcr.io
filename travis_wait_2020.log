@@ -251,3 +251,8 @@ To github.com:babyshen/gcr.io.git
    67a024cf..f13af994  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /aggregator done.
+[develop ffb24bca] Synchronizing completion at 2019-01-15
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To github.com:babyshen/gcr.io.git
+   f13af994..ffb24bca  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
