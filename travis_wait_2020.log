@@ -104,3 +104,8 @@ To github.com:babyshen/gcr.io.git
    d11463f9..047116cf  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 sync image /addon-builder done.
+[develop 9a526196] Synchronizing completion at 2019-01-15
+ 2 files changed, 8 insertions(+)
+To github.com:babyshen/gcr.io.git
+   047116cf..9a526196  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
