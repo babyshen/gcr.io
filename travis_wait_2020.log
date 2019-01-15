@@ -4791,3 +4791,9 @@ Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 To github.com:babyshen/gcr.io.git
    86e79d05..801f911d  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop f8ade574] Synchronizing completion at 2019-01-15
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   801f911d..f8ade574  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
