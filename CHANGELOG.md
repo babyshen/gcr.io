@@ -1,3 +1,4 @@
+-------------------------------at 2019-01-15 01:41:44 sync image repositorys-------------------------------
 -------------------------------at 2019-01-15 01:33:30 sync image repositorys-------------------------------
 - babygod/kube-state-metrics:v1.5.0
 - babygod/kube-state-metrics-amd64:v1.5.0
