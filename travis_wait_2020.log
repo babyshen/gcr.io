@@ -300,3 +300,8 @@ sync image /alpine-with-bash done.
 To github.com:babyshen/gcr.io.git
    870ca6a0..164b7e93  develop -> develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'.
+[develop 186562b7] Synchronizing completion at 2019-01-15
+ 1 file changed, 5 insertions(+)
+To github.com:babyshen/gcr.io.git
+   164b7e93..186562b7  develop -> develop
+Branch 'develop' set up to track remote branch 'develop' from 'origin'.
