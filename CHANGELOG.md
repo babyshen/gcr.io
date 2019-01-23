@@ -1,3 +1,7 @@
+-------------------------------at 2019-01-23 00:18:17 sync image repositorys-------------------------------
+- babygod/cos-kernel-headers:latest
+- babygod/cos-kernel-headers:20190122-R00-00
+- babygod/cos-kernel-headers:live
 -------------------------------at 2019-01-23 00:01:43 sync image repositorys-------------------------------
 -------------------------------at 2019-01-22 23:52:47 sync image repositorys-------------------------------
 -------------------------------at 2019-01-22 23:41:48 sync image repositorys-------------------------------
