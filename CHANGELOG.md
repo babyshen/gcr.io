@@ -1,3 +1,23 @@
+- babygod/hyperkube-arm64:v1.11.8-beta.0
+- babygod/hyperkube-arm64:v1.11.7
+- babygod/hyperkube-arm:v1.11.8-beta.0
+- babygod/hyperkube-arm:v1.11.7
+- babygod/hyperkube-amd64:v1.11.8-beta.0
+- babygod/hyperkube:v1.11.8-beta.0
+- babygod/hyperkube:v1.11.7
+- babygod/hyperkube-amd64:v1.11.7
+- babygod/cloud-controller-manager-s390x:v1.11.7
+- babygod/cloud-controller-manager-s390x:v1.11.8-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.11.7
+- babygod/cloud-controller-manager-ppc64le:v1.11.8-beta.0
+- babygod/cloud-controller-manager-arm:v1.11.7
+- babygod/cloud-controller-manager-arm64:v1.11.7
+- babygod/cloud-controller-manager-arm64:v1.11.8-beta.0
+- babygod/cloud-controller-manager-arm:v1.11.8-beta.0
+- babygod/cloud-controller-manager-amd64:v1.11.8-beta.0
+- babygod/cloud-controller-manager:v1.11.7
+- babygod/cloud-controller-manager:v1.11.8-beta.0
+- babygod/cloud-controller-manager-amd64:v1.11.7
 -------------------------------at 2019-01-24 23:57:14 sync image repositorys-------------------------------
 -------------------------------at 2019-01-24 23:46:11 sync image repositorys-------------------------------
 -------------------------------at 2019-01-24 23:37:04 sync image repositorys-------------------------------
