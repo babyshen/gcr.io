@@ -1,3 +1,20 @@
+-------------------------------at 2019-01-26 00:20:16 sync image repositorys-------------------------------
+- babygod/kube-cross:v1.10.8-1
+- babygod/kube-cross:v1.11.5-1
+- babygod/etcd-s390x:3.2.26
+- babygod/etcd-s390x:3.2.26-0
+- babygod/etcd-ppc64le:3.2.26
+- babygod/etcd-ppc64le:3.2.26-0
+- babygod/git-sync:v3.1.0
+- babygod/etcd-arm64:3.2.26-0
+- babygod/etcd-arm64:3.2.26
+- babygod/etcd-arm:3.2.26-0
+- babygod/etcd-arm:3.2.26
+- babygod/etcd-amd64:3.2.26-0
+- babygod/etcd-amd64:3.2.26
+- babygod/etcd:3.2.26
+- babygod/etcd:3.2.26-0
+- babygod/etcd-empty-dir-cleanup:3.2.26.0
 -------------------------------at 2019-01-25 23:56:34 sync image repositorys-------------------------------
 -------------------------------at 2019-01-25 23:49:54 sync image repositorys-------------------------------
 -------------------------------at 2019-01-25 23:36:34 sync image repositorys-------------------------------
