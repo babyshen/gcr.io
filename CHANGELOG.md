@@ -1,3 +1,10 @@
+-------------------------------at 2019-01-29 00:17:47 sync image repositorys-------------------------------
+- babygod/netd-amd64:0.2.0
+- babygod/netd-amd64:latest
+- babygod/cluster-proportional-autoscaler-ppc64le:1.4.0
+- babygod/cluster-proportional-autoscaler-arm64:1.4.0
+- babygod/cluster-proportional-autoscaler-arm:1.4.0
+- babygod/cluster-proportional-autoscaler-amd64:1.4.0
 -------------------------------at 2019-01-29 00:01:15 sync image repositorys-------------------------------
 -------------------------------at 2019-01-28 23:51:58 sync image repositorys-------------------------------
 -------------------------------at 2019-01-28 23:41:51 sync image repositorys-------------------------------
