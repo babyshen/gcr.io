@@ -1,3 +1,4 @@
+-------------------------------at 2019-01-31 00:31:40 sync image repositorys-------------------------------
 -------------------------------at 2019-01-31 00:21:20 sync image repositorys-------------------------------
 - babygod/zookeeper-install-3.5.0-alpha:e2e
 - babygod/debian-hyperkube-base-s390x:0.12.1
