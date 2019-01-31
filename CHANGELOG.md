@@ -1,3 +1,23 @@
+- babygod/zookeeper-install-3.5.0-alpha:e2e
+- babygod/debian-hyperkube-base-s390x:0.12.1
+- babygod/debian-hyperkube-base-ppc64le:0.12.1
+- babygod/gke-cloud-kms-plugin:0.1
+- babygod/debian-hyperkube-base-arm64:0.12.1
+- babygod/debian-hyperkube-base:0.12.1
+- babygod/debian-hyperkube-base-amd64:0.12.1
+- babygod/debian-hyperkube-base-arm:0.12.1
+- babygod/debian-iptables-ppc64le:v11.0.1
+- babygod/debian-iptables-s390x:v11.0.1
+- babygod/debian-iptables-arm64:v11.0.1
+- babygod/debian-iptables-arm:v11.0.1
+- babygod/debian-iptables:v11.0.1
+- babygod/debian-iptables-amd64:v11.0.1
+- babygod/debian-base-s390x:0.4.1
+- babygod/debian-base-ppc64le:0.4.1
+- babygod/debian-base-arm64:0.4.1
+- babygod/debian-base-arm:0.4.1
+- babygod/debian-base:0.4.1
+- babygod/debian-base-amd64:0.4.1
 -------------------------------at 2019-01-31 00:01:28 sync image repositorys-------------------------------
 -------------------------------at 2019-01-30 23:51:53 sync image repositorys-------------------------------
 -------------------------------at 2019-01-30 23:41:22 sync image repositorys-------------------------------
