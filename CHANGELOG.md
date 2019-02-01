@@ -1,3 +1,4 @@
+-------------------------------at 2019-02-01 01:21:33 sync image repositorys-------------------------------
 -------------------------------at 2019-02-01 01:11:59 sync image repositorys-------------------------------
 - babygod/vpa-updater:0.3.1
 - babygod/vpa-admission-controller:0.3.1
