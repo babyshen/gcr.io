@@ -1,3 +1,6 @@
+-------------------------------at 2019-02-08 00:57:14 sync image repositorys-------------------------------
+- babygod/ubuntu-nvidia-driver-installer:fbca48342ca066be633c30f683b70b7c8ea5d6d0
+- babygod/nvidia-gpu-device-plugin:fbca48342ca066be633c30f683b70b7c8ea5d6d0
 -------------------------------at 2019-02-08 00:02:03 sync image repositorys-------------------------------
 -------------------------------at 2019-02-07 23:51:27 sync image repositorys-------------------------------
 -------------------------------at 2019-02-07 23:41:50 sync image repositorys-------------------------------
