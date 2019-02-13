@@ -1,3 +1,4 @@
+-------------------------------at 2019-02-13 09:08:34 sync image repositorys-------------------------------
 -------------------------------at 2019-02-13 08:56:04 sync image repositorys-------------------------------
 - babygod/managed-certificate-controller:v0.2.2
 - babygod/kube-scheduler-s390x:v1.14.0-alpha.3
