@@ -1,3 +1,23 @@
+- babygod/hyperkube-arm:v1.10.13
+- babygod/hyperkube-arm:v1.10.14-beta.0
+- babygod/hyperkube-amd64:v1.10.13
+- babygod/hyperkube:v1.10.13
+- babygod/hyperkube-amd64:v1.10.14-beta.0
+- babygod/hyperkube:v1.10.14-beta.0
+- babygod/gke-cloud-kms-sync:0.1
+- babygod/gke-cloud-kms-plugin:0.2
+- babygod/cloud-controller-manager-s390x:v1.10.14-beta.0
+- babygod/cloud-controller-manager-s390x:v1.10.13
+- babygod/cloud-controller-manager-ppc64le:v1.10.13
+- babygod/cloud-controller-manager-arm64:v1.10.13
+- babygod/cloud-controller-manager-ppc64le:v1.10.14-beta.0
+- babygod/cloud-controller-manager-arm64:v1.10.14-beta.0
+- babygod/cloud-controller-manager-arm:v1.10.13
+- babygod/cloud-controller-manager-arm:v1.10.14-beta.0
+- babygod/cloud-controller-manager-amd64:v1.10.13
+- babygod/cloud-controller-manager:v1.10.14-beta.0
+- babygod/cloud-controller-manager:v1.10.13
+- babygod/cloud-controller-manager-amd64:v1.10.14-beta.0
 -------------------------------at 2019-02-14 00:02:00 sync image repositorys-------------------------------
 -------------------------------at 2019-02-13 23:51:42 sync image repositorys-------------------------------
 -------------------------------at 2019-02-13 23:42:49 sync image repositorys-------------------------------
