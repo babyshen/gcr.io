@@ -1,3 +1,8 @@
+-------------------------------at 2019-02-21 00:19:14 sync image repositorys-------------------------------
+- babygod/vpa-updater:0.4.0
+- babygod/vpa-recommender:0.4.0
+- babygod/vpa-admission-controller:0.4.0
+- babygod/custom-metrics-stackdriver-adapter:v0.9.0
 -------------------------------at 2019-02-21 00:01:44 sync image repositorys-------------------------------
 -------------------------------at 2019-02-20 23:51:54 sync image repositorys-------------------------------
 -------------------------------at 2019-02-20 23:42:53 sync image repositorys-------------------------------
