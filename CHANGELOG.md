@@ -1,3 +1,4 @@
+-------------------------------at 2019-02-24 01:11:51 sync image repositorys-------------------------------
 -------------------------------at 2019-02-24 01:01:58 sync image repositorys-------------------------------
 - babygod/ubuntu-nvidia-driver-installer:17ba3dcf8b6b7551dc8a6cd68ca4119c4fd3a2b9
 - babygod/ubuntu-nvidia-driver-installer:4d5db9638165d86f0c58001f45ea111ce3d8e4a0
