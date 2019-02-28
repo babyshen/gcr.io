@@ -1,3 +1,11 @@
+-------------------------------at 2019-02-28 00:28:20 sync image repositorys-------------------------------
+- babygod/prometheus-to-sd:v0.5.0
+- babygod/kube-state-metrics-s390x:v1.5.0
+- babygod/kube-cross:v1.12.0-1
+- babygod/kube-state-metrics-ppc64le:v1.5.0
+- babygod/kube-state-metrics-arm64:v1.5.0
+- babygod/kube-state-metrics-arm:v1.5.0
+- babygod/ingress-gce-glbc-amd64:v1.5.0
 -------------------------------at 2019-02-27 23:56:55 sync image repositorys-------------------------------
 -------------------------------at 2019-02-27 23:46:48 sync image repositorys-------------------------------
 -------------------------------at 2019-02-27 23:37:11 sync image repositorys-------------------------------
