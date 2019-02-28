@@ -1,3 +1,4 @@
+-------------------------------at 2019-02-28 00:36:55 sync image repositorys-------------------------------
 -------------------------------at 2019-02-28 00:28:20 sync image repositorys-------------------------------
 - babygod/prometheus-to-sd:v0.5.0
 - babygod/kube-state-metrics-s390x:v1.5.0
