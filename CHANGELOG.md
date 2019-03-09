@@ -1,3 +1,8 @@
+-------------------------------at 2019-03-09 00:14:51 sync image repositorys-------------------------------
+- babygod/kubelet-to-gcm:1.2.10
+- babygod/cluster-autoscaler:v1.12.3
+- babygod/cluster-autoscaler:v1.3.8
+- babygod/cluster-autoscaler:v1.14.0-beta.1
 -------------------------------at 2019-03-08 23:56:51 sync image repositorys-------------------------------
 -------------------------------at 2019-03-08 23:46:48 sync image repositorys-------------------------------
 -------------------------------at 2019-03-08 23:37:46 sync image repositorys-------------------------------
