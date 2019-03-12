@@ -1,3 +1,7 @@
+-------------------------------at 2019-03-12 00:13:06 sync image repositorys-------------------------------
+- babygod/gke-metadata-server:0cc277a18a8958daf46012010175fddd5f8ac044
+- babygod/gke-metadata-server:v0.2.0
+- babygod/cluster-autoscaler:v1.13.2
 -------------------------------at 2019-03-11 23:57:11 sync image repositorys-------------------------------
 -------------------------------at 2019-03-11 23:47:08 sync image repositorys-------------------------------
 -------------------------------at 2019-03-11 23:37:29 sync image repositorys-------------------------------
