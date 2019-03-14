@@ -1,3 +1,4 @@
+-------------------------------at 2019-03-14 00:37:12 sync image repositorys-------------------------------
 -------------------------------at 2019-03-14 00:26:38 sync image repositorys-------------------------------
 - babygod/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10
 - babygod/gke-metadata-server:v0.2.1
