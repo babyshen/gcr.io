@@ -1,3 +1,9 @@
+-------------------------------at 2019-03-16 00:20:08 sync image repositorys-------------------------------
+- babygod/kube-cross:v1.12.1-1
+- babygod/prometheus-to-sd:v0.5.1
+- babygod/gke-metadata-server:v0.2.2
+- babygod/gke-metadata-server:24c80908bf1c4b1ce589bc755b6f05904fc589b6
+- babygod/cluster-autoscaler:v1.14.0-beta.2
 -------------------------------at 2019-03-16 00:02:06 sync image repositorys-------------------------------
 -------------------------------at 2019-03-15 23:51:30 sync image repositorys-------------------------------
 -------------------------------at 2019-03-15 23:42:02 sync image repositorys-------------------------------
