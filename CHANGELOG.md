@@ -1,3 +1,4 @@
+-------------------------------at 2019-03-19 00:37:01 sync image repositorys-------------------------------
 -------------------------------at 2019-03-19 00:29:59 sync image repositorys-------------------------------
 - babygod/kube-cross:v1.12.1-2
 - babygod/ingress-gce-glbc-amd64:v1.5.1
