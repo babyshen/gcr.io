@@ -1,3 +1,4 @@
+-------------------------------at 2019-03-21 00:32:45 sync image repositorys-------------------------------
 -------------------------------at 2019-03-21 00:21:08 sync image repositorys-------------------------------
 - babygod/gvisor-admission-webhook-amd64:78c403330522711939493a920c9df5157c08289b
 - babygod/gcp-controller-manager:e463d10aaa01cde79b4ea9125a9e52626baa6a19
