@@ -1,3 +1,23 @@
+- babygod/cloud-controller-manager-arm:v1.13.5
+- babygod/cloud-controller-manager-arm:v1.14.1-beta.0
+- babygod/cloud-controller-manager-arm:v1.13.6-beta.0
+- babygod/cloud-controller-manager:v1.12.8-beta.0
+- babygod/cloud-controller-manager-amd64:v1.12.7
+- babygod/cloud-controller-manager-arm:v1.14.0
+- babygod/cloud-controller-manager:v1.12.7
+- babygod/cloud-controller-manager:v1.14.1-beta.0
+- babygod/cloud-controller-manager-amd64:v1.12.8-beta.0
+- babygod/cloud-controller-manager-amd64:v1.14.1-beta.0
+- babygod/cloud-controller-manager-amd64:v1.14.0
+- babygod/cloud-controller-manager-amd64:v1.11.10-beta.0
+- babygod/cloud-controller-manager:v1.14.0
+- babygod/cloud-controller-manager-amd64:v1.11.9
+- babygod/cloud-controller-manager-amd64:v1.13.5
+- babygod/cloud-controller-manager:v1.11.9
+- babygod/cloud-controller-manager:v1.11.10-beta.0
+- babygod/cloud-controller-manager-amd64:v1.13.6-beta.0
+- babygod/cloud-controller-manager:v1.13.5
+- babygod/cloud-controller-manager:v1.13.6-beta.0
 -------------------------------at 2019-03-26 00:02:30 sync image repositorys-------------------------------
 -------------------------------at 2019-03-25 23:52:11 sync image repositorys-------------------------------
 -------------------------------at 2019-03-25 23:42:07 sync image repositorys-------------------------------
