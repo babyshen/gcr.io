@@ -1,3 +1,4 @@
+-------------------------------at 2019-03-30 00:26:56 sync image repositorys-------------------------------
 -------------------------------at 2019-03-30 00:18:08 sync image repositorys-------------------------------
 - babygod/cluster-proportional-autoscaler-ppc64le:1.5.0
 - babygod/cluster-proportional-autoscaler-arm64:1.5.0
