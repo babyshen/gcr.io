@@ -1,3 +1,10 @@
+-------------------------------at 2019-04-02 00:17:08 sync image repositorys-------------------------------
+- babygod/debian-iptables-ppc64le:v11.0.2
+- babygod/debian-iptables-s390x:v11.0.2
+- babygod/debian-iptables-arm64:v11.0.2
+- babygod/debian-iptables-arm:v11.0.2
+- babygod/debian-iptables:v11.0.2
+- babygod/debian-iptables-amd64:v11.0.2
 -------------------------------at 2019-04-01 23:28:29 sync image repositorys-------------------------------
 -------------------------------at 2019-04-01 22:39:28 sync image repositorys-------------------------------
 -------------------------------at 2019-04-01 22:12:52 sync image repositorys-------------------------------
