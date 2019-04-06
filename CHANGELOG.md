@@ -1,3 +1,4 @@
+-------------------------------at 2019-04-06 00:22:11 sync image repositorys-------------------------------
 -------------------------------at 2019-04-06 00:10:26 sync image repositorys-------------------------------
 - babygod/node-problem-detector:v0.6.3
 - babygod/cadvisor:v0.33.0
