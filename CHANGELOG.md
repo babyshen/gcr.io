@@ -1,3 +1,4 @@
+-------------------------------at 2019-04-09 00:32:18 sync image repositorys-------------------------------
 -------------------------------at 2019-04-09 00:22:40 sync image repositorys-------------------------------
 - babygod/watcher-daemonset:latest
 - babygod/kube-scheduler-s390x:v1.14.1
