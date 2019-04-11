@@ -1,3 +1,9 @@
+-------------------------------at 2019-04-11 01:02:04 sync image repositorys-------------------------------
+- babygod/metrics-server-s390x:v0.3.2
+- babygod/metrics-server-ppc64le:v0.3.2
+- babygod/metrics-server-arm64:v0.3.2
+- babygod/metrics-server-arm:v0.3.2
+- babygod/metrics-server-amd64:v0.3.2
 -------------------------------at 2019-04-10 23:57:00 sync image repositorys-------------------------------
 -------------------------------at 2019-04-10 23:47:09 sync image repositorys-------------------------------
 -------------------------------at 2019-04-10 23:36:58 sync image repositorys-------------------------------
