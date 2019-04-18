@@ -1,3 +1,11 @@
+-------------------------------at 2019-04-18 00:18:23 sync image repositorys-------------------------------
+- babygod/managed-certificate-controller:v0.3.1
+- babygod/kube-cross:v1.12.4-1
+- babygod/fluentd-gcp:2.1.1
+- babygod/gke-metadata-server:89f06b8083c6bfc052eb504af55e9b91b944d500
+- babygod/gke-metadata-server:v0.2.3
+- babygod/fluentd-gcp-scaler:0.5.2
+- babygod/addon-builder:latest
 -------------------------------at 2019-04-18 00:02:15 sync image repositorys-------------------------------
 -------------------------------at 2019-04-17 23:52:02 sync image repositorys-------------------------------
 -------------------------------at 2019-04-17 23:42:20 sync image repositorys-------------------------------
