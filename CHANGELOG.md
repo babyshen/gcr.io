@@ -1,3 +1,4 @@
+-------------------------------at 2019-04-18 00:27:26 sync image repositorys-------------------------------
 -------------------------------at 2019-04-18 00:18:23 sync image repositorys-------------------------------
 - babygod/managed-certificate-controller:v0.3.1
 - babygod/kube-cross:v1.12.4-1
