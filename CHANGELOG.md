@@ -1,3 +1,8 @@
+-------------------------------at 2019-04-23 00:15:03 sync image repositorys-------------------------------
+- babygod/ubuntu-nvidia-driver-installer:689388185fe7e13fd6fd2fae497c422bd048e611
+- babygod/cos-kernel-headers:20190422-R00-00
+- babygod/cos-kernel-headers:live
+- babygod/cos-kernel-headers:latest
 -------------------------------at 2019-04-22 23:57:11 sync image repositorys-------------------------------
 -------------------------------at 2019-04-22 23:47:04 sync image repositorys-------------------------------
 -------------------------------at 2019-04-22 23:37:01 sync image repositorys-------------------------------
