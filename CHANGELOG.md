@@ -1,3 +1,23 @@
+- babygod/hyperkube-amd64:v1.12.9-beta.0
+- babygod/hyperkube:v1.12.8
+- babygod/hyperkube:v1.12.9-beta.0
+- babygod/hyperkube-amd64:v1.12.8
+- babygod/cluster-autoscaler:v1.12.4
+- babygod/cluster-autoscaler:v1.3.9
+- babygod/cluster-autoscaler:v1.13.3
+- babygod/cloud-controller-manager-s390x:v1.12.9-beta.0
+- babygod/cluster-autoscaler:v1.14.1
+- babygod/cloud-controller-manager-s390x:v1.12.8
+- babygod/cloud-controller-manager-ppc64le:v1.12.9-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.12.8
+- babygod/cloud-controller-manager-arm64:v1.12.8
+- babygod/cloud-controller-manager-arm64:v1.12.9-beta.0
+- babygod/cloud-controller-manager-arm:v1.12.8
+- babygod/cloud-controller-manager-arm:v1.12.9-beta.0
+- babygod/cloud-controller-manager:v1.12.8
+- babygod/cloud-controller-manager-amd64:v1.12.9-beta.0
+- babygod/cloud-controller-manager-amd64:v1.12.8
+- babygod/cloud-controller-manager:v1.12.9-beta.0
 -------------------------------at 2019-04-24 23:56:58 sync image repositorys-------------------------------
 -------------------------------at 2019-04-24 23:47:13 sync image repositorys-------------------------------
 -------------------------------at 2019-04-24 23:37:05 sync image repositorys-------------------------------
