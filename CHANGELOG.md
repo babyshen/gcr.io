@@ -1,3 +1,7 @@
+-------------------------------at 2019-04-26 00:13:37 sync image repositorys-------------------------------
+- babygod/cluster-autoscaler:v1.12.5
+- babygod/cluster-autoscaler:v1.14.2
+- babygod/cluster-autoscaler:v1.13.4
 -------------------------------at 2019-04-25 23:56:52 sync image repositorys-------------------------------
 -------------------------------at 2019-04-25 23:47:13 sync image repositorys-------------------------------
 -------------------------------at 2019-04-25 23:37:07 sync image repositorys-------------------------------
