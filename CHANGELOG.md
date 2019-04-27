@@ -1,3 +1,9 @@
+-------------------------------at 2019-04-27 00:28:27 sync image repositorys-------------------------------
+- babygod/vpa-updater:0.5.1
+- babygod/vpa-admission-controller:0.5.1
+- babygod/vpa-recommender:0.5.1
+- babygod/gke-metadata-server:v0.2.4
+- babygod/gke-metadata-server:3456fb366cb331e1fa77d3f3db821c564db3e178
 -------------------------------at 2019-04-27 00:01:59 sync image repositorys-------------------------------
 -------------------------------at 2019-04-26 23:52:07 sync image repositorys-------------------------------
 -------------------------------at 2019-04-26 23:42:21 sync image repositorys-------------------------------
