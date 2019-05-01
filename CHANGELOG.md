@@ -1,3 +1,4 @@
+-------------------------------at 2019-05-01 00:27:29 sync image repositorys-------------------------------
 -------------------------------at 2019-05-01 00:15:39 sync image repositorys-------------------------------
 - babygod/kube-addon-manager-s390x:v9.0.1
 - babygod/kube-addon-manager-s390x:v8.9.1
