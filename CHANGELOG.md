@@ -1,3 +1,15 @@
+-------------------------------at 2019-05-02 00:19:49 sync image repositorys-------------------------------
+- babygod/kube-scheduler-s390x:v1.11.10
+- babygod/kube-scheduler-s390x:v1.11.11-beta.0
+- babygod/kube-scheduler-ppc64le:v1.11.10
+- babygod/kube-scheduler-ppc64le:v1.11.11-beta.0
+- babygod/kube-scheduler-arm64:v1.11.10
+- babygod/kube-scheduler-arm64:v1.11.11-beta.0
+- babygod/kube-scheduler-arm:v1.11.10
+- babygod/kube-scheduler-arm:v1.11.11-beta.0
+- babygod/kube-scheduler-amd64:v1.11.10
+- babygod/kube-scheduler:v1.11.10
+- babygod/kube-scheduler-amd64:v1.11.11-beta.0
 - babygod/kube-scheduler:v1.11.11-beta.0
 - babygod/kube-proxy-s390x:v1.11.10
 - babygod/kube-proxy-s390x:v1.11.11-beta.0
