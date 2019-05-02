@@ -1,3 +1,23 @@
+- babygod/hyperkube:v1.11.11-beta.0
+- babygod/hyperkube:v1.11.10
+- babygod/hyperkube-amd64:v1.11.11-beta.0
+- babygod/gke-node-termination-handler:224006134340feec6367344de3b09f1871eda27c
+- babygod/cluster-proportional-autoscaler-ppc64le:1.6.0
+- babygod/cloud-controller-manager-s390x:v1.11.10
+- babygod/cluster-proportional-autoscaler-arm64:1.6.0
+- babygod/cluster-proportional-autoscaler-amd64:1.6.0
+- babygod/cloud-controller-manager-s390x:v1.11.11-beta.0
+- babygod/cluster-proportional-autoscaler-arm:1.6.0
+- babygod/cloud-controller-manager-ppc64le:v1.11.10
+- babygod/cloud-controller-manager-ppc64le:v1.11.11-beta.0
+- babygod/cloud-controller-manager-arm64:v1.11.11-beta.0
+- babygod/cloud-controller-manager-arm64:v1.11.10
+- babygod/cloud-controller-manager-arm:v1.11.10
+- babygod/cloud-controller-manager-arm:v1.11.11-beta.0
+- babygod/cloud-controller-manager:v1.11.11-beta.0
+- babygod/cloud-controller-manager-amd64:v1.11.11-beta.0
+- babygod/cloud-controller-manager-amd64:v1.11.10
+- babygod/cloud-controller-manager:v1.11.10
 -------------------------------at 2019-05-01 23:57:07 sync image repositorys-------------------------------
 -------------------------------at 2019-05-01 23:47:05 sync image repositorys-------------------------------
 -------------------------------at 2019-05-01 23:39:31 sync image repositorys-------------------------------
