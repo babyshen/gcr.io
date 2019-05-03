@@ -1,3 +1,4 @@
+-------------------------------at 2019-05-03 00:32:26 sync image repositorys-------------------------------
 -------------------------------at 2019-05-03 00:21:38 sync image repositorys-------------------------------
 - babygod/metrics-server:v0.3.3
 - babygod/metrics-server-amd64:v0.3.3
