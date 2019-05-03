@@ -1,3 +1,8 @@
+-------------------------------at 2019-05-03 00:21:38 sync image repositorys-------------------------------
+- babygod/metrics-server:v0.3.3
+- babygod/metrics-server-amd64:v0.3.3
+- babygod/metadata-proxy:v0.1.12
+- babygod/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e
 -------------------------------at 2019-05-02 23:57:25 sync image repositorys-------------------------------
 -------------------------------at 2019-05-02 23:48:05 sync image repositorys-------------------------------
 -------------------------------at 2019-05-02 23:37:28 sync image repositorys-------------------------------
