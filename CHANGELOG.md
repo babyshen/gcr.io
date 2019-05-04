@@ -1,3 +1,7 @@
+-------------------------------at 2019-05-04 00:22:22 sync image repositorys-------------------------------
+- babygod/ingress-gce-glbc-amd64:v1.5.2
+- babygod/gke-metadata-server:3dd743e75355b14b003af292b6dec8bb50a6a00f
+- babygod/gke-metadata-server:v0.2.5
 -------------------------------at 2019-05-03 23:57:46 sync image repositorys-------------------------------
 -------------------------------at 2019-05-03 23:47:07 sync image repositorys-------------------------------
 -------------------------------at 2019-05-03 23:37:57 sync image repositorys-------------------------------
