@@ -1,3 +1,14 @@
+-------------------------------at 2019-05-08 00:18:31 sync image repositorys-------------------------------
+- babygod/managed-certificate-controller:v0.3.2
+- babygod/kube-state-metrics-s390x:v1.6.0
+- babygod/kube-state-metrics-ppc64le:v1.6.0
+- babygod/kube-state-metrics-arm64:v1.6.0
+- babygod/kube-state-metrics-arm:v1.6.0
+- babygod/kube-state-metrics:v1.6.0
+- babygod/kube-state-metrics-amd64:v1.6.0
+- babygod/kube-scheduler-s390x:v1.15.0-alpha.3
+- babygod/kube-scheduler-ppc64le:v1.15.0-alpha.3
+- babygod/kube-scheduler-arm64:v1.15.0-alpha.3
 - babygod/kube-cross:v1.12.5-1
 - babygod/kube-scheduler-arm:v1.15.0-alpha.3
 - babygod/kube-scheduler-amd64:v1.15.0-alpha.3
