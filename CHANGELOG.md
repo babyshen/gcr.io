@@ -1,3 +1,4 @@
+-------------------------------at 2019-05-08 00:27:11 sync image repositorys-------------------------------
 -------------------------------at 2019-05-08 00:18:31 sync image repositorys-------------------------------
 - babygod/managed-certificate-controller:v0.3.2
 - babygod/kube-state-metrics-s390x:v1.6.0
