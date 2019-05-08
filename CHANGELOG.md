@@ -1,3 +1,23 @@
+- babygod/kube-apiserver:v1.15.0-alpha.3
+- babygod/kube-apiserver-amd64:v1.15.0-alpha.3
+- babygod/hyperkube-s390x:v1.15.0-alpha.3
+- babygod/hyperkube-ppc64le:v1.15.0-alpha.3
+- babygod/hyperkube-arm64:v1.15.0-alpha.3
+- babygod/hyperkube-arm:v1.15.0-alpha.3
+- babygod/hyperkube:v1.15.0-alpha.3
+- babygod/hyperkube-amd64:v1.15.0-alpha.3
+- babygod/conformance-s390x:v1.15.0-alpha.3
+- babygod/conformance-arm64:v1.15.0-alpha.3
+- babygod/conformance-ppc64le:v1.15.0-alpha.3
+- babygod/conformance-arm:v1.15.0-alpha.3
+- babygod/conformance:v1.15.0-alpha.3
+- babygod/conformance-amd64:v1.15.0-alpha.3
+- babygod/cloud-controller-manager-s390x:v1.15.0-alpha.3
+- babygod/cloud-controller-manager-ppc64le:v1.15.0-alpha.3
+- babygod/cloud-controller-manager-arm64:v1.15.0-alpha.3
+- babygod/cloud-controller-manager-arm:v1.15.0-alpha.3
+- babygod/cloud-controller-manager:v1.15.0-alpha.3
+- babygod/cloud-controller-manager-amd64:v1.15.0-alpha.3
 -------------------------------at 2019-05-07 23:57:07 sync image repositorys-------------------------------
 -------------------------------at 2019-05-07 23:47:03 sync image repositorys-------------------------------
 -------------------------------at 2019-05-07 23:37:44 sync image repositorys-------------------------------
