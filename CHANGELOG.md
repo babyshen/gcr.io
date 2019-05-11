@@ -1,3 +1,7 @@
+-------------------------------at 2019-05-11 09:39:24 sync image repositorys-------------------------------
+- babygod/cos-kernel-headers:latest
+- babygod/cos-kernel-headers:20190510-R00-00
+- babygod/cos-kernel-headers:live
 -------------------------------at 2019-05-10 09:42:04 sync image repositorys-------------------------------
 - babygod/etcd-amd64:3.3.10-1
 - babygod/etcd:3.3.10-1
