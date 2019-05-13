@@ -1,3 +1,6 @@
+-------------------------------at 2019-05-13 09:45:19 sync image repositorys-------------------------------
+- babygod/kubelet-to-gcm:1.2.11
+- babygod/event-exporter:v0.2.5
 -------------------------------at 2019-05-11 09:39:24 sync image repositorys-------------------------------
 - babygod/cos-kernel-headers:latest
 - babygod/cos-kernel-headers:20190510-R00-00
