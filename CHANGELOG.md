@@ -1,3 +1,10 @@
+-------------------------------at 2019-05-14 07:11:14 sync image repositorys-------------------------------
+- babygod/ip-masq-agent-ppc64le:v2.4.0
+- babygod/ip-masq-agent-arm64:v2.4.0
+- babygod/ip-masq-agent-arm:v2.4.0
+- babygod/ip-masq-agent:v2.4.0
+- babygod/ip-masq-agent-amd64:v2.4.0
+- babygod/cpvpa-amd64:v0.7.1
 -------------------------------at 2019-05-13 09:45:19 sync image repositorys-------------------------------
 - babygod/kubelet-to-gcm:1.2.11
 - babygod/event-exporter:v0.2.5
