@@ -1,3 +1,14 @@
+-------------------------------at 2019-05-15 01:29:03 sync image repositorys-------------------------------
+- babygod/prometheus-to-sd:v0.5.2
+- babygod/kube-scheduler-s390x:v1.16.0-alpha.0
+- babygod/kube-scheduler-s390x:v1.15.0-beta.0
+- babygod/kube-scheduler-ppc64le:v1.15.0-beta.0
+- babygod/kube-scheduler-ppc64le:v1.16.0-alpha.0
+- babygod/kube-scheduler-arm64:v1.15.0-beta.0
+- babygod/kube-scheduler-arm64:v1.16.0-alpha.0
+- babygod/kube-scheduler-arm:v1.16.0-alpha.0
+- babygod/kube-scheduler-arm:v1.15.0-beta.0
+- babygod/kube-scheduler-amd64:v1.16.0-alpha.0
 - babygod/kube-scheduler:v1.15.0-beta.0
 - babygod/kube-scheduler:v1.16.0-alpha.0
 - babygod/kube-scheduler-amd64:v1.15.0-beta.0
