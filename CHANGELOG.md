@@ -1,3 +1,22 @@
+- babygod/conformance-arm64:v1.14.2
+- babygod/conformance-arm:v1.14.2
+- babygod/conformance-arm:v1.14.3-beta.0
+- babygod/conformance-arm64:v1.14.3-beta.0
+- babygod/conformance:v1.14.2
+- babygod/conformance-amd64:v1.14.2
+- babygod/conformance-amd64:v1.14.3-beta.0
+- babygod/conformance:v1.14.3-beta.0
+- babygod/cloud-controller-manager-s390x:v1.14.2
+- babygod/cloud-controller-manager-s390x:v1.14.3-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.14.2
+- babygod/cloud-controller-manager-ppc64le:v1.14.3-beta.0
+- babygod/cloud-controller-manager-arm64:v1.14.3-beta.0
+- babygod/cloud-controller-manager-arm64:v1.14.2
+- babygod/cloud-controller-manager-arm:v1.14.2
+- babygod/cloud-controller-manager-arm:v1.14.3-beta.0
+- babygod/cloud-controller-manager-amd64:v1.14.3-beta.0
+- babygod/cloud-controller-manager:v1.14.2
+- babygod/cloud-controller-manager:v1.14.3-beta.0
 -------------------------------at 2019-05-15 09:35:02 sync image repositorys-------------------------------
 -------------------------------at 2019-05-15 03:36:47 sync image repositorys-------------------------------
 -------------------------------at 2019-05-15 01:29:03 sync image repositorys-------------------------------
