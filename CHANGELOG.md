@@ -1,3 +1,22 @@
+- babygod/hyperkube-arm64:v1.12.10-beta.0
+- babygod/hyperkube-arm:v1.12.10-beta.0
+- babygod/hyperkube-arm:v1.12.9
+- babygod/hyperkube-amd64:v1.12.10-beta.0
+- babygod/hyperkube:v1.12.10-beta.0
+- babygod/hyperkube-amd64:v1.12.9
+- babygod/hyperkube:v1.12.9
+- babygod/cloud-controller-manager-s390x:v1.12.10-beta.0
+- babygod/cloud-controller-manager-s390x:v1.12.9
+- babygod/cloud-controller-manager-ppc64le:v1.12.10-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.12.9
+- babygod/cloud-controller-manager-arm64:v1.12.10-beta.0
+- babygod/cloud-controller-manager-arm64:v1.12.9
+- babygod/cloud-controller-manager-arm:v1.12.10-beta.0
+- babygod/cloud-controller-manager-arm:v1.12.9
+- babygod/cloud-controller-manager-amd64:v1.12.10-beta.0
+- babygod/cloud-controller-manager-amd64:v1.12.9
+- babygod/cloud-controller-manager:v1.12.9
+- babygod/addon-resizer:1.8.5
 -------------------------------at 2019-05-24 09:49:30 sync image repositorys-------------------------------
 - babygod/toolbox:latest
 - babygod/toolbox:20190523-00
