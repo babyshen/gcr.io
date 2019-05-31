@@ -1,3 +1,14 @@
+-------------------------------at 2019-05-31 10:07:24 sync image repositorys-------------------------------
+- babygod/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf
+- babygod/proxy-server:v0.0.1
+- babygod/proxy-agent:v0.0.1
+- babygod/nvidia-gpu-device-plugin:4baa941d8df91e5dc1736adea74ce54e564dd782
+- babygod/nvidia-gpu-device-plugin:3094d4b75351008bbd0813a12bdadcd00c9756bf
+- babygod/managed-certificate-controller:v0.3.3
+- babygod/k8s-dns-sidecar-s390x:1.15.3
+- babygod/k8s-dns-sidecar-ppc64le:1.15.3
+- babygod/k8s-dns-sidecar-arm64:1.15.3
+- babygod/k8s-dns-sidecar-arm:1.15.3
 - babygod/k8s-dns-sidecar:1.15.3
 - babygod/k8s-dns-sidecar-amd64:1.15.3
 - babygod/k8s-dns-node-cache-s390x:1.15.3
