@@ -1,3 +1,8 @@
+-------------------------------at 2019-06-04 09:54:50 sync image repositorys-------------------------------
+- babygod/gcp-controller-manager:08fa1e3260ffb267682762e24ba93692000e3be8
+- babygod/cluster-autoscaler:v1.12.6
+- babygod/cluster-autoscaler:v1.14.3
+- babygod/cluster-autoscaler:v1.13.5
 -------------------------------at 2019-05-31 10:07:24 sync image repositorys-------------------------------
 - babygod/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf
 - babygod/proxy-server:v0.0.1
