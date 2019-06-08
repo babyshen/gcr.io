@@ -1,3 +1,5 @@
+-------------------------------at 2019-06-08 09:55:09 sync image repositorys-------------------------------
+- babygod/cluster-autoscaler:v1.15.0-beta.1
 -------------------------------at 2019-06-07 10:16:12 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.13.8-beta.0
 - babygod/kube-scheduler-s390x:v1.14.3
