@@ -1,3 +1,21 @@
+- babygod/k8s-dns-sidecar-amd64:1.15.4
+- babygod/k8s-dns-sidecar:1.15.4
+- babygod/k8s-dns-node-cache-s390x:1.15.4
+- babygod/k8s-dns-node-cache-arm64:1.15.4
+- babygod/k8s-dns-node-cache-ppc64le:1.15.4
+- babygod/k8s-dns-node-cache-arm:1.15.4
+- babygod/k8s-dns-node-cache:1.15.4
+- babygod/k8s-dns-node-cache-amd64:1.15.4
+- babygod/k8s-dns-kube-dns-s390x:1.15.4
+- babygod/k8s-dns-kube-dns-ppc64le:1.15.4
+- babygod/k8s-dns-kube-dns-amd64:1.15.4
+- babygod/k8s-dns-kube-dns-arm:1.15.4
+- babygod/k8s-dns-dnsmasq-nanny-s390x:1.15.4
+- babygod/k8s-dns-dnsmasq-nanny-ppc64le:1.15.4
+- babygod/k8s-dns-dnsmasq-nanny-arm64:1.15.4
+- babygod/k8s-dns-dnsmasq-nanny-arm:1.15.4
+- babygod/k8s-dns-dnsmasq-nanny-amd64:1.15.4
+- babygod/k8s-dns-dnsmasq-nanny:1.15.4
 -------------------------------at 2019-06-12 09:59:20 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.15.0-rc.1
 - babygod/kube-scheduler-ppc64le:v1.15.0-rc.1
