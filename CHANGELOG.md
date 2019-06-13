@@ -1,3 +1,9 @@
+-------------------------------at 2019-06-13 10:14:54 sync image repositorys-------------------------------
+- babygod/managed-certificate-controller:v0.3.4
+- babygod/k8s-dns-sidecar-ppc64le:1.15.4
+- babygod/k8s-dns-sidecar-s390x:1.15.4
+- babygod/k8s-dns-sidecar-arm64:1.15.4
+- babygod/k8s-dns-sidecar-arm:1.15.4
 - babygod/k8s-dns-sidecar-amd64:1.15.4
 - babygod/k8s-dns-sidecar:1.15.4
 - babygod/k8s-dns-node-cache-s390x:1.15.4
