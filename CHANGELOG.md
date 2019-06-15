@@ -1,3 +1,6 @@
+-------------------------------at 2019-06-15 10:11:52 sync image repositorys-------------------------------
+- babygod/node-problem-detector:v0.6.4
+- babygod/ingress-gce-glbc-amd64:v1.6.0
 -------------------------------at 2019-06-13 10:14:54 sync image repositorys-------------------------------
 - babygod/managed-certificate-controller:v0.3.4
 - babygod/k8s-dns-sidecar-ppc64le:1.15.4
