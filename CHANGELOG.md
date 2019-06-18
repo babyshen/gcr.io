@@ -1,3 +1,5 @@
+-------------------------------at 2019-06-18 10:14:23 sync image repositorys-------------------------------
+- babygod/ingress-gce-404-server-with-metrics-amd64:v1.6.0
 -------------------------------at 2019-06-15 10:11:52 sync image repositorys-------------------------------
 - babygod/node-problem-detector:v0.6.4
 - babygod/ingress-gce-glbc-amd64:v1.6.0
