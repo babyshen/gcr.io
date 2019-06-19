@@ -1,3 +1,6 @@
+-------------------------------at 2019-06-19 10:34:21 sync image repositorys-------------------------------
+- babygod/startup-script:v2
+- babygod/kube-cross:v1.12.6-1
 -------------------------------at 2019-06-18 10:14:23 sync image repositorys-------------------------------
 - babygod/ingress-gce-404-server-with-metrics-amd64:v1.6.0
 -------------------------------at 2019-06-15 10:11:52 sync image repositorys-------------------------------
