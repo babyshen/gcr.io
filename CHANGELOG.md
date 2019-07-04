@@ -1,3 +1,7 @@
+-------------------------------at 2019-07-04 10:04:06 sync image repositorys-------------------------------
+- babygod/netd-amd64:0.2.1
+- babygod/netd-amd64:latest
+- babygod/addon-builder:latest
 -------------------------------at 2019-06-22 10:31:44 sync image repositorys-------------------------------
 - babygod/kube-proxy-amd64:v1.12.7-gke.22
 -------------------------------at 2019-06-20 10:08:37 sync image repositorys-------------------------------
