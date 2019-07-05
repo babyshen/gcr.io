@@ -1,3 +1,5 @@
+-------------------------------at 2019-07-05 10:16:50 sync image repositorys-------------------------------
+- babygod/heapster-amd64:v1.7.0
 -------------------------------at 2019-07-04 10:04:06 sync image repositorys-------------------------------
 - babygod/netd-amd64:0.2.1
 - babygod/netd-amd64:latest
