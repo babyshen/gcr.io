@@ -1,3 +1,22 @@
+- babygod/hyperkube-arm:v1.12.10
+- babygod/hyperkube-arm64:v1.12.11-beta.0
+- babygod/hyperkube-arm:v1.12.11-beta.0
+- babygod/hyperkube-amd64:v1.12.10
+- babygod/hyperkube-amd64:v1.13.8
+- babygod/hyperkube:v1.12.10
+- babygod/hyperkube:v1.12.11-beta.0
+- babygod/hyperkube-amd64:v1.12.11-beta.0
+- babygod/cloud-controller-manager-s390x:v1.12.11-beta.0
+- babygod/cloud-controller-manager-s390x:v1.12.10
+- babygod/cloud-controller-manager-ppc64le:v1.12.10
+- babygod/cloud-controller-manager-arm64:v1.12.11-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.12.11-beta.0
+- babygod/cloud-controller-manager-arm64:v1.12.10
+- babygod/cloud-controller-manager-arm:v1.12.11-beta.0
+- babygod/cloud-controller-manager-arm:v1.12.10
+- babygod/cloud-controller-manager-amd64:v1.12.11-beta.0
+- babygod/cloud-controller-manager-amd64:v1.12.10
+- babygod/cloud-controller-manager:v1.12.10
 -------------------------------at 2019-07-05 10:16:50 sync image repositorys-------------------------------
 - babygod/heapster-amd64:v1.7.0
 -------------------------------at 2019-07-04 10:04:06 sync image repositorys-------------------------------
