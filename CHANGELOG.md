@@ -1,3 +1,5 @@
+-------------------------------at 2019-07-10 10:09:55 sync image repositorys-------------------------------
+- babygod/addon-builder:latest
 -------------------------------at 2019-07-09 10:28:00 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.14.5-beta.0
 - babygod/kube-scheduler-s390x:v1.14.4
