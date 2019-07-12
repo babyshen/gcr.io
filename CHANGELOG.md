@@ -1,3 +1,5 @@
+-------------------------------at 2019-07-12 10:41:16 sync image repositorys-------------------------------
+- babygod/kube-cross:v1.12.7-1
 -------------------------------at 2019-07-11 10:13:08 sync image repositorys-------------------------------
 - babygod/custom-metrics-stackdriver-adapter:v0.10.0
 -------------------------------at 2019-07-10 10:09:55 sync image repositorys-------------------------------
