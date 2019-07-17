@@ -1,3 +1,10 @@
+-------------------------------at 2019-07-17 10:14:58 sync image repositorys-------------------------------
+- babygod/proxy-server:v0.0.3
+- babygod/proxy-server:v0.0.2
+- babygod/proxy-agent:v0.0.3
+- babygod/kube-scheduler-s390x:v1.16.0-alpha.1
+- babygod/kube-scheduler-ppc64le:v1.16.0-alpha.1
+- babygod/kube-scheduler-arm64:v1.16.0-alpha.1
 - babygod/kube-scheduler-arm:v1.16.0-alpha.1
 - babygod/kube-scheduler:v1.16.0-alpha.1
 - babygod/kube-scheduler-amd64:v1.16.0-alpha.1
