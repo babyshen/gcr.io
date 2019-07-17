@@ -1,3 +1,23 @@
+- babygod/kube-apiserver:v1.16.0-alpha.1
+- babygod/hyperkube-s390x:v1.16.0-alpha.1
+- babygod/hyperkube-ppc64le:v1.16.0-alpha.1
+- babygod/hyperkube-arm64:v1.16.0-alpha.1
+- babygod/hyperkube-arm:v1.16.0-alpha.1
+- babygod/hyperkube:v1.16.0-alpha.1
+- babygod/hyperkube-amd64:v1.16.0-alpha.1
+- babygod/conformance-s390x:v1.16.0-alpha.1
+- babygod/conformance-ppc64le:v1.16.0-alpha.1
+- babygod/conformance-arm64:v1.16.0-alpha.1
+- babygod/conformance-amd64:v1.16.0-alpha.1
+- babygod/conformance:v1.16.0-alpha.1
+- babygod/conformance-arm:v1.16.0-alpha.1
+- babygod/cloud-controller-manager-s390x:v1.16.0-alpha.1
+- babygod/cloud-controller-manager-arm64:v1.16.0-alpha.1
+- babygod/cloud-controller-manager-ppc64le:v1.16.0-alpha.1
+- babygod/cloud-controller-manager-arm:v1.16.0-alpha.1
+- babygod/cloud-controller-manager:v1.16.0-alpha.1
+- babygod/cloud-controller-manager-amd64:v1.16.0-alpha.1
+- babygod/addon-resizer:2.3
 -------------------------------at 2019-07-12 10:41:16 sync image repositorys-------------------------------
 - babygod/kube-cross:v1.12.7-1
 -------------------------------at 2019-07-11 10:13:08 sync image repositorys-------------------------------
