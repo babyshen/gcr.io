@@ -1,3 +1,23 @@
+- babygod/conformance-arm:v1.15.2-beta.0
+- babygod/conformance-arm64:v1.15.1
+- babygod/conformance-arm64:v1.15.2-beta.0
+- babygod/conformance-arm:v1.15.1
+- babygod/conformance-amd64:v1.15.2-beta.0
+- babygod/conformance:v1.15.2-beta.0
+- babygod/conformance-amd64:v1.15.1
+- babygod/conformance:v1.15.1
+- babygod/cloud-controller-manager-s390x:v1.15.2-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.15.2-beta.0
+- babygod/cloud-controller-manager-s390x:v1.15.1
+- babygod/cloud-controller-manager-ppc64le:v1.15.1
+- babygod/cloud-controller-manager-arm64:v1.15.1
+- babygod/cloud-controller-manager-arm:v1.15.1
+- babygod/cloud-controller-manager-arm64:v1.15.2-beta.0
+- babygod/cloud-controller-manager-arm:v1.15.2-beta.0
+- babygod/cloud-controller-manager:v1.15.2-beta.0
+- babygod/cloud-controller-manager-amd64:v1.15.2-beta.0
+- babygod/cloud-controller-manager:v1.15.1
+- babygod/cloud-controller-manager-amd64:v1.15.1
 -------------------------------at 2019-07-17 10:14:58 sync image repositorys-------------------------------
 - babygod/proxy-server:v0.0.3
 - babygod/proxy-server:v0.0.2
