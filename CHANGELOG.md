@@ -1,3 +1,13 @@
+-------------------------------at 2019-07-19 10:24:20 sync image repositorys-------------------------------
+- babygod/kube-state-metrics-s390x:v1.7.0
+- babygod/kube-state-metrics-ppc64le:v1.7.0
+- babygod/kube-state-metrics-arm:v1.7.0
+- babygod/kube-state-metrics-arm64:v1.7.0
+- babygod/kube-state-metrics-amd64:v1.7.0
+- babygod/kube-state-metrics:v1.7.0
+- babygod/kube-scheduler-s390x:v1.15.2-beta.0
+- babygod/kube-scheduler-s390x:v1.15.1
+- babygod/kube-scheduler-ppc64le:v1.15.2-beta.0
 - babygod/kube-scheduler-arm64:v1.15.2-beta.0
 - babygod/kube-scheduler-arm64:v1.15.1
 - babygod/kube-scheduler-arm:v1.15.2-beta.0
