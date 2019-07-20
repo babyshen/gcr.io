@@ -1,3 +1,8 @@
+-------------------------------at 2019-07-20 10:15:39 sync image repositorys-------------------------------
+- babygod/cluster-autoscaler:v1.12.7
+- babygod/cluster-autoscaler:v1.14.4
+- babygod/cluster-autoscaler:v1.15.1
+- babygod/cluster-autoscaler:v1.13.6
 -------------------------------at 2019-07-19 10:24:20 sync image repositorys-------------------------------
 - babygod/kube-state-metrics-s390x:v1.7.0
 - babygod/kube-state-metrics-ppc64le:v1.7.0
