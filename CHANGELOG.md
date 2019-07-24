@@ -1,3 +1,12 @@
+-------------------------------at 2019-07-24 10:16:05 sync image repositorys-------------------------------
+- babygod/prometheus-to-sd:v0.6.0
+- babygod/kube-state-metrics-s390x:v1.7.1
+- babygod/kube-state-metrics-ppc64le:v1.7.1
+- babygod/kube-state-metrics-arm64:v1.7.1
+- babygod/kube-state-metrics-arm:v1.7.1
+- babygod/kube-state-metrics-amd64:v1.7.1
+- babygod/kube-state-metrics:v1.7.1
+- babygod/addon-builder:latest
 -------------------------------at 2019-07-20 10:15:39 sync image repositorys-------------------------------
 - babygod/cluster-autoscaler:v1.12.7
 - babygod/cluster-autoscaler:v1.14.4
