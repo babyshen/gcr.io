@@ -1,3 +1,7 @@
+-------------------------------at 2019-07-27 10:29:43 sync image repositorys-------------------------------
+- babygod/node-problem-detector:v0.7.0
+- babygod/node-problem-detector:v0.6.5
+- babygod/git-sync:v3.1.2
 -------------------------------at 2019-07-24 10:16:05 sync image repositorys-------------------------------
 - babygod/prometheus-to-sd:v0.6.0
 - babygod/kube-state-metrics-s390x:v1.7.1
