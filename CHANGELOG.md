@@ -1,3 +1,14 @@
+-------------------------------at 2019-08-01 10:26:51 sync image repositorys-------------------------------
+- babygod/kube-addon-manager-ppc64le:v9.0.2
+- babygod/kube-addon-manager-s390x:v9.0.2
+- babygod/kube-addon-manager-arm64:v9.0.2
+- babygod/kube-addon-manager-arm:v9.0.2
+- babygod/kube-addon-manager:v9.0.2
+- babygod/kube-addon-manager-amd64:v9.0.2
+- babygod/cos-kernel-headers:20190731-R00-00
+- babygod/cos-kernel-headers:latest
+- babygod/cos-kernel-headers:live
+- babygod/cos-kernel-headers:20190731-R01-00
 -------------------------------at 2019-07-31 10:26:09 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.16.0-alpha.2
 - babygod/kube-scheduler-ppc64le:v1.16.0-alpha.2
