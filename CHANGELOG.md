@@ -1,3 +1,5 @@
+-------------------------------at 2019-08-03 10:31:25 sync image repositorys-------------------------------
+- babygod/event-exporter:v0.3.0
 -------------------------------at 2019-08-01 10:26:51 sync image repositorys-------------------------------
 - babygod/kube-addon-manager-ppc64le:v9.0.2
 - babygod/kube-addon-manager-s390x:v9.0.2
