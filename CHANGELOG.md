@@ -1,3 +1,7 @@
+-------------------------------at 2019-08-14 10:47:31 sync image repositorys-------------------------------
+- babygod/prometheus-to-sd:v0.7.1
+- babygod/prometheus-to-sd:v0.7.0
+- babygod/node-problem-detector:v0.6.6
 - babygod/kube-state-metrics-s390x:v1.7.2
 - babygod/kube-state-metrics-ppc64le:v1.7.2
 - babygod/kube-state-metrics-arm64:v1.7.2
