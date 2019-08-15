@@ -1,3 +1,5 @@
+-------------------------------at 2019-08-15 10:40:46 sync image repositorys-------------------------------
+- babygod/gke-metadata-server:v0.2.6
 -------------------------------at 2019-08-14 10:47:31 sync image repositorys-------------------------------
 - babygod/prometheus-to-sd:v0.7.1
 - babygod/prometheus-to-sd:v0.7.0
