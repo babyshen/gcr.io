@@ -1,3 +1,8 @@
+-------------------------------at 2019-08-17 10:33:43 sync image repositorys-------------------------------
+- babygod/kube-cross:v1.11.13-1
+- babygod/gke-metadata-server:v0.2.8
+- babygod/gke-metadata-server:95633dc2005ae5c1f9764964fb7c78fac719eaf8
+- babygod/cluster-proportional-autoscaler-amd64:1.7.0
 -------------------------------at 2019-08-16 10:42:29 sync image repositorys-------------------------------
 - babygod/kube-cross:v1.12.9-1
 - babygod/gke-metadata-server:v0.2.7
