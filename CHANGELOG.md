@@ -1,3 +1,23 @@
+- babygod/cloud-controller-manager-arm64:v1.14.7-beta.0
+- babygod/cloud-controller-manager-arm64:v1.15.4-beta.0
+- babygod/cloud-controller-manager-arm:v1.14.6
+- babygod/cloud-controller-manager-arm:v1.13.11-beta.0
+- babygod/cloud-controller-manager-arm:v1.13.10
+- babygod/cloud-controller-manager-arm:v1.15.3
+- babygod/cloud-controller-manager-arm:v1.15.4-beta.0
+- babygod/cloud-controller-manager-arm:v1.14.7-beta.0
+- babygod/cloud-controller-manager-amd64:v1.13.10
+- babygod/cloud-controller-manager-amd64:v1.14.6
+- babygod/cloud-controller-manager-amd64:v1.13.11-beta.0
+- babygod/cloud-controller-manager:v1.14.6
+- babygod/cloud-controller-manager:v1.13.10
+- babygod/cloud-controller-manager:v1.13.11-beta.0
+- babygod/cloud-controller-manager-amd64:v1.15.3
+- babygod/cloud-controller-manager-amd64:v1.15.4-beta.0
+- babygod/cloud-controller-manager:v1.15.3
+- babygod/cloud-controller-manager-amd64:v1.14.7-beta.0
+- babygod/cloud-controller-manager:v1.14.7-beta.0
+- babygod/cloud-controller-manager:v1.15.4-beta.0
 -------------------------------at 2019-08-17 10:33:43 sync image repositorys-------------------------------
 - babygod/kube-cross:v1.11.13-1
 - babygod/gke-metadata-server:v0.2.8
