@@ -1,3 +1,6 @@
+-------------------------------at 2019-08-29 10:39:34 sync image repositorys-------------------------------
+- babygod/node-problem-detector:v0.7.1
+- babygod/coredns:1.6.2
 -------------------------------at 2019-08-27 10:35:31 sync image repositorys-------------------------------
 - babygod/slo-monitor:0.12.0
 - babygod/cluster-proportional-autoscaler-amd64:1.7.1
