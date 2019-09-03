@@ -1,3 +1,9 @@
+-------------------------------at 2019-09-03 10:55:40 sync image repositorys-------------------------------
+- babygod/ip-masq-agent-ppc64le:v2.5.0
+- babygod/ip-masq-agent-arm64:v2.5.0
+- babygod/ip-masq-agent-arm:v2.5.0
+- babygod/ip-masq-agent:v2.5.0
+- babygod/ip-masq-agent-amd64:v2.5.0
 -------------------------------at 2019-08-29 10:39:34 sync image repositorys-------------------------------
 - babygod/node-problem-detector:v0.7.1
 - babygod/coredns:1.6.2
