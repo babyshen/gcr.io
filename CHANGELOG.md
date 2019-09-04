@@ -1,3 +1,14 @@
+-------------------------------at 2019-09-04 10:51:22 sync image repositorys-------------------------------
+- babygod/watcher-daemonset:alpha1
+- babygod/metrics-server-s390x:v0.3.4
+- babygod/metrics-server-ppc64le:v0.3.4
+- babygod/metrics-server-arm64:v0.3.4
+- babygod/metrics-server-arm:v0.3.4
+- babygod/metrics-server-amd64:v0.3.4
+- babygod/metrics-server:v0.3.4
+- babygod/kubelet-to-gcm:1.2.12
+- babygod/gke-metadata-server:v0.2.9
+- babygod/gke-metadata-server:da099ce4c87505210e8f9a5704057d222a75e77f
 -------------------------------at 2019-09-03 10:55:40 sync image repositorys-------------------------------
 - babygod/ip-masq-agent-ppc64le:v2.5.0
 - babygod/ip-masq-agent-arm64:v2.5.0
