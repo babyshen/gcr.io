@@ -1,3 +1,21 @@
+- babygod/etcd-s390x:3.3.15
+- babygod/etcd-s390x:3.3.15-0
+- babygod/hyperkube:v1.16.0-beta.2
+- babygod/etcd-arm64:3.3.15-0
+- babygod/etcd-arm64:3.3.15
+- babygod/etcd-ppc64le:3.3.15-0
+- babygod/etcd-arm:3.3.15
+- babygod/etcd-arm:3.3.15-0
+- babygod/etcd-empty-dir-cleanup:3.3.15.0
+- babygod/etcd:3.3.15
+- babygod/conformance-s390x:v1.16.0-beta.2
+- babygod/etcd-amd64:3.3.15
+- babygod/etcd-amd64:3.3.15-0
+- babygod/conformance-ppc64le:v1.16.0-beta.2
+- babygod/conformance:v1.16.0-beta.2
+- babygod/conformance-amd64:v1.16.0-beta.2
+- babygod/conformance-arm64:v1.16.0-beta.2
+- babygod/conformance-arm:v1.16.0-beta.2
 -------------------------------at 2019-09-04 10:51:22 sync image repositorys-------------------------------
 - babygod/watcher-daemonset:alpha1
 - babygod/metrics-server-s390x:v0.3.4
