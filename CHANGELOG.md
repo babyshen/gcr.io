@@ -1,3 +1,7 @@
+-------------------------------at 2019-09-10 10:43:14 sync image repositorys-------------------------------
+- babygod/prometheus-to-sd:v0.7.2
+- babygod/ingress-gce-glbc-amd64:v1.7.0
+- babygod/cluster-autoscaler:v1.16.0
 -------------------------------at 2019-09-07 10:42:30 sync image repositorys-------------------------------
 - babygod/cluster-autoscaler:v1.16.0-beta.1
 -------------------------------at 2019-09-05 10:50:09 sync image repositorys-------------------------------
