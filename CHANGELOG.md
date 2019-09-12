@@ -1,3 +1,5 @@
+-------------------------------at 2019-09-12 10:56:23 sync image repositorys-------------------------------
+- babygod/hpa-example2:latest
 -------------------------------at 2019-09-11 10:52:04 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.16.0-rc.1
 - babygod/kube-scheduler-ppc64le:v1.16.0-rc.1
