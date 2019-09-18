@@ -1,3 +1,15 @@
+-------------------------------at 2019-09-18 10:49:57 sync image repositorys-------------------------------
+- babygod/vpa-recommender:0.6.1
+- babygod/vpa-updater:0.6.1
+- babygod/vpa-admission-controller:0.6.1
+- babygod/k8s-dns-sidecar-s390x:1.15.6
+- babygod/k8s-dns-sidecar:1.15.6
+- babygod/k8s-dns-sidecar-ppc64le:1.15.6
+- babygod/k8s-dns-sidecar-arm64:1.15.6
+- babygod/k8s-dns-sidecar-arm:1.15.6
+- babygod/k8s-dns-node-cache-s390x:1.15.6
+- babygod/k8s-dns-sidecar-amd64:1.15.6
+- babygod/k8s-dns-node-cache-ppc64le:1.15.6
 - babygod/k8s-dns-node-cache-arm64:1.15.6
 - babygod/k8s-dns-node-cache-arm:1.15.6
 - babygod/k8s-dns-node-cache-amd64:1.15.6
