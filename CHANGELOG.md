@@ -1,3 +1,23 @@
+- babygod/k8s-dns-node-cache-arm64:1.15.6
+- babygod/k8s-dns-node-cache-arm:1.15.6
+- babygod/k8s-dns-node-cache-amd64:1.15.6
+- babygod/k8s-dns-node-cache:1.15.6
+- babygod/k8s-dns-kube-dns-s390x:1.15.6
+- babygod/k8s-dns-kube-dns-ppc64le:1.15.6
+- babygod/k8s-dns-kube-dns-arm64:1.15.6
+- babygod/k8s-dns-kube-dns-arm:1.15.6
+- babygod/k8s-dns-kube-dns-amd64:1.15.6
+- babygod/k8s-dns-kube-dns:1.15.6
+- babygod/k8s-dns-dnsmasq-nanny-s390x:1.15.6
+- babygod/k8s-dns-dnsmasq-nanny-ppc64le:1.15.6
+- babygod/k8s-dns-dnsmasq-nanny-arm64:1.15.6
+- babygod/k8s-dns-dnsmasq-nanny-arm:1.15.6
+- babygod/k8s-dns-dnsmasq-nanny-amd64:1.15.6
+- babygod/k8s-dns-dnsmasq-nanny:1.15.6
+- babygod/cluster-autoscaler:v1.12.8
+- babygod/cluster-autoscaler:v1.14.5
+- babygod/cluster-autoscaler:v1.15.2
+- babygod/cluster-autoscaler:v1.13.7
 -------------------------------at 2019-09-14 10:50:51 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.16.0-rc.2
 - babygod/kube-scheduler-ppc64le:v1.16.0-rc.2
