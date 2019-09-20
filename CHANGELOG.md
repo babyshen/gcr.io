@@ -1,3 +1,14 @@
+-------------------------------at 2019-09-20 10:51:56 sync image repositorys-------------------------------
+- babygod/ubuntu-nvidia-driver-installer:e3cce9a52ea0034e94512a470f2f26b672204816
+- babygod/ubuntu-nvidia-driver-installer:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424
+- babygod/nvidia-gpu-device-plugin:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424
+- babygod/nvidia-gpu-device-plugin:e3cce9a52ea0034e94512a470f2f26b672204816
+- babygod/kube-scheduler-s390x:v1.16.0
+- babygod/kube-scheduler-s390x:v1.15.4
+- babygod/kube-scheduler-s390x:v1.14.8-beta.0
+- babygod/kube-scheduler-s390x:v1.16.1-beta.0
+- babygod/kube-scheduler-s390x:v1.13.12-beta.0
+- babygod/kube-scheduler-s390x:v1.14.7
 - babygod/kube-scheduler-ppc64le:v1.16.1-beta.0
 - babygod/kube-scheduler-s390x:v1.15.5-beta.0
 - babygod/kube-scheduler-ppc64le:v1.13.11
