@@ -1,3 +1,11 @@
+-------------------------------at 2019-09-23 10:49:58 sync image repositorys-------------------------------
+- babygod/metrics-server-s390x:v0.3.5
+- babygod/metrics-server-arm64:v0.3.5
+- babygod/metrics-server-ppc64le:v0.3.5
+- babygod/metrics-server-arm:v0.3.5
+- babygod/metrics-server-amd64:v0.3.5
+- babygod/metrics-server:v0.3.5
+- babygod/cluster-autoscaler:v1.16.1
 -------------------------------at 2019-09-20 10:51:56 sync image repositorys-------------------------------
 - babygod/ubuntu-nvidia-driver-installer:e3cce9a52ea0034e94512a470f2f26b672204816
 - babygod/ubuntu-nvidia-driver-installer:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424
