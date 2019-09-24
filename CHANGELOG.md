@@ -1,3 +1,5 @@
+-------------------------------at 2019-09-24 11:06:30 sync image repositorys-------------------------------
+- babygod/ingress-gce-glbc-amd64:v1.7.0
 -------------------------------at 2019-09-23 10:49:58 sync image repositorys-------------------------------
 - babygod/metrics-server-s390x:v0.3.5
 - babygod/metrics-server-arm64:v0.3.5
