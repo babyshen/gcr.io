@@ -1,3 +1,6 @@
+-------------------------------at 2019-09-25 10:56:32 sync image repositorys-------------------------------
+- babygod/watcher-daemonset:alpha2
+- babygod/event-exporter:v0.3.1
 -------------------------------at 2019-09-24 11:06:30 sync image repositorys-------------------------------
 - babygod/ingress-gce-glbc-amd64:v1.7.0
 -------------------------------at 2019-09-23 10:49:58 sync image repositorys-------------------------------
