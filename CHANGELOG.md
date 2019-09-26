@@ -1,3 +1,5 @@
+-------------------------------at 2019-09-26 10:46:50 sync image repositorys-------------------------------
+- babygod/addon-resizer:1.8.6
 -------------------------------at 2019-09-25 10:56:32 sync image repositorys-------------------------------
 - babygod/watcher-daemonset:alpha2
 - babygod/event-exporter:v0.3.1
