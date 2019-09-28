@@ -1,3 +1,6 @@
+-------------------------------at 2019-09-28 11:01:13 sync image repositorys-------------------------------
+- babygod/gke-metadata-server:v0.2.10
+- babygod/gke-metadata-server:2b2c39e51b5516ea87e194706edab17e58ad1096
 -------------------------------at 2019-09-27 11:25:46 sync image repositorys-------------------------------
 - babygod/kube-cross:v1.12.10-1
 -------------------------------at 2019-09-26 10:46:50 sync image repositorys-------------------------------
