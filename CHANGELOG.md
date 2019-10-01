@@ -1,3 +1,7 @@
+-------------------------------at 2019-10-01 11:02:35 sync image repositorys-------------------------------
+- babygod/watcher-daemonset:alpha3
+- babygod/gke-metadata-server:v0.2.11
+- babygod/gke-metadata-server:7b28a8ea4ac0da33ba983aab02168e36d3aa0680
 -------------------------------at 2019-09-28 11:01:13 sync image repositorys-------------------------------
 - babygod/gke-metadata-server:v0.2.10
 - babygod/gke-metadata-server:2b2c39e51b5516ea87e194706edab17e58ad1096
