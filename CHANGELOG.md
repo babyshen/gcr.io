@@ -1,3 +1,5 @@
+-------------------------------at 2019-10-02 11:01:07 sync image repositorys-------------------------------
+- babygod/gcp-controller-manager:589980f322ccce64a118660ff58abf6765197c65
 -------------------------------at 2019-10-01 11:02:35 sync image repositorys-------------------------------
 - babygod/watcher-daemonset:alpha3
 - babygod/gke-metadata-server:v0.2.11
