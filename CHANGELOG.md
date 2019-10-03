@@ -1,3 +1,15 @@
+-------------------------------at 2019-10-03 11:06:17 sync image repositorys-------------------------------
+- babygod/vpa-updater:0.6.3
+- babygod/vpa-admission-controller:0.6.3
+- babygod/vpa-recommender:0.6.3
+- babygod/kube-scheduler-s390x:v1.17.0-alpha.1
+- babygod/kube-scheduler-s390x:v1.16.1
+- babygod/kube-scheduler-s390x:v1.16.2-beta.0
+- babygod/kube-scheduler-ppc64le:v1.16.2-beta.0
+- babygod/kube-scheduler-ppc64le:v1.17.0-alpha.1
+- babygod/kube-scheduler-ppc64le:v1.16.1
+- babygod/kube-scheduler-arm64:v1.16.1
+- babygod/kube-scheduler-arm64:v1.16.2-beta.0
 - babygod/kube-scheduler-arm64:v1.17.0-alpha.1
 - babygod/kube-scheduler-arm:v1.16.1
 - babygod/kube-scheduler-arm:v1.16.2-beta.0
