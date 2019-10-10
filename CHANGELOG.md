@@ -1,3 +1,10 @@
+-------------------------------at 2019-10-10 11:15:55 sync image repositorys-------------------------------
+- babygod/watcher-daemonset:alpha4
+- babygod/prometheus-to-sd:v0.8.0
+- babygod/k8s-dns-sidecar-s390x:1.15.7
+- babygod/k8s-dns-sidecar-ppc64le:1.15.7
+- babygod/k8s-dns-sidecar-arm64:1.15.7
+- babygod/k8s-dns-sidecar-arm:1.15.7
 - babygod/k8s-dns-sidecar:1.15.7
 - babygod/k8s-dns-sidecar-amd64:1.15.7
 - babygod/k8s-dns-node-cache-ppc64le:1.15.7
