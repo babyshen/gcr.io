@@ -1,3 +1,23 @@
+- babygod/k8s-dns-sidecar:1.15.7
+- babygod/k8s-dns-sidecar-amd64:1.15.7
+- babygod/k8s-dns-node-cache-ppc64le:1.15.7
+- babygod/k8s-dns-node-cache-s390x:1.15.7
+- babygod/k8s-dns-node-cache:1.15.7
+- babygod/k8s-dns-node-cache-amd64:1.15.7
+- babygod/k8s-dns-node-cache-arm64:1.15.7
+- babygod/k8s-dns-node-cache-arm:1.15.7
+- babygod/k8s-dns-kube-dns-arm64:1.15.7
+- babygod/k8s-dns-kube-dns-ppc64le:1.15.7
+- babygod/k8s-dns-kube-dns-arm:1.15.7
+- babygod/k8s-dns-kube-dns-s390x:1.15.7
+- babygod/k8s-dns-dnsmasq-nanny-s390x:1.15.7
+- babygod/k8s-dns-dnsmasq-nanny-ppc64le:1.15.7
+- babygod/k8s-dns-kube-dns-amd64:1.15.7
+- babygod/k8s-dns-kube-dns:1.15.7
+- babygod/k8s-dns-dnsmasq-nanny-arm64:1.15.7
+- babygod/k8s-dns-dnsmasq-nanny-arm:1.15.7
+- babygod/k8s-dns-dnsmasq-nanny-amd64:1.15.7
+- babygod/k8s-dns-dnsmasq-nanny:1.15.7
 -------------------------------at 2019-10-03 11:06:17 sync image repositorys-------------------------------
 - babygod/vpa-updater:0.6.3
 - babygod/vpa-admission-controller:0.6.3
