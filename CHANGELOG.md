@@ -1,3 +1,10 @@
+-------------------------------at 2019-10-12 11:05:15 sync image repositorys-------------------------------
+- babygod/etcd-s390x:3.4.2-0
+- babygod/etcd-s390x:3.4.2
+- babygod/etcd-s390x:3.3.17
+- babygod/etcd-s390x:3.3.17-0
+- babygod/etcd-ppc64le:3.3.17
+- babygod/etcd-ppc64le:3.3.17-0
 - babygod/etcd-ppc64le:3.4.2
 - babygod/etcd-ppc64le:3.4.2-0
 - babygod/etcd-arm64:3.4.2-0
