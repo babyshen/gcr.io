@@ -1,3 +1,22 @@
+- babygod/etcd-ppc64le:3.4.2
+- babygod/etcd-ppc64le:3.4.2-0
+- babygod/etcd-arm64:3.4.2-0
+- babygod/etcd-arm64:3.4.2
+- babygod/etcd-arm64:3.3.17-0
+- babygod/etcd-arm64:3.3.17
+- babygod/etcd-arm:3.4.2
+- babygod/etcd-arm:3.4.2-0
+- babygod/etcd-arm:3.3.17-0
+- babygod/etcd-arm:3.3.17
+- babygod/etcd:3.4.2
+- babygod/etcd:3.4.2-0
+- babygod/etcd-empty-dir-cleanup:3.4.2.0
+- babygod/etcd-empty-dir-cleanup:3.3.17.0
+- babygod/etcd-amd64:3.4.2
+- babygod/etcd:3.3.17
+- babygod/etcd:3.3.17-0
+- babygod/etcd-amd64:3.3.17
+- babygod/etcd-amd64:3.3.17-0
 -------------------------------at 2019-10-10 11:15:55 sync image repositorys-------------------------------
 - babygod/watcher-daemonset:alpha4
 - babygod/prometheus-to-sd:v0.8.0
