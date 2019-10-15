@@ -1,3 +1,21 @@
+- babygod/kube-proxy-amd64:v1.17.0-alpha.2
+- babygod/kube-controller-manager-s390x:v1.17.0-alpha.2
+- babygod/kube-controller-manager-ppc64le:v1.17.0-alpha.2
+- babygod/kube-controller-manager-arm64:v1.17.0-alpha.2
+- babygod/kube-controller-manager-arm:v1.17.0-alpha.2
+- babygod/kube-controller-manager:v1.17.0-alpha.2
+- babygod/kube-apiserver-s390x:v1.17.0-alpha.2
+- babygod/kube-apiserver-ppc64le:v1.17.0-alpha.2
+- babygod/kube-apiserver-arm64:v1.17.0-alpha.2
+- babygod/kube-apiserver-arm:v1.17.0-alpha.2
+- babygod/kube-apiserver:v1.17.0-alpha.2
+- babygod/kube-apiserver-amd64:v1.17.0-alpha.2
+- babygod/conformance-s390x:v1.17.0-alpha.2
+- babygod/gcp-controller-manager:9c2dbcf94358dba0e9fcdfbcc3b17a10c439500b
+- babygod/conformance-ppc64le:v1.17.0-alpha.2
+- babygod/conformance-arm64:v1.17.0-alpha.2
+- babygod/conformance-amd64:v1.17.0-alpha.2
+- babygod/conformance-arm:v1.17.0-alpha.2
 -------------------------------at 2019-10-12 11:05:15 sync image repositorys-------------------------------
 - babygod/etcd-s390x:3.4.2-0
 - babygod/etcd-s390x:3.4.2
