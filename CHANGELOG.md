@@ -1,3 +1,20 @@
+-------------------------------at 2019-10-15 11:03:41 sync image repositorys-------------------------------
+- babygod/metrics-server-ppc64le:v0.3.6
+- babygod/metrics-server-s390x:v0.3.6
+- babygod/metrics-server-arm64:v0.3.6
+- babygod/metrics-server-arm:v0.3.6
+- babygod/metrics-server:v0.3.6
+- babygod/metrics-server-amd64:v0.3.6
+- babygod/kube-scheduler-s390x:v1.17.0-alpha.2
+- babygod/kube-scheduler-ppc64le:v1.17.0-alpha.2
+- babygod/kube-scheduler-arm64:v1.17.0-alpha.2
+- babygod/kube-scheduler-arm:v1.17.0-alpha.2
+- babygod/kube-scheduler:v1.17.0-alpha.2
+- babygod/kube-scheduler-amd64:v1.17.0-alpha.2
+- babygod/kube-proxy-s390x:v1.17.0-alpha.2
+- babygod/kube-proxy-ppc64le:v1.17.0-alpha.2
+- babygod/kube-proxy-arm64:v1.17.0-alpha.2
+- babygod/kube-proxy-arm:v1.17.0-alpha.2
 - babygod/kube-proxy-amd64:v1.17.0-alpha.2
 - babygod/kube-controller-manager-s390x:v1.17.0-alpha.2
 - babygod/kube-controller-manager-ppc64le:v1.17.0-alpha.2
