@@ -1,3 +1,20 @@
+- babygod/cloud-controller-manager-arm64:v1.15.6-beta.0
+- babygod/cloud-controller-manager-arm64:v1.15.5
+- babygod/cloud-controller-manager-arm:v1.14.8
+- babygod/cloud-controller-manager-arm:v1.15.5
+- babygod/cloud-controller-manager-arm:v1.13.13-beta.0
+- babygod/cloud-controller-manager-arm:v1.13.12
+- babygod/cloud-controller-manager-amd64:v1.15.5
+- babygod/cloud-controller-manager:v1.15.5
+- babygod/cloud-controller-manager-amd64:v1.14.8
+- babygod/cloud-controller-manager:v1.14.9-beta.0
+- babygod/cloud-controller-manager-amd64:v1.13.13-beta.0
+- babygod/cloud-controller-manager-amd64:v1.14.9-beta.0
+- babygod/cloud-controller-manager-amd64:v1.13.12
+- babygod/cloud-controller-manager:v1.14.8
+- babygod/cloud-controller-manager-amd64:v1.15.6-beta.0
+- babygod/cloud-controller-manager:v1.13.12
+- babygod/cloud-controller-manager:v1.15.6-beta.0
 -------------------------------at 2019-10-15 11:03:41 sync image repositorys-------------------------------
 - babygod/metrics-server-ppc64le:v0.3.6
 - babygod/metrics-server-s390x:v0.3.6
