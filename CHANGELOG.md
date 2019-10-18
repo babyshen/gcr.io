@@ -1,3 +1,6 @@
+-------------------------------at 2019-10-18 11:18:34 sync image repositorys-------------------------------
+- babygod/ingress-gce-glbc-amd64:v1.6.1
+- babygod/ingress-gce-glbc-amd64:v1.7.1
 -------------------------------at 2019-10-17 11:00:06 sync image repositorys-------------------------------
 - babygod/cluster-autoscaler:v1.14.6
 - babygod/cluster-autoscaler:v1.15.3
