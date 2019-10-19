@@ -1,3 +1,7 @@
+-------------------------------at 2019-10-19 11:05:14 sync image repositorys-------------------------------
+- babygod/kube-cross:v1.12.12-1
+- babygod/ingress-gce-glbc-amd64:v1.7.1-rc1
+- babygod/cluster-autoscaler:v1.13.8
 -------------------------------at 2019-10-18 11:18:34 sync image repositorys-------------------------------
 - babygod/ingress-gce-glbc-amd64:v1.6.1
 - babygod/ingress-gce-glbc-amd64:v1.7.1
