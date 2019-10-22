@@ -1,3 +1,7 @@
+-------------------------------at 2019-10-22 11:21:04 sync image repositorys-------------------------------
+- babygod/ubuntu-nvidia-driver-installer:63e490082d38ac3a9bef87dbfbd6a58c038a07d6
+- babygod/nvidia-gpu-device-plugin:63e490082d38ac3a9bef87dbfbd6a58c038a07d6
+- babygod/ingress-gce-glbc-amd64:v1.7.1-rc2
 -------------------------------at 2019-10-19 11:05:14 sync image repositorys-------------------------------
 - babygod/kube-cross:v1.12.12-1
 - babygod/ingress-gce-glbc-amd64:v1.7.1-rc1
