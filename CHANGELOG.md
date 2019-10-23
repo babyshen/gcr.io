@@ -1,3 +1,23 @@
+- babygod/kube-controller-manager-s390x:v1.17.0-alpha.3
+- babygod/kube-controller-manager-ppc64le:v1.17.0-alpha.3
+- babygod/kube-controller-manager-arm64:v1.17.0-alpha.3
+- babygod/kube-controller-manager-arm:v1.17.0-alpha.3
+- babygod/kube-controller-manager-amd64:v1.17.0-alpha.3
+- babygod/kube-controller-manager:v1.17.0-alpha.3
+- babygod/kube-apiserver-s390x:v1.17.0-alpha.3
+- babygod/kube-apiserver-ppc64le:v1.17.0-alpha.3
+- babygod/kube-apiserver-arm64:v1.17.0-alpha.3
+- babygod/kube-apiserver-arm:v1.17.0-alpha.3
+- babygod/kube-apiserver:v1.17.0-alpha.3
+- babygod/kube-apiserver-amd64:v1.17.0-alpha.3
+- babygod/conformance-s390x:v1.17.0-alpha.3
+- babygod/conformance-ppc64le:v1.17.0-alpha.3
+- babygod/conformance-arm64:v1.17.0-alpha.3
+- babygod/conformance-arm:v1.17.0-alpha.3
+- babygod/conformance-amd64:v1.17.0-alpha.3
+- babygod/conformance:v1.17.0-alpha.3
+- babygod/cadvisor:v0.34.0
+- babygod/cadvisor:latest
 -------------------------------at 2019-10-22 11:21:04 sync image repositorys-------------------------------
 - babygod/ubuntu-nvidia-driver-installer:63e490082d38ac3a9bef87dbfbd6a58c038a07d6
 - babygod/nvidia-gpu-device-plugin:63e490082d38ac3a9bef87dbfbd6a58c038a07d6
