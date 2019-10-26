@@ -1,3 +1,10 @@
+-------------------------------at 2019-10-26 11:21:49 sync image repositorys-------------------------------
+- babygod/ubuntu-nvidia-driver-installer:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb
+- babygod/prometheus-to-sd:v0.8.1
+- babygod/prometheus-to-sd:v0.8.2
+- babygod/nvidia-gpu-device-plugin:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb
+- babygod/kube-cross:v1.13.3-1
+- babygod/ingress-gce-glbc-amd64:v1.7.1-rc3
 -------------------------------at 2019-10-23 11:04:47 sync image repositorys-------------------------------
 - babygod/prometheus-to-sd:v0.7.2-gke.1
 - babygod/prometheus-to-sd:v0.8.0-gke.1
