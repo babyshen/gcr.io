@@ -1,3 +1,19 @@
+-------------------------------at 2019-10-29 11:14:02 sync image repositorys-------------------------------
+- babygod/etcd-ppc64le:3.4.3
+- babygod/etcd-ppc64le:3.4.3-0
+- babygod/etcd-arm64:3.4.3-0
+- babygod/etcd-arm64:3.4.3
+- babygod/etcd-s390x:3.4.3-0
+- babygod/etcd-s390x:3.4.3
+- babygod/gke-metadata-server:v0.2.12
+- babygod/gke-metadata-server:d25ce10f35cdb1972c39138070c19d82e35a47ce
+- babygod/etcd-arm:3.4.3
+- babygod/etcd-arm:3.4.3-0
+- babygod/etcd-amd64:3.4.3-0
+- babygod/etcd-amd64:3.4.3
+- babygod/etcd:3.4.3
+- babygod/etcd:3.4.3-0
+- babygod/etcd-empty-dir-cleanup:3.4.3.0
 -------------------------------at 2019-10-26 11:21:49 sync image repositorys-------------------------------
 - babygod/ubuntu-nvidia-driver-installer:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb
 - babygod/prometheus-to-sd:v0.8.1
