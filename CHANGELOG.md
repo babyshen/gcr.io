@@ -1,3 +1,5 @@
+-------------------------------at 2019-10-30 11:14:22 sync image repositorys-------------------------------
+- babygod/kube-scheduler-s390x:v1.18.0-alpha.0
 - babygod/kube-scheduler-s390x:v1.17.0-beta.0
 - babygod/kube-scheduler-ppc64le:v1.17.0-beta.0
 - babygod/kube-scheduler-ppc64le:v1.18.0-alpha.0
