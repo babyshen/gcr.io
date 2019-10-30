@@ -1,3 +1,23 @@
+- babygod/kube-apiserver-arm64:v1.17.0-beta.0
+- babygod/kube-apiserver-arm:v1.17.0-beta.0
+- babygod/kube-apiserver-arm:v1.18.0-alpha.0
+- babygod/kube-apiserver-amd64:v1.18.0-alpha.0
+- babygod/kube-apiserver-amd64:v1.17.0-beta.0
+- babygod/kube-apiserver:v1.17.0-beta.0
+- babygod/kube-apiserver:v1.18.0-alpha.0
+- babygod/ingress-gce-glbc-amd64:v1.7.2
+- babygod/conformance-s390x:v1.18.0-alpha.0
+- babygod/conformance-ppc64le:v1.17.0-beta.0
+- babygod/conformance-arm64:v1.17.0-beta.0
+- babygod/conformance-s390x:v1.17.0-beta.0
+- babygod/conformance-arm64:v1.18.0-alpha.0
+- babygod/conformance-ppc64le:v1.18.0-alpha.0
+- babygod/conformance:v1.18.0-alpha.0
+- babygod/conformance-amd64:v1.18.0-alpha.0
+- babygod/conformance:v1.17.0-beta.0
+- babygod/conformance-amd64:v1.17.0-beta.0
+- babygod/conformance-arm:v1.17.0-beta.0
+- babygod/conformance-arm:v1.18.0-alpha.0
 -------------------------------at 2019-10-29 11:14:02 sync image repositorys-------------------------------
 - babygod/etcd-ppc64le:3.4.3
 - babygod/etcd-ppc64le:3.4.3-0
