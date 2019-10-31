@@ -1,3 +1,6 @@
+-------------------------------at 2019-10-31 11:15:10 sync image repositorys-------------------------------
+- babygod/node-problem-detector:v0.8.0
+- babygod/gcp-controller-manager:2cb57f2f71eefdcaa422c60cf89b2c54ca4f00b4
 -------------------------------at 2019-10-30 11:14:22 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.18.0-alpha.0
 - babygod/kube-scheduler-s390x:v1.17.0-beta.0
