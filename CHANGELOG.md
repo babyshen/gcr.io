@@ -1,3 +1,10 @@
+-------------------------------at 2019-11-02 11:10:28 sync image repositorys-------------------------------
+- babygod/debian-base-s390x:v2.0.0
+- babygod/debian-base-ppc64le:v2.0.0
+- babygod/debian-base-arm64:v2.0.0
+- babygod/debian-base:v2.0.0
+- babygod/debian-base-arm:v2.0.0
+- babygod/debian-base-amd64:v2.0.0
 -------------------------------at 2019-10-31 11:15:10 sync image repositorys-------------------------------
 - babygod/node-problem-detector:v0.8.0
 - babygod/gcp-controller-manager:2cb57f2f71eefdcaa422c60cf89b2c54ca4f00b4
