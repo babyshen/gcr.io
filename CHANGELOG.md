@@ -1,3 +1,13 @@
+-------------------------------at 2019-11-05 11:16:13 sync image repositorys-------------------------------
+- babygod/visio-stencil-creator:v1.0
+- babygod/kube-cross:v1.13.4-1
+- babygod/gke-metadata-server:01e9ce0dc67d02654afe40db21aaeaca8b33690d
+- babygod/debian-iptables-ppc64le:v12.0.0
+- babygod/debian-iptables-s390x:v12.0.0
+- babygod/debian-iptables-arm64:v12.0.0
+- babygod/debian-iptables-arm:v12.0.0
+- babygod/debian-iptables-amd64:v12.0.0
+- babygod/debian-iptables:v12.0.0
 -------------------------------at 2019-11-02 11:10:28 sync image repositorys-------------------------------
 - babygod/debian-base-s390x:v2.0.0
 - babygod/debian-base-ppc64le:v2.0.0
