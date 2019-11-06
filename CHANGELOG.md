@@ -1,3 +1,23 @@
+- babygod/kube-proxy-amd64:v1.17.0-beta.1
+- babygod/kube-proxy:v1.17.0-beta.1
+- babygod/kube-controller-manager-s390x:v1.17.0-beta.1
+- babygod/kube-controller-manager-ppc64le:v1.17.0-beta.1
+- babygod/kube-controller-manager-arm64:v1.17.0-beta.1
+- babygod/kube-controller-manager-arm:v1.17.0-beta.1
+- babygod/kube-controller-manager-amd64:v1.17.0-beta.1
+- babygod/kube-controller-manager:v1.17.0-beta.1
+- babygod/kube-apiserver-s390x:v1.17.0-beta.1
+- babygod/kube-apiserver-ppc64le:v1.17.0-beta.1
+- babygod/kube-apiserver-arm64:v1.17.0-beta.1
+- babygod/kube-apiserver-arm:v1.17.0-beta.1
+- babygod/kube-apiserver:v1.17.0-beta.1
+- babygod/kube-apiserver-amd64:v1.17.0-beta.1
+- babygod/conformance-s390x:v1.17.0-beta.1
+- babygod/conformance-ppc64le:v1.17.0-beta.1
+- babygod/conformance-arm64:v1.17.0-beta.1
+- babygod/conformance-arm:v1.17.0-beta.1
+- babygod/conformance-amd64:v1.17.0-beta.1
+- babygod/conformance:v1.17.0-beta.1
 -------------------------------at 2019-11-05 11:16:13 sync image repositorys-------------------------------
 - babygod/visio-stencil-creator:v1.0
 - babygod/kube-cross:v1.13.4-1
