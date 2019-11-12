@@ -1,3 +1,6 @@
+-------------------------------at 2019-11-12 11:16:33 sync image repositorys-------------------------------
+- babygod/watcher-daemonset:alpha5
+- babygod/coredns:1.6.5
 -------------------------------at 2019-11-06 11:17:39 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.17.0-beta.1
 - babygod/kube-scheduler-ppc64le:v1.17.0-beta.1
