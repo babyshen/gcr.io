@@ -1,3 +1,20 @@
+- babygod/cloud-controller-manager-ppc64le:v1.15.6
+- babygod/cloud-controller-manager-ppc64le:v1.14.10-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.14.9
+- babygod/cloud-controller-manager-ppc64le:v1.15.7-beta.0
+- babygod/cloud-controller-manager-arm64:v1.15.6
+- babygod/cloud-controller-manager-arm64:v1.14.9
+- babygod/cloud-controller-manager-arm:v1.14.10-beta.0
+- babygod/cloud-controller-manager-arm:v1.14.9
+- babygod/cloud-controller-manager-arm:v1.15.6
+- babygod/cloud-controller-manager:v1.15.6
+- babygod/cloud-controller-manager-amd64:v1.14.9
+- babygod/cloud-controller-manager-amd64:v1.15.6
+- babygod/cloud-controller-manager:v1.14.9
+- babygod/cloud-controller-manager:v1.15.7-beta.0
+- babygod/cloud-controller-manager-amd64:v1.14.10-beta.0
+- babygod/cloud-controller-manager-amd64:v1.15.7-beta.0
+- babygod/cloud-controller-manager:v1.14.10-beta.0
 -------------------------------at 2019-11-12 11:16:33 sync image repositorys-------------------------------
 - babygod/watcher-daemonset:alpha5
 - babygod/coredns:1.6.5
