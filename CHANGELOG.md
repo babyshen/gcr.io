@@ -1,3 +1,23 @@
+- babygod/kube-apiserver-ppc64le:v1.17.0-beta.2
+- babygod/kube-controller-manager:v1.17.0-beta.2
+- babygod/kube-controller-manager-amd64:v1.17.0-beta.2
+- babygod/kube-apiserver-s390x:v1.17.0-beta.2
+- babygod/hyperkube-s390x:v1.17.0-beta.2
+- babygod/kube-apiserver-arm64:v1.17.0-beta.2
+- babygod/kube-apiserver-arm:v1.17.0-beta.2
+- babygod/kube-apiserver:v1.17.0-beta.2
+- babygod/kube-apiserver-amd64:v1.17.0-beta.2
+- babygod/hyperkube-ppc64le:v1.17.0-beta.2
+- babygod/hyperkube-arm64:v1.17.0-beta.2
+- babygod/hyperkube:v1.17.0-beta.2
+- babygod/hyperkube-amd64:v1.17.0-beta.2
+- babygod/hyperkube-arm:v1.17.0-beta.2
+- babygod/conformance-s390x:v1.17.0-beta.2
+- babygod/conformance-ppc64le:v1.17.0-beta.2
+- babygod/conformance-arm64:v1.17.0-beta.2
+- babygod/conformance-arm:v1.17.0-beta.2
+- babygod/conformance-amd64:v1.17.0-beta.2
+- babygod/conformance:v1.17.0-beta.2
 -------------------------------at 2019-11-14 11:44:43 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.14.10-beta.0
 - babygod/kube-scheduler-s390x:v1.16.4-beta.0
