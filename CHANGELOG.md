@@ -1,3 +1,5 @@
+-------------------------------at 2019-11-20 11:35:38 sync image repositorys-------------------------------
+- babygod/ingress-gce-glbc-amd64:v1.8.0-rc1
 -------------------------------at 2019-11-19 11:23:34 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.17.0-beta.2
 - babygod/kube-scheduler-ppc64le:v1.17.0-beta.2
