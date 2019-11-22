@@ -1,3 +1,21 @@
+- babygod/k8s-dns-sidecar:1.15.8
+- babygod/k8s-dns-node-cache-s390x:1.15.8
+- babygod/k8s-dns-node-cache-ppc64le:1.15.8
+- babygod/k8s-dns-node-cache-arm64:1.15.8
+- babygod/k8s-dns-node-cache-arm:1.15.8
+- babygod/k8s-dns-kube-dns-s390x:1.15.8
+- babygod/k8s-dns-node-cache:1.15.8
+- babygod/k8s-dns-kube-dns-arm64:1.15.8
+- babygod/k8s-dns-kube-dns-ppc64le:1.15.8
+- babygod/k8s-dns-kube-dns-arm:1.15.8
+- babygod/k8s-dns-kube-dns-amd64:1.15.8
+- babygod/k8s-dns-kube-dns:1.15.8
+- babygod/k8s-dns-dnsmasq-nanny-ppc64le:1.15.8
+- babygod/k8s-dns-dnsmasq-nanny-arm64:1.15.8
+- babygod/k8s-dns-dnsmasq-nanny-arm:1.15.8
+- babygod/k8s-dns-dnsmasq-nanny-amd64:1.15.8
+- babygod/k8s-dns-dnsmasq-nanny:1.15.8
+- babygod/ingress-gce-glbc-amd64:v1.8.0-rc2
 -------------------------------at 2019-11-20 11:35:38 sync image repositorys-------------------------------
 - babygod/ingress-gce-glbc-amd64:v1.8.0-rc1
 -------------------------------at 2019-11-19 11:23:34 sync image repositorys-------------------------------
