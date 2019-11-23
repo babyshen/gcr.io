@@ -1,3 +1,23 @@
+- babygod/kube-controller-manager:v1.17.0-rc.1
+- babygod/kube-controller-manager-amd64:v1.17.0-rc.1
+- babygod/kube-apiserver-s390x:v1.17.0-rc.1
+- babygod/kube-apiserver-ppc64le:v1.17.0-rc.1
+- babygod/kube-apiserver-arm64:v1.17.0-rc.1
+- babygod/kube-apiserver-arm:v1.17.0-rc.1
+- babygod/hyperkube-s390x:v1.17.0-rc.1
+- babygod/kube-apiserver:v1.17.0-rc.1
+- babygod/kube-apiserver-amd64:v1.17.0-rc.1
+- babygod/hyperkube-ppc64le:v1.17.0-rc.1
+- babygod/hyperkube-arm64:v1.17.0-rc.1
+- babygod/hyperkube-arm:v1.17.0-rc.1
+- babygod/hyperkube:v1.17.0-rc.1
+- babygod/hyperkube-amd64:v1.17.0-rc.1
+- babygod/conformance-s390x:v1.17.0-rc.1
+- babygod/conformance-ppc64le:v1.17.0-rc.1
+- babygod/conformance-arm:v1.17.0-rc.1
+- babygod/conformance-arm64:v1.17.0-rc.1
+- babygod/conformance:v1.17.0-rc.1
+- babygod/conformance-amd64:v1.17.0-rc.1
 -------------------------------at 2019-11-22 11:36:07 sync image repositorys-------------------------------
 - babygod/k8s-dns-sidecar-s390x:1.15.8
 - babygod/k8s-dns-sidecar-ppc64le:1.15.8
