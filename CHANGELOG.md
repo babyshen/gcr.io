@@ -1,3 +1,5 @@
+-------------------------------at 2019-11-30 11:20:29 sync image repositorys-------------------------------
+- babygod/cluster-autoscaler:v1.17.0
 -------------------------------at 2019-11-29 11:20:09 sync image repositorys-------------------------------
 - babygod/ubuntu-nvidia-driver-installer:78489379f076ee9175cb6dba3f8295e1788e28f8
 - babygod/cluster-autoscaler:v1.14.7
