@@ -1,3 +1,22 @@
+- babygod/kube-controller-manager:v1.17.0-rc.2
+- babygod/kube-apiserver-s390x:v1.17.0-rc.2
+- babygod/kube-apiserver-ppc64le:v1.17.0-rc.2
+- babygod/kube-apiserver-arm64:v1.17.0-rc.2
+- babygod/hyperkube-s390x:v1.17.0-rc.2
+- babygod/kube-apiserver-arm:v1.17.0-rc.2
+- babygod/kube-apiserver:v1.17.0-rc.2
+- babygod/hyperkube-ppc64le:v1.17.0-rc.2
+- babygod/hyperkube-arm64:v1.17.0-rc.2
+- babygod/hyperkube-arm:v1.17.0-rc.2
+- babygod/hyperkube-amd64:v1.17.0-rc.2
+- babygod/hyperkube:v1.17.0-rc.2
+- babygod/ingress-gce-glbc-amd64:v1.8.0-rc3
+- babygod/conformance-s390x:v1.17.0-rc.2
+- babygod/conformance-ppc64le:v1.17.0-rc.2
+- babygod/conformance-arm64:v1.17.0-rc.2
+- babygod/conformance-arm:v1.17.0-rc.2
+- babygod/conformance:v1.17.0-rc.2
+- babygod/conformance-amd64:v1.17.0-rc.2
 -------------------------------at 2019-12-03 11:27:38 sync image repositorys-------------------------------
 - babygod/git-sync:v3.1.3
 -------------------------------at 2019-12-02 11:15:43 sync image repositorys-------------------------------
