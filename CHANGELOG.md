@@ -1,3 +1,5 @@
+-------------------------------at 2019-12-06 11:31:31 sync image repositorys-------------------------------
+- babygod/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851
 -------------------------------at 2019-12-04 11:27:51 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.17.0-rc.2
 - babygod/kube-scheduler-ppc64le:v1.17.0-rc.2
