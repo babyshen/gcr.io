@@ -1,3 +1,7 @@
+-------------------------------at 2019-12-07 11:22:58 sync image repositorys-------------------------------
+- babygod/ingress-gce-glbc-amd64:v1.8.0
+- babygod/gcp-controller-manager:38e09015388b6e3a58918611cfe08374bf0f97dd
+- babygod/cluster-autoscaler:v1.13.9
 -------------------------------at 2019-12-06 11:31:31 sync image repositorys-------------------------------
 - babygod/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851
 -------------------------------at 2019-12-04 11:27:51 sync image repositorys-------------------------------
