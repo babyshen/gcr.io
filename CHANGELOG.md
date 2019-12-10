@@ -1,3 +1,23 @@
+- babygod/hyperkube-arm64:v1.17.0
+- babygod/hyperkube-arm64:v1.17.1-beta.0
+- babygod/hyperkube-arm:v1.17.0
+- babygod/hyperkube-arm:v1.17.1-beta.0
+- babygod/hyperkube-amd64:v1.17.0
+- babygod/hyperkube:v1.17.0
+- babygod/hyperkube:v1.17.1-beta.0
+- babygod/hyperkube-amd64:v1.17.1-beta.0
+- babygod/conformance-ppc64le:v1.17.1-beta.0
+- babygod/conformance-s390x:v1.17.1-beta.0
+- babygod/conformance-s390x:v1.17.0
+- babygod/conformance-ppc64le:v1.17.0
+- babygod/conformance-arm64:v1.17.0
+- babygod/conformance-arm64:v1.17.1-beta.0
+- babygod/conformance-amd64:v1.17.1-beta.0
+- babygod/conformance-arm:v1.17.0
+- babygod/conformance:v1.17.1-beta.0
+- babygod/conformance-arm:v1.17.1-beta.0
+- babygod/conformance:v1.17.0
+- babygod/conformance-amd64:v1.17.0
 -------------------------------at 2019-12-07 11:22:58 sync image repositorys-------------------------------
 - babygod/ingress-gce-glbc-amd64:v1.8.0
 - babygod/gcp-controller-manager:38e09015388b6e3a58918611cfe08374bf0f97dd
