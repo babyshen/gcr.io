@@ -1,3 +1,21 @@
+- babygod/cloud-controller-manager-ppc64le:v1.14.11-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.15.7
+- babygod/cloud-controller-manager-ppc64le:v1.14.10
+- babygod/cloud-controller-manager-ppc64le:v1.15.8-beta.0
+- babygod/cloud-controller-manager-arm64:v1.15.8-beta.0
+- babygod/cloud-controller-manager-arm64:v1.14.11-beta.0
+- babygod/cloud-controller-manager-arm64:v1.14.10
+- babygod/cloud-controller-manager-arm64:v1.15.7
+- babygod/cloud-controller-manager-arm:v1.14.10
+- babygod/cloud-controller-manager-arm:v1.15.8-beta.0
+- babygod/cloud-controller-manager-arm:v1.14.11-beta.0
+- babygod/cloud-controller-manager:v1.15.8-beta.0
+- babygod/cloud-controller-manager:v1.15.7
+- babygod/cloud-controller-manager:v1.14.11-beta.0
+- babygod/cloud-controller-manager-amd64:v1.15.8-beta.0
+- babygod/cloud-controller-manager-amd64:v1.14.10
+- babygod/cloud-controller-manager:v1.14.10
+- babygod/cloud-controller-manager-amd64:v1.14.11-beta.0
 -------------------------------at 2019-12-10 11:39:10 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.17.1-beta.0
 - babygod/kube-scheduler-s390x:v1.17.0
