@@ -1,3 +1,21 @@
+-------------------------------at 2019-12-18 11:31:18 sync image repositorys-------------------------------
+- babygod/toolbox:latest
+- babygod/toolbox:20191217-00
+- babygod/kube-scheduler-s390x:v1.18.0-alpha.1
+- babygod/kube-scheduler-ppc64le:v1.18.0-alpha.1
+- babygod/kube-scheduler-arm64:v1.18.0-alpha.1
+- babygod/kube-scheduler-arm:v1.18.0-alpha.1
+- babygod/kube-scheduler-amd64:v1.18.0-alpha.1
+- babygod/kube-scheduler:v1.18.0-alpha.1
+- babygod/kube-proxy-s390x:v1.18.0-alpha.1
+- babygod/kube-proxy-ppc64le:v1.18.0-alpha.1
+- babygod/kube-proxy-arm64:v1.18.0-alpha.1
+- babygod/kube-proxy-arm:v1.18.0-alpha.1
+- babygod/kube-proxy-amd64:v1.18.0-alpha.1
+- babygod/kube-controller-manager-s390x:v1.18.0-alpha.1
+- babygod/kube-controller-manager-ppc64le:v1.18.0-alpha.1
+- babygod/kube-controller-manager-arm64:v1.18.0-alpha.1
+- babygod/kube-controller-manager-arm:v1.18.0-alpha.1
 - babygod/kube-controller-manager:v1.18.0-alpha.1
 - babygod/kube-controller-manager-amd64:v1.18.0-alpha.1
 - babygod/kube-apiserver-s390x:v1.18.0-alpha.1
