@@ -1,3 +1,13 @@
+-------------------------------at 2020-01-07 12:11:27 sync image repositorys-------------------------------
+- babygod/toolbox:latest
+- babygod/prometheus-to-sd:v0.9.0
+- babygod/kube-cross:v1.13.5-1
+- babygod/kube-state-metrics-arm64:v1.9.0
+- babygod/kube-state-metrics-s390x:v1.9.0
+- babygod/kube-state-metrics-ppc64le:v1.9.0
+- babygod/kube-state-metrics-arm:v1.9.0
+- babygod/kube-state-metrics-amd64:v1.9.0
+- babygod/kube-state-metrics:v1.9.0
 -------------------------------at 2019-12-18 11:31:18 sync image repositorys-------------------------------
 - babygod/toolbox:latest
 - babygod/toolbox:20191217-00
