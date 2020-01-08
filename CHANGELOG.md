@@ -1,3 +1,5 @@
+-------------------------------at 2020-01-08 11:46:57 sync image repositorys-------------------------------
+- babygod/git-sync:v3.1.4
 -------------------------------at 2020-01-07 12:11:27 sync image repositorys-------------------------------
 - babygod/toolbox:latest
 - babygod/prometheus-to-sd:v0.9.0
