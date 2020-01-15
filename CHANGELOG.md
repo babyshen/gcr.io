@@ -1,3 +1,23 @@
+- babygod/hyperkube-arm64:v1.17.2-beta.0
+- babygod/hyperkube-arm64:v1.17.1
+- babygod/hyperkube-arm:v1.17.2-beta.0
+- babygod/hyperkube:v1.17.2-beta.0
+- babygod/hyperkube-arm:v1.17.1
+- babygod/hyperkube-amd64:v1.17.2-beta.0
+- babygod/hyperkube:v1.17.1
+- babygod/hyperkube-amd64:v1.17.1
+- babygod/conformance-arm64:v1.17.2-beta.0
+- babygod/conformance-s390x:v1.17.2-beta.0
+- babygod/conformance-ppc64le:v1.17.2-beta.0
+- babygod/conformance-ppc64le:v1.17.1
+- babygod/conformance-s390x:v1.17.1
+- babygod/conformance-arm64:v1.17.1
+- babygod/conformance-arm:v1.17.2-beta.0
+- babygod/conformance-arm:v1.17.1
+- babygod/conformance:v1.17.1
+- babygod/conformance-amd64:v1.17.1
+- babygod/conformance:v1.17.2-beta.0
+- babygod/conformance-amd64:v1.17.2-beta.0
 -------------------------------at 2020-01-08 11:46:57 sync image repositorys-------------------------------
 - babygod/git-sync:v3.1.4
 -------------------------------at 2020-01-07 12:11:27 sync image repositorys-------------------------------
