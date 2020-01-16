@@ -1,3 +1,5 @@
+-------------------------------at 2020-01-16 12:11:43 sync image repositorys-------------------------------
+- babygod/kube-cross:v1.13.6-1
 -------------------------------at 2020-01-15 11:52:36 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.17.2-beta.0
 - babygod/kube-scheduler-s390x:v1.17.1
