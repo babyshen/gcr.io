@@ -1,3 +1,21 @@
+- babygod/conformance:v1.16.6-beta.0
+- babygod/conformance-amd64:v1.16.6-beta.0
+- babygod/conformance:v1.15.9-beta.0
+- babygod/conformance-amd64:v1.15.9-beta.0
+- babygod/conformance-amd64:v1.16.5
+- babygod/conformance:v1.16.5
+- babygod/conformance-amd64:v1.15.8
+- babygod/conformance:v1.15.8
+- babygod/cloud-controller-manager-s390x:v1.15.8
+- babygod/cloud-controller-manager-s390x:v1.15.9-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.15.9-beta.0
+- babygod/cloud-controller-manager-arm64:v1.15.9-beta.0
+- babygod/cloud-controller-manager-arm:v1.15.9-beta.0
+- babygod/cloud-controller-manager-arm:v1.15.8
+- babygod/cloud-controller-manager-amd64:v1.15.9-beta.0
+- babygod/cloud-controller-manager-amd64:v1.15.8
+- babygod/cloud-controller-manager:v1.15.9-beta.0
+- babygod/cloud-controller-manager:v1.15.8
 -------------------------------at 2020-01-16 12:11:43 sync image repositorys-------------------------------
 - babygod/kube-cross:v1.13.6-1
 -------------------------------at 2020-01-15 11:52:36 sync image repositorys-------------------------------
