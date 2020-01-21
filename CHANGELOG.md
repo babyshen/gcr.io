@@ -1,3 +1,23 @@
+-------------------------------at 2020-01-21 11:40:28 sync image repositorys-------------------------------
+- babygod/kube-scheduler-ppc64le:v1.18.0-alpha.2
+- babygod/kube-scheduler-arm64:v1.18.0-alpha.2
+- babygod/kube-scheduler-arm:v1.18.0-alpha.2
+- babygod/kube-scheduler-amd64:v1.18.0-alpha.2
+- babygod/kube-proxy-ppc64le:v1.18.0-alpha.2
+- babygod/kube-proxy-arm64:v1.18.0-alpha.2
+- babygod/kube-proxy-arm:v1.18.0-alpha.2
+- babygod/kube-proxy-amd64:v1.18.0-alpha.2
+- babygod/kube-controller-manager-ppc64le:v1.18.0-alpha.2
+- babygod/kube-controller-manager-arm64:v1.18.0-alpha.2
+- babygod/kube-controller-manager-arm:v1.18.0-alpha.2
+- babygod/kube-controller-manager-amd64:v1.18.0-alpha.2
+- babygod/kube-apiserver-arm64:v1.18.0-alpha.2
+- babygod/kube-apiserver-arm:v1.18.0-alpha.2
+- babygod/kube-apiserver-amd64:v1.18.0-alpha.2
+- babygod/hyperkube-arm:v1.18.0-alpha.2
+- babygod/hyperkube-amd64:v1.18.0-alpha.2
+- babygod/conformance-amd64:v1.18.0-alpha.2
+- babygod/addon-resizer:1.8.8
 -------------------------------at 2020-01-18 11:57:35 sync image repositorys-------------------------------
 - babygod/ingress-gce-glbc-amd64:v1.8.1
 -------------------------------at 2020-01-17 12:04:33 sync image repositorys-------------------------------
