@@ -1,3 +1,6 @@
+-------------------------------at 2020-02-07 11:53:13 sync image repositorys-------------------------------
+- babygod/watcher-daemonset:alpha6
+- babygod/custom-metrics-stackdriver-adapter:v0.10.1
 -------------------------------at 2020-02-05 11:56:44 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.18.0-alpha.3
 - babygod/kube-scheduler-ppc64le:v1.18.0-alpha.3
