@@ -1,3 +1,23 @@
+- babygod/conformance-amd64:v1.15.10
+- babygod/conformance:v1.16.7
+- babygod/conformance:v1.15.10
+- babygod/conformance:v1.17.4-beta.0
+- babygod/conformance:v1.17.3
+- babygod/conformance:v1.15.11-beta.0
+- babygod/conformance-amd64:v1.15.11-beta.0
+- babygod/conformance:v1.16.8-beta.0
+- babygod/cloud-controller-manager-s390x:v1.15.11-beta.0
+- babygod/cloud-controller-manager-s390x:v1.15.10
+- babygod/cloud-controller-manager-ppc64le:v1.15.11-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.15.10
+- babygod/cloud-controller-manager-arm64:v1.15.10
+- babygod/cloud-controller-manager-arm64:v1.15.11-beta.0
+- babygod/cloud-controller-manager-arm:v1.15.10
+- babygod/cloud-controller-manager-arm:v1.15.11-beta.0
+- babygod/cloud-controller-manager:v1.15.10
+- babygod/cloud-controller-manager-amd64:v1.15.10
+- babygod/cloud-controller-manager:v1.15.11-beta.0
+- babygod/cloud-controller-manager-amd64:v1.15.11-beta.0
 -------------------------------at 2020-02-07 11:53:13 sync image repositorys-------------------------------
 - babygod/watcher-daemonset:alpha6
 - babygod/custom-metrics-stackdriver-adapter:v0.10.1
