@@ -1,3 +1,12 @@
+-------------------------------at 2020-02-12 12:19:03 sync image repositorys-------------------------------
+- babygod/kubelet-to-gcm:1.3.0
+- babygod/kube-scheduler-s390x:v1.17.4-beta.0
+- babygod/kube-scheduler-s390x:v1.15.10
+- babygod/kube-scheduler-s390x:v1.17.3
+- babygod/kube-scheduler-s390x:v1.16.8-beta.0
+- babygod/kube-scheduler-s390x:v1.16.7
+- babygod/kube-scheduler-ppc64le:v1.17.4-beta.0
+- babygod/kube-scheduler-ppc64le:v1.17.3
 - babygod/kube-scheduler-ppc64le:v1.16.8-beta.0
 - babygod/kube-scheduler-ppc64le:v1.16.7
 - babygod/kube-scheduler-ppc64le:v1.15.11-beta.0
