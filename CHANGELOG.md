@@ -1,3 +1,21 @@
+-------------------------------at 2020-02-13 11:59:17 sync image repositorys-------------------------------
+- babygod/kubelet-to-gcm:1.3.1
+- babygod/kube-scheduler-s390x:v1.18.0-alpha.5
+- babygod/kube-scheduler-ppc64le:v1.18.0-alpha.5
+- babygod/kube-scheduler-arm64:v1.18.0-alpha.5
+- babygod/kube-scheduler-arm:v1.18.0-alpha.5
+- babygod/kube-scheduler-amd64:v1.18.0-alpha.5
+- babygod/kube-scheduler:v1.18.0-alpha.5
+- babygod/kube-proxy-s390x:v1.18.0-alpha.5
+- babygod/kube-proxy-ppc64le:v1.18.0-alpha.5
+- babygod/kube-proxy-arm64:v1.18.0-alpha.5
+- babygod/kube-proxy-arm:v1.18.0-alpha.5
+- babygod/kube-proxy:v1.18.0-alpha.5
+- babygod/kube-proxy-amd64:v1.18.0-alpha.5
+- babygod/kube-controller-manager-s390x:v1.18.0-alpha.5
+- babygod/kube-controller-manager-ppc64le:v1.18.0-alpha.5
+- babygod/kube-controller-manager-arm64:v1.18.0-alpha.5
+- babygod/kube-controller-manager-arm:v1.18.0-alpha.5
 - babygod/kube-controller-manager-amd64:v1.18.0-alpha.5
 - babygod/kube-controller-manager:v1.18.0-alpha.5
 - babygod/kube-apiserver-s390x:v1.18.0-alpha.5
