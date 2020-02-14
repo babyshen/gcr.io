@@ -1,3 +1,7 @@
+-------------------------------at 2020-02-14 11:54:56 sync image repositorys-------------------------------
+- babygod/cluster-autoscaler:v1.15.5
+- babygod/cluster-autoscaler:v1.17.1
+- babygod/cluster-autoscaler:v1.16.4
 -------------------------------at 2020-02-13 11:59:17 sync image repositorys-------------------------------
 - babygod/kubelet-to-gcm:1.3.1
 - babygod/kube-scheduler-s390x:v1.18.0-alpha.5
