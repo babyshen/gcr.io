@@ -1,3 +1,12 @@
+-------------------------------at 2020-02-15 11:56:39 sync image repositorys-------------------------------
+- babygod/pause-s390x:3.2
+- babygod/pause-ppc64le:3.2
+- babygod/pause-arm64:3.2
+- babygod/pause-arm:3.2
+- babygod/pause-amd64:3.2
+- babygod/pause:3.2
+- babygod/custom-metrics-stackdriver-adapter:v0.10.2
+- babygod/coredns:1.6.7
 -------------------------------at 2020-02-14 11:54:56 sync image repositorys-------------------------------
 - babygod/cluster-autoscaler:v1.15.5
 - babygod/cluster-autoscaler:v1.17.1
