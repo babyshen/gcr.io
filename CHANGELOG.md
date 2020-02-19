@@ -1,3 +1,23 @@
+- babygod/hyperkube-arm64:v1.18.0-beta.0
+- babygod/hyperkube-arm64:v1.19.0-alpha.0
+- babygod/hyperkube-arm:v1.18.0-beta.0
+- babygod/hyperkube-arm:v1.19.0-alpha.0
+- babygod/hyperkube:v1.19.0-alpha.0
+- babygod/hyperkube-amd64:v1.18.0-beta.0
+- babygod/hyperkube-amd64:v1.19.0-alpha.0
+- babygod/hyperkube:v1.18.0-beta.0
+- babygod/conformance-s390x:v1.18.0-beta.0
+- babygod/conformance-s390x:v1.19.0-alpha.0
+- babygod/conformance-arm:v1.18.0-beta.0
+- babygod/conformance-arm64:v1.19.0-alpha.0
+- babygod/conformance-arm:v1.19.0-alpha.0
+- babygod/conformance-arm64:v1.18.0-beta.0
+- babygod/conformance-ppc64le:v1.19.0-alpha.0
+- babygod/conformance-ppc64le:v1.18.0-beta.0
+- babygod/conformance-amd64:v1.18.0-beta.0
+- babygod/conformance:v1.18.0-beta.0
+- babygod/conformance-amd64:v1.19.0-alpha.0
+- babygod/conformance:v1.19.0-alpha.0
 -------------------------------at 2020-02-15 11:56:39 sync image repositorys-------------------------------
 - babygod/pause-s390x:3.2
 - babygod/pause-ppc64le:3.2
