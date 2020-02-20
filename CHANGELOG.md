@@ -1,3 +1,9 @@
+-------------------------------at 2020-02-20 11:59:18 sync image repositorys-------------------------------
+- babygod/debian-base-s390x:v1.0.1
+- babygod/debian-base-ppc64le:v1.0.1
+- babygod/debian-base-arm64:v1.0.1
+- babygod/debian-base-arm:v1.0.1
+- babygod/debian-base-amd64:v1.0.1
 -------------------------------at 2020-02-19 12:11:22 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.18.0-beta.0
 - babygod/kube-scheduler-s390x:v1.19.0-alpha.0
