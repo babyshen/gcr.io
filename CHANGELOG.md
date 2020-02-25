@@ -1,3 +1,12 @@
+-------------------------------at 2020-02-25 12:17:38 sync image repositorys-------------------------------
+- babygod/kube-state-metrics-s390x:v1.9.5
+- babygod/kube-state-metrics-ppc64le:v1.9.5
+- babygod/kube-state-metrics-arm64:v1.9.5
+- babygod/kube-state-metrics-arm:v1.9.5
+- babygod/kube-state-metrics:v1.9.5
+- babygod/kube-state-metrics-amd64:v1.9.5
+- babygod/ingress-gce-glbc-amd64:v1.8.2
+- babygod/ingress-gce-glbc-amd64:v1.7.3
 -------------------------------at 2020-02-20 11:59:18 sync image repositorys-------------------------------
 - babygod/debian-base-s390x:v1.0.1
 - babygod/debian-base-ppc64le:v1.0.1
