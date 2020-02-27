@@ -1,3 +1,23 @@
+- babygod/kube-controller-manager-amd64:v1.18.0-beta.1
+- babygod/kube-controller-manager:v1.18.0-beta.1
+- babygod/kube-apiserver-s390x:v1.18.0-beta.1
+- babygod/kube-apiserver-ppc64le:v1.18.0-beta.1
+- babygod/kube-apiserver-arm64:v1.18.0-beta.1
+- babygod/kube-apiserver-arm:v1.18.0-beta.1
+- babygod/kube-apiserver-amd64:v1.18.0-beta.1
+- babygod/kube-apiserver:v1.18.0-beta.1
+- babygod/hyperkube-s390x:v1.18.0-beta.1
+- babygod/hyperkube-ppc64le:v1.18.0-beta.1
+- babygod/hyperkube-arm64:v1.18.0-beta.1
+- babygod/hyperkube-arm:v1.18.0-beta.1
+- babygod/hyperkube:v1.18.0-beta.1
+- babygod/hyperkube-amd64:v1.18.0-beta.1
+- babygod/conformance-arm64:v1.18.0-beta.1
+- babygod/conformance-s390x:v1.18.0-beta.1
+- babygod/conformance-ppc64le:v1.18.0-beta.1
+- babygod/conformance-arm:v1.18.0-beta.1
+- babygod/conformance-amd64:v1.18.0-beta.1
+- babygod/conformance:v1.18.0-beta.1
 -------------------------------at 2020-02-25 12:17:38 sync image repositorys-------------------------------
 - babygod/kube-state-metrics-s390x:v1.9.5
 - babygod/kube-state-metrics-ppc64le:v1.9.5
