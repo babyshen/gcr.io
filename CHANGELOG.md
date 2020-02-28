@@ -1,3 +1,16 @@
+-------------------------------at 2020-02-28 11:59:13 sync image repositorys-------------------------------
+- babygod/nginx-ingress-controller-ppc64le:0.9.0-beta.9
+- babygod/node-problem-detector:v0.8.1
+- babygod/nginx-ingress-controller-arm:0.9.0-beta.9
+- babygod/nginx-ingress-controller:0.9.0-beta.9
+- babygod/nginx-ingress-controller-amd64:0.9.0-beta.9
+- babygod/ingress-gce-glbc-amd64:v1.6.2
+- babygod/hpa-example2:latest
+- babygod/etcd-amd64:3.1.2
+- babygod/etcd-version-monitor:0.1.2-rc.0
+- babygod/etcd-empty-dir-cleanup:3.2.18-0
+- babygod/custom-metrics-stackdriver-adapter:v1.0
+- babygod/cadvisor:v.25.0
 -------------------------------at 2020-02-27 12:07:44 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.18.0-beta.1
 - babygod/kube-scheduler-ppc64le:v1.18.0-beta.1
