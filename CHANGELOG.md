@@ -1,3 +1,6 @@
+-------------------------------at 2020-02-29 12:00:24 sync image repositorys-------------------------------
+- babygod/toolbox:latest
+- babygod/cadvisor:latest
 -------------------------------at 2020-02-28 11:59:13 sync image repositorys-------------------------------
 - babygod/nginx-ingress-controller-ppc64le:0.9.0-beta.9
 - babygod/node-problem-detector:v0.8.1
