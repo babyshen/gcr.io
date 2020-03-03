@@ -1,3 +1,6 @@
+-------------------------------at 2020-03-03 12:00:37 sync image repositorys-------------------------------
+- babygod/prometheus-to-sd:v0.9.1
+- babygod/cadvisor:v0.36.0
 -------------------------------at 2020-03-01 12:00:05 sync image repositorys-------------------------------
 - babygod/cadvisor:latest
 -------------------------------at 2020-02-29 12:00:24 sync image repositorys-------------------------------
