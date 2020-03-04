@@ -1,3 +1,13 @@
+-------------------------------at 2020-03-04 12:04:12 sync image repositorys-------------------------------
+- babygod/prometheus-to-sd:v0.9.2
+- babygod/kube-dns-perf-client-amd64:2.0
+- babygod/debian-iptables-ppc64le:v11.0.3
+- babygod/debian-iptables-s390x:v11.0.3
+- babygod/debian-iptables-arm64:v11.0.3
+- babygod/debian-iptables-arm:v11.0.3
+- babygod/debian-iptables:v11.0.3
+- babygod/debian-iptables-amd64:v11.0.3
+- babygod/cluster-autoscaler:v1.18.0-beta.0
 -------------------------------at 2020-03-03 12:00:37 sync image repositorys-------------------------------
 - babygod/prometheus-to-sd:v0.9.1
 - babygod/cadvisor:v0.36.0
