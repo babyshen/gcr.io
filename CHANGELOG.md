@@ -1,3 +1,10 @@
+-------------------------------at 2020-03-05 12:01:30 sync image repositorys-------------------------------
+- babygod/vpa-admission-controller:0.7.0
+- babygod/vpa-updater:0.7.0
+- babygod/addon-resizer-ppc64le:2.3
+- babygod/addon-resizer-s390x:2.3
+- babygod/addon-resizer-arm64:2.3
+- babygod/addon-resizer-amd64:2.3
 -------------------------------at 2020-03-04 12:04:12 sync image repositorys-------------------------------
 - babygod/prometheus-to-sd:v0.9.2
 - babygod/kube-dns-perf-client-amd64:2.0
