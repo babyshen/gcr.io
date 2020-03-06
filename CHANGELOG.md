@@ -1,3 +1,8 @@
+-------------------------------at 2020-03-06 12:25:42 sync image repositorys-------------------------------
+- babygod/k8s-dns-sidecar-arm:1.15.10
+- babygod/k8s-dns-sidecar-s390x:1.15.10
+- babygod/k8s-dns-sidecar-ppc64le:1.15.10
+- babygod/k8s-dns-sidecar-arm64:1.15.10
 - babygod/k8s-dns-sidecar:1.15.10
 - babygod/k8s-dns-node-cache-s390x:1.15.10
 - babygod/k8s-dns-node-cache:1.15.10
