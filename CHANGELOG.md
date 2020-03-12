@@ -1,3 +1,6 @@
+-------------------------------at 2020-03-12 12:08:37 sync image repositorys-------------------------------
+- babygod/ingress-gce-glbc-amd64:v1.6.3
+- babygod/cluster-autoscaler:v1.18.0-beta.1
 -------------------------------at 2020-03-11 12:13:51 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.18.0-beta.2
 - babygod/kube-scheduler-ppc64le:v1.18.0-beta.2
