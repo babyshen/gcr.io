@@ -1,3 +1,23 @@
+- babygod/conformance:v1.17.5-beta.0
+- babygod/conformance-amd64:v1.15.12-beta.0
+- babygod/conformance:v1.15.12-beta.0
+- babygod/conformance:v1.16.8
+- babygod/conformance:v1.17.4
+- babygod/conformance:v1.15.11
+- babygod/conformance:v1.16.9-beta.0
+- babygod/cloud-controller-manager-s390x:v1.15.11
+- babygod/cloud-controller-manager-s390x:v1.15.12-beta.0
+- babygod/cluster-autoscaler:v1.18.0
+- babygod/cloud-controller-manager-ppc64le:v1.15.11
+- babygod/cloud-controller-manager-ppc64le:v1.15.12-beta.0
+- babygod/cloud-controller-manager-arm64:v1.15.11
+- babygod/cloud-controller-manager-arm64:v1.15.12-beta.0
+- babygod/cloud-controller-manager-arm:v1.15.12-beta.0
+- babygod/cloud-controller-manager:v1.15.11
+- babygod/cloud-controller-manager-arm:v1.15.11
+- babygod/cloud-controller-manager-amd64:v1.15.11
+- babygod/cloud-controller-manager:v1.15.12-beta.0
+- babygod/cloud-controller-manager-amd64:v1.15.12-beta.0
 -------------------------------at 2020-03-12 12:08:37 sync image repositorys-------------------------------
 - babygod/ingress-gce-glbc-amd64:v1.6.3
 - babygod/cluster-autoscaler:v1.18.0-beta.1
