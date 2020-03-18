@@ -1,3 +1,4 @@
+-------------------------------at 2020-03-18 12:20:04 sync image repositorys-------------------------------
 - babygod/ubuntu-nvidia-driver-installer:97dad60fbfc0feab9784d2ce1f2578e8fd1050aa
 - babygod/nvidia-gpu-device-plugin:97dad60fbfc0feab9784d2ce1f2578e8fd1050aa
 - babygod/managed-certificate-controller:v0.4.1
