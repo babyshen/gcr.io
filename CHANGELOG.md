@@ -1,3 +1,22 @@
+- babygod/k8s-dns-sidecar:1.15.11
+- babygod/k8s-dns-node-cache-s390x:1.15.11
+- babygod/k8s-dns-node-cache-arm64:1.15.11
+- babygod/k8s-dns-node-cache-ppc64le:1.15.11
+- babygod/k8s-dns-node-cache-arm:1.15.11
+- babygod/k8s-dns-node-cache-amd64:1.15.11
+- babygod/k8s-dns-node-cache:1.15.11
+- babygod/k8s-dns-dnsmasq-nanny-s390x:1.15.11
+- babygod/k8s-dns-kube-dns-ppc64le:1.15.11
+- babygod/k8s-dns-kube-dns-arm64:1.15.11
+- babygod/k8s-dns-dnsmasq-nanny-ppc64le:1.15.11
+- babygod/k8s-dns-kube-dns-arm:1.15.11
+- babygod/k8s-dns-kube-dns-amd64:1.15.11
+- babygod/k8s-dns-kube-dns:1.15.11
+- babygod/k8s-dns-dnsmasq-nanny-arm:1.15.11
+- babygod/k8s-dns-dnsmasq-nanny-arm64:1.15.11
+- babygod/k8s-dns-dnsmasq-nanny-amd64:1.15.11
+- babygod/k8s-dns-dnsmasq-nanny:1.15.11
+- babygod/ingress-gce-glbc-amd64:v1.9.1
 -------------------------------at 2020-03-18 12:20:04 sync image repositorys-------------------------------
 - babygod/ubuntu-nvidia-driver-installer:97dad60fbfc0feab9784d2ce1f2578e8fd1050aa
 - babygod/nvidia-gpu-device-plugin:97dad60fbfc0feab9784d2ce1f2578e8fd1050aa
