@@ -1,3 +1,16 @@
+-------------------------------at 2020-03-24 13:23:30 sync image repositorys-------------------------------
+- babygod/etcd-ppc64le:3.4.4
+- babygod/etcd-ppc64le:3.4.4-0
+- babygod/etcd-s390x:3.4.4-0
+- babygod/etcd-arm:3.4.4-0
+- babygod/etcd-arm:3.4.4
+- babygod/etcd-arm64:3.4.4-0
+- babygod/etcd-arm64:3.4.4
+- babygod/etcd:3.4.4-0
+- babygod/etcd:3.4.4
+- babygod/etcd-amd64:3.4.4-0
+- babygod/etcd-amd64:3.4.4
+- babygod/etcd-empty-dir-cleanup:3.4.4.0
 -------------------------------at 2020-03-20 12:31:27 sync image repositorys-------------------------------
 - babygod/managed-certificate-controller:v0.4.2
 - babygod/k8s-dns-sidecar-s390x:1.15.11
