@@ -1,3 +1,23 @@
+- babygod/hyperkube:v1.18.0
+- babygod/hyperkube:v1.18.1-beta.0
+- babygod/conformance-s390x:v1.18.0
+- babygod/conformance-s390x:v1.18.1-beta.0
+- babygod/conformance-s390x:v1.19.0-alpha.1
+- babygod/conformance-ppc64le:v1.18.0
+- babygod/conformance-ppc64le:v1.18.1-beta.0
+- babygod/conformance-ppc64le:v1.19.0-alpha.1
+- babygod/conformance-arm64:v1.18.0
+- babygod/conformance-arm64:v1.18.1-beta.0
+- babygod/conformance-arm:v1.18.0
+- babygod/conformance-arm64:v1.19.0-alpha.1
+- babygod/conformance-arm:v1.18.1-beta.0
+- babygod/conformance-arm:v1.19.0-alpha.1
+- babygod/conformance:v1.19.0-alpha.1
+- babygod/conformance-amd64:v1.19.0-alpha.1
+- babygod/conformance-amd64:v1.18.1-beta.0
+- babygod/conformance:v1.18.1-beta.0
+- babygod/conformance:v1.18.0
+- babygod/conformance-amd64:v1.18.0
 -------------------------------at 2020-03-24 13:23:30 sync image repositorys-------------------------------
 - babygod/etcd-ppc64le:3.4.4
 - babygod/etcd-ppc64le:3.4.4-0
