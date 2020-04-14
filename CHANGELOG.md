@@ -1,3 +1,17 @@
+-------------------------------at 2020-04-14 13:51:17 sync image repositorys-------------------------------
+- babygod/toolbox:latest
+- babygod/etcd-s390x:3.4.7
+- babygod/etcd-s390x:3.4.7-0
+- babygod/etcd-ppc64le:3.4.7
+- babygod/etcd-ppc64le:3.4.7-0
+- babygod/etcd-arm64:3.4.7-0
+- babygod/etcd-arm64:3.4.7
+- babygod/etcd-arm:3.4.7-0
+- babygod/etcd-arm:3.4.7
+- babygod/etcd:3.4.7
+- babygod/etcd:3.4.7-0
+- babygod/etcd-amd64:3.4.7
+- babygod/etcd-empty-dir-cleanup:3.4.7.0
 -------------------------------at 2020-04-09 13:48:20 sync image repositorys-------------------------------
 - babygod/toolbox:latest
 - babygod/toolbox:20200404-00
