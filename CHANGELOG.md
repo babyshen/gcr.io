@@ -1,3 +1,23 @@
+- babygod/conformance-arm:v1.17.5
+- babygod/conformance-arm:v1.16.9
+- babygod/conformance-arm:v1.17.6-beta.0
+- babygod/conformance-arm64:v1.16.10-beta.0
+- babygod/conformance-arm:v1.16.10-beta.0
+- babygod/conformance-amd64:v1.17.6-beta.0
+- babygod/conformance-amd64:v1.16.9
+- babygod/conformance:v1.17.6-beta.0
+- babygod/conformance:v1.16.9
+- babygod/conformance-amd64:v1.17.5
+- babygod/conformance:v1.17.5
+- babygod/conformance-amd64:v1.16.10-beta.0
+- babygod/conformance:v1.16.10-beta.0
+- babygod/conformance-arm64:v1.18.3-beta.0
+- babygod/conformance-arm:v1.18.2
+- babygod/conformance-arm:v1.18.3-beta.0
+- babygod/conformance:v1.18.2
+- babygod/conformance-amd64:v1.18.2
+- babygod/conformance:v1.18.3-beta.0
+- babygod/conformance-amd64:v1.18.3-beta.0
 -------------------------------at 2020-04-14 13:51:17 sync image repositorys-------------------------------
 - babygod/toolbox:latest
 - babygod/etcd-s390x:3.4.7
