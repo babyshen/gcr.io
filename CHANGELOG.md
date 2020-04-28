@@ -1,3 +1,5 @@
+-------------------------------at 2020-04-28 13:57:15 sync image repositorys-------------------------------
+- babygod/cpvpa-amd64:v0.8.2
 -------------------------------at 2020-04-22 13:55:47 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.19.0-alpha.2
 - babygod/kube-scheduler-ppc64le:v1.19.0-alpha.2
