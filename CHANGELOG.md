@@ -1,3 +1,23 @@
+- babygod/conformance-arm64:v1.15.13-beta.0
+- babygod/conformance-arm64:v1.15.12
+- babygod/conformance-arm:v1.15.12
+- babygod/conformance-arm:v1.15.13-beta.0
+- babygod/conformance-amd64:v1.15.13-beta.0
+- babygod/conformance:v1.15.13-beta.0
+- babygod/conformance-amd64:v1.15.12
+- babygod/conformance:v1.15.12
+- babygod/cloud-controller-manager-s390x:v1.15.13-beta.0
+- babygod/cloud-controller-manager-s390x:v1.15.12
+- babygod/cloud-controller-manager-ppc64le:v1.15.13-beta.0
+- babygod/cloud-controller-manager-ppc64le:v1.15.12
+- babygod/cloud-controller-manager-arm64:v1.15.12
+- babygod/cloud-controller-manager-arm:v1.15.13-beta.0
+- babygod/cloud-controller-manager-arm64:v1.15.13-beta.0
+- babygod/cloud-controller-manager-arm:v1.15.12
+- babygod/cloud-controller-manager:v1.15.13-beta.0
+- babygod/cloud-controller-manager:v1.15.12
+- babygod/cloud-controller-manager-amd64:v1.15.12
+- babygod/cloud-controller-manager-amd64:v1.15.13-beta.0
 -------------------------------at 2020-05-06 14:05:56 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.19.0-alpha.3
 - babygod/kube-scheduler-ppc64le:v1.19.0-alpha.3
