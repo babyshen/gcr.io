@@ -1,3 +1,6 @@
+-------------------------------at 2020-05-29 14:13:48 sync image repositorys-------------------------------
+- babygod/cpvpa-amd64:v0.8.3
+- babygod/addon-resizer:1.8.9
 -------------------------------at 2020-05-21 14:45:04 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.16.10
 - babygod/kube-scheduler-s390x:v1.16.11-rc.0
