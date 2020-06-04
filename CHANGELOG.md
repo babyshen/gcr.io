@@ -1,3 +1,16 @@
+-------------------------------at 2020-06-04 14:25:56 sync image repositorys-------------------------------
+- babygod/toolbox:20200603-00
+- babygod/node-problem-detector:v0.8.2
+- babygod/kube-scheduler-s390x:v1.19.0-beta.1
+- babygod/kube-scheduler-ppc64le:v1.19.0-beta.1
+- babygod/kube-scheduler-arm64:v1.19.0-beta.1
+- babygod/kube-scheduler-arm:v1.19.0-beta.1
+- babygod/kube-scheduler-amd64:v1.19.0-beta.1
+- babygod/kube-scheduler:v1.19.0-beta.1
+- babygod/kube-proxy-s390x:v1.19.0-beta.1
+- babygod/kube-proxy-ppc64le:v1.19.0-beta.1
+- babygod/kube-proxy-arm64:v1.19.0-beta.1
+- babygod/kube-proxy-arm:v1.19.0-beta.1
 - babygod/kube-proxy-amd64:v1.19.0-beta.1
 - babygod/kube-proxy:v1.19.0-beta.1
 - babygod/kube-controller-manager-s390x:v1.19.0-beta.1
