@@ -1,3 +1,5 @@
+-------------------------------at 2020-06-05 15:46:45 sync image repositorys-------------------------------
+- babygod/addon-resizer:1.8.10
 -------------------------------at 2020-06-04 14:25:56 sync image repositorys-------------------------------
 - babygod/toolbox:20200603-00
 - babygod/node-problem-detector:v0.8.2
