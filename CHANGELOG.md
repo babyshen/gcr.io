@@ -1,3 +1,23 @@
+- babygod/kube-controller-manager-arm64:v1.19.0-beta.2
+- babygod/kube-controller-manager-arm:v1.19.0-beta.2
+- babygod/kube-controller-manager:v1.19.0-beta.2
+- babygod/kube-controller-manager-amd64:v1.19.0-beta.2
+- babygod/kube-apiserver-s390x:v1.19.0-beta.2
+- babygod/kube-apiserver-ppc64le:v1.19.0-beta.2
+- babygod/kube-apiserver-arm64:v1.19.0-beta.2
+- babygod/kube-apiserver-arm:v1.19.0-beta.2
+- babygod/kube-apiserver:v1.19.0-beta.2
+- babygod/kube-apiserver-amd64:v1.19.0-beta.2
+- babygod/conformance-s390x:v1.19.0-beta.2
+- babygod/conformance-ppc64le:v1.19.0-beta.2
+- babygod/conformance-arm64:v1.19.0-beta.2
+- babygod/conformance-arm:v1.19.0-beta.2
+- babygod/conformance-amd64:v1.19.0-beta.2
+- babygod/conformance:v1.19.0-beta.2
+- babygod/cluster-proportional-autoscaler-ppc64le:1.8.1
+- babygod/cluster-proportional-autoscaler-arm64:1.8.1
+- babygod/cluster-proportional-autoscaler-arm:1.8.1
+- babygod/cluster-proportional-autoscaler-amd64:1.8.1
 -------------------------------at 2020-06-05 15:46:45 sync image repositorys-------------------------------
 - babygod/addon-resizer:1.8.10
 -------------------------------at 2020-06-04 14:25:56 sync image repositorys-------------------------------
