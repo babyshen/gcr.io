@@ -1,3 +1,23 @@
+- babygod/conformance-arm:v1.16.12
+- babygod/conformance-arm:v1.17.9-rc.0
+- babygod/conformance-arm:v1.17.8
+- babygod/conformance-arm64:v1.16.13-rc.0
+- babygod/conformance-arm:v1.16.13-rc.0
+- babygod/conformance-arm64:v1.18.6-rc.0
+- babygod/conformance-amd64:v1.16.13-rc.0
+- babygod/conformance:v1.16.13-rc.0
+- babygod/conformance-amd64:v1.16.12
+- babygod/conformance:v1.16.12
+- babygod/conformance-amd64:v1.17.8
+- babygod/conformance:v1.17.8
+- babygod/conformance-amd64:v1.18.6-rc.0
+- babygod/conformance-arm:v1.18.5
+- babygod/conformance-amd64:v1.17.9-rc.0
+- babygod/conformance:v1.17.9-rc.0
+- babygod/conformance-arm:v1.18.6-rc.0
+- babygod/conformance:v1.18.6-rc.0
+- babygod/conformance-amd64:v1.18.5
+- babygod/conformance:v1.18.5
 -------------------------------at 2020-06-26 14:57:23 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.18.5-rc.1
 - babygod/kube-scheduler-s390x:v1.17.8-rc.1
