@@ -1,3 +1,15 @@
+-------------------------------at 2020-07-08 14:57:53 sync image repositorys-------------------------------
+- babygod/etcd-s390x:3.4.9
+- babygod/etcd-s390x:3.4.9-1
+- babygod/etcd-ppc64le:3.4.9
+- babygod/etcd-arm64:3.4.9
+- babygod/etcd-arm64:3.4.9-1
+- babygod/etcd-arm:3.4.9
+- babygod/etcd-arm:3.4.9-1
+- babygod/etcd:3.4.9
+- babygod/etcd:3.4.9-1
+- babygod/etcd-amd64:3.4.9-1
+- babygod/etcd-amd64:3.4.9
 -------------------------------at 2020-06-27 15:09:50 sync image repositorys-------------------------------
 - babygod/kube-scheduler-s390x:v1.16.13-rc.0
 - babygod/kube-scheduler-s390x:v1.16.12
