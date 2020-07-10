@@ -1,3 +1,23 @@
+- babygod/kube-apiserver-arm64:v1.20.0-alpha.0
+- babygod/kube-apiserver-arm:v1.19.0-rc.0
+- babygod/kube-apiserver-arm:v1.20.0-alpha.0
+- babygod/kube-apiserver-amd64:v1.19.0-rc.0
+- babygod/kube-apiserver-amd64:v1.20.0-alpha.0
+- babygod/kube-apiserver:v1.19.0-rc.0
+- babygod/kube-apiserver:v1.20.0-alpha.0
+- babygod/conformance-s390x:v1.19.0-rc.0
+- babygod/conformance-s390x:v1.20.0-alpha.0
+- babygod/conformance-ppc64le:v1.19.0-rc.0
+- babygod/conformance-ppc64le:v1.20.0-alpha.0
+- babygod/conformance-arm64:v1.19.0-rc.0
+- babygod/conformance-arm64:v1.20.0-alpha.0
+- babygod/conformance-arm:v1.19.0-rc.0
+- babygod/conformance-arm:v1.20.0-alpha.0
+- babygod/conformance-amd64:v1.19.0-rc.0
+- babygod/conformance:v1.19.0-rc.0
+- babygod/conformance-amd64:v1.20.0-alpha.0
+- babygod/conformance:v1.20.0-alpha.0
+- babygod/addon-resizer:1.8.11
 -------------------------------at 2020-07-08 14:57:53 sync image repositorys-------------------------------
 - babygod/etcd-s390x:3.4.9
 - babygod/etcd-s390x:3.4.9-1
