@@ -1,3 +1,14 @@
+-------------------------------at 2020-11-24 18:05:37 sync image repositorys-------------------------------
+- babygod/ubuntu-nvidia-driver-installer:70475b8daccc58f87250692e8180387cd0cb0689
+- babygod/ubuntu-nvidia-driver-installer:ad4d99aa6d8cb805a36a468fd752b053f95d266f
+- babygod/ubuntu-nvidia-driver-installer:2c1acccd8eb2f5c43c6e660317b14edbdf78ff7f
+- babygod/ubuntu-nvidia-driver-installer:77dd9825553ccaad67044ff4fe4519caa715d1cf
+- babygod/ubuntu-nvidia-driver-installer:d9d1a71ce3e594156ca7c9d0004ad311acb00d4f
+- babygod/ubuntu-nvidia-driver-installer:37fa8d6f6bd8b12c149803f915a4b133e0f80c58
+- babygod/ubuntu-nvidia-driver-installer:1e33d0925cb2de1deb2d1c0f5d93aae977d86f90
+- babygod/ubuntu-nvidia-driver-installer:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c
+- babygod/ubuntu-nvidia-driver-installer:6ecae720ca49cf2db5fa0fa346426629c9740130
+- babygod/ubuntu-nvidia-driver-installer:2651e63a6f7fc3682923219fa94321674c046559
 - babygod/toolbox:20201104-00
 - babygod/ubuntu-nvidia-driver-installer:1739bdc5ed3bbd26a5323632d6774aef129c9b92
 - babygod/ubuntu-nvidia-driver-installer:7e584fa00b6a767f447cf5b556a366f859b8156c
