@@ -1,3 +1,23 @@
+- babygod/toolbox:20201104-00
+- babygod/ubuntu-nvidia-driver-installer:1739bdc5ed3bbd26a5323632d6774aef129c9b92
+- babygod/ubuntu-nvidia-driver-installer:7e584fa00b6a767f447cf5b556a366f859b8156c
+- babygod/ubuntu-nvidia-driver-installer:b1fb8bb4ab1aa6e811858eb85a0d0d955eb99c3a
+- babygod/ubuntu-nvidia-driver-installer:5062740f3792d6974c7225edf47be0c04512462f
+- babygod/ubuntu-nvidia-driver-installer:e04e429f45bb4a2d98e3da54ceedc0b57e97d272
+- babygod/nvidia-gpu-device-plugin:77dd9825553ccaad67044ff4fe4519caa715d1cf
+- babygod/nvidia-gpu-device-plugin:70475b8daccc58f87250692e8180387cd0cb0689
+- babygod/nvidia-gpu-device-plugin:6ecae720ca49cf2db5fa0fa346426629c9740130
+- babygod/nvidia-gpu-device-plugin:ad4d99aa6d8cb805a36a468fd752b053f95d266f
+- babygod/nvidia-gpu-device-plugin:1e33d0925cb2de1deb2d1c0f5d93aae977d86f90
+- babygod/nvidia-gpu-device-plugin:37fa8d6f6bd8b12c149803f915a4b133e0f80c58
+- babygod/nvidia-gpu-device-plugin:2c1acccd8eb2f5c43c6e660317b14edbdf78ff7f
+- babygod/nvidia-gpu-device-plugin:2651e63a6f7fc3682923219fa94321674c046559
+- babygod/nvidia-gpu-device-plugin:5062740f3792d6974c7225edf47be0c04512462f
+- babygod/nvidia-gpu-device-plugin:7e584fa00b6a767f447cf5b556a366f859b8156c
+- babygod/nvidia-gpu-device-plugin:e04e429f45bb4a2d98e3da54ceedc0b57e97d272
+- babygod/nvidia-gpu-device-plugin:1739bdc5ed3bbd26a5323632d6774aef129c9b92
+- babygod/nvidia-gpu-device-plugin:b1fb8bb4ab1aa6e811858eb85a0d0d955eb99c3a
+- babygod/ingress-gce-404-server-with-metrics-amd64:v1.10.11
 -------------------------------at 2020-07-16 15:25:37 sync image repositorys-------------------------------
 - babygod/toolbox:20200715-00
 - babygod/kube-scheduler-s390x:v1.18.7-rc.0
